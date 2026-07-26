@@ -15,17 +15,6 @@ body {
   border-radius: 12px;
 }
 
-h1 {
-  text-align: center;
-}
-
-select {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 8px;
-}
-
 textarea {
   width: 100%;
   height: 80px;
@@ -37,27 +26,12 @@ textarea {
 button {
   margin: 5px;
   padding: 10px;
-  border: none;
   border-radius: 8px;
+  border: none;
   background: #3b82f6;
   color: white;
 }
 
 .hidden {
   display: none;
-}
-
-#feedback {
-  margin-top: 10px;
-  font-weight: bold;
-}
-
-#explanation {
-  margin-top: 10px;
-  font-size: 0.9em;
-  color: #cbd5f5;
-}
-
-#score {
-  margin-top: 10px;
 }
