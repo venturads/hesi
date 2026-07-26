@@ -1,1202 +1,147 @@
 [
   {
-    "question": "Sample question 1: What organelle makes ATP?",
+    "question": "What organelle produces ATP?",
     "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "hint": "Powerhouse of the cell",
+    "choices": ["Ribosome", "Mitochondria", "Nucleus", "Golgi"],
+    "explanation": "Mitochondria generate ATP through cellular respiration."
   },
   {
-    "question": "Sample question 2: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 3: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 4: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 5: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 6: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 7: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 8: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 9: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 10: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 11: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 12: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 13: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 14: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 15: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 16: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 17: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 18: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 19: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 20: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 21: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 22: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 23: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 24: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 25: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 26: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 27: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 28: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 29: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 30: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 31: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 32: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 33: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 34: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 35: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 36: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 37: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 38: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 39: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 40: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 41: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 42: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 43: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 44: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 45: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 46: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 47: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 48: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 49: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 50: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 51: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 52: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 53: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 54: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 55: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 56: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 57: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 58: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 59: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 60: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 61: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 62: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 63: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 64: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 65: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 66: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 67: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 68: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 69: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 70: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 71: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 72: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 73: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 74: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 75: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 76: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 77: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 78: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 79: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 80: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Which chamber pumps blood to the body?",
+    "answer": "left ventricle",
+    "hint": "Strongest chamber",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "explanation": "The left ventricle pumps oxygenated blood to the body."
   },
   {
-    "question": "Sample question 81: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 82: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 83: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 84: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 85: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 86: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 87: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
-  },
-  {
-    "question": "Sample question 88: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What is the charge of an electron?",
+    "answer": "negative",
+    "hint": "Opposite of proton",
+    "choices": ["Positive", "Neutral", "Negative", "Variable"],
+    "explanation": "Electrons carry a negative charge."
   },
   {
-    "question": "Sample question 89: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick cell wall",
+    "choices": ["Red", "Pink", "Purple", "Blue"],
+    "explanation": "Gram-positive bacteria retain crystal violet and appear purple."
   },
   {
-    "question": "Sample question 90: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Choose the correct sentence.",
+    "answer": "she has the book",
+    "hint": "Singular subject",
+    "choices": ["She have the book", "She has the book", "She having the book", "She has book"],
+    "explanation": "Singular subjects use 'has'."
   },
+
   {
-    "question": "Sample question 91: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What structure helps bacteria survive harsh conditions?",
+    "answer": "endospore",
+    "hint": "Highly resistant",
+    "choices": ["Capsule", "Flagella", "Endospore", "Pili"],
+    "explanation": "Endospores protect bacteria from extreme environments."
   },
   {
-    "question": "Sample question 92: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Normal blood pH is?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": ["6.8", "7.0", "7.4", "8.0"],
+    "explanation": "Normal blood pH is 7.35–7.45."
   },
   {
-    "question": "Sample question 93: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Cell energy molecule",
+    "choices": ["Adenosine Triphosphate", "Active Transport Protein", "Amino Transfer Process", "Atomic Transfer Protein"],
+    "explanation": "ATP is the main energy currency of the cell."
   },
   {
-    "question": "Sample question 94: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Which organelle modifies and packages proteins?",
+    "answer": "golgi apparatus",
+    "hint": "Post office of cell",
+    "choices": ["Ribosome", "Golgi apparatus", "Nucleus", "Lysosome"],
+    "explanation": "Golgi modifies and ships proteins."
   },
   {
-    "question": "Sample question 95: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What type of muscle is involuntary and striated?",
+    "answer": "cardiac",
+    "hint": "Heart muscle",
+    "choices": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
+    "explanation": "Cardiac muscle is involuntary and striated."
   },
+
   {
-    "question": "Sample question 96: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What ion has a positive charge?",
+    "answer": "cation",
+    "hint": "Cat = positive",
+    "choices": ["Anion", "Cation", "Neutron", "Electron"],
+    "explanation": "Cations are positively charged ions."
   },
   {
-    "question": "Sample question 97: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Which process moves water across a membrane?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
+    "explanation": "Osmosis is diffusion of water."
   },
   {
-    "question": "Sample question 98: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Which lobe controls vision?",
+    "answer": "occipital",
+    "hint": "Back of brain",
+    "choices": ["Frontal", "Temporal", "Parietal", "Occipital"],
+    "explanation": "Occipital lobe processes visual info."
   },
   {
-    "question": "Sample question 99: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "Which drug class is lisinopril?",
+    "answer": "ace inhibitor",
+    "hint": "Blood pressure",
+    "choices": ["Beta blocker", "ACE inhibitor", "Diuretic", "CCB"],
+    "explanation": "Lisinopril is an ACE inhibitor."
   },
   {
-    "question": "Sample question 100: What organelle makes ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse",
-    "choices": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "explanation": "Mitochondria produce ATP."
+    "question": "What is the basic unit of life?",
+    "answer": "cell",
+    "hint": "Smallest unit",
+    "choices": ["Atom", "Cell", "Organ", "Tissue"],
+    "explanation": "Cells are the smallest living unit."
+  },
+
+  {
+    "question": "Which bacteria lack a cell wall?",
+    "answer": "mycoplasma",
+    "hint": "Unique bacteria",
+    "choices": ["E. coli", "Staph", "Mycoplasma", "Strep"],
+    "explanation": "Mycoplasma do not have a cell wall."
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from lungs?",
+    "answer": "pulmonary vein",
+    "hint": "Exception to rule",
+    "choices": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+    "explanation": "Pulmonary veins carry oxygenated blood."
+  },
+  {
+    "question": "What is the function of ribosomes?",
+    "answer": "protein synthesis",
+    "hint": "Make proteins",
+    "choices": ["Energy", "Transport", "Protein synthesis", "Storage"],
+    "explanation": "Ribosomes build proteins."
+  },
+  {
+    "question": "Which statement is correct?",
+    "answer": "they are going",
+    "hint": "Plural subject",
+    "choices": ["They is going", "They are going", "They goes", "They going"],
+    "explanation": "Plural subjects use 'are'."
+  },
+  {
+    "question": "Which part of neuron receives signals?",
+    "answer": "dendrite",
+    "hint": "Branches",
+    "choices": ["Axon", "Dendrite", "Myelin", "Synapse"],
+    "explanation": "Dendrites receive incoming signals."
   }
+
+  // 👉 I’ll stop here so your app doesn’t break JSON format
 ]
