@@ -58,14 +58,26 @@ function showHint() {
 function showChoices() {
   const div = document.getElementById("choices");
   div.innerHTML = "";
-  questions[current].choices.forEach(c => {
+  const q = questions[current];
+
+  // ensure correct answer is included
+  let choices = [...q.choices];
+  if (!choices.includes(q.answer)) {
+    choices[0] = q.answer;
+  }
+
+  choices = shuffle(choices);
+
+  choices.forEach(c => {
     const btn = document.createElement("button");
+    btn.className = "choice-btn";
     btn.innerText = c;
     btn.onclick = () => {
       document.getElementById("user-answer").value = c;
     };
     div.appendChild(btn);
   });
+
   div.classList.remove("hidden");
 }
 

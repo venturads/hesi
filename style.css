@@ -28,4 +28,10 @@ button {
   background: #3b82f6;
   color: white;
 }
+.choice-btn {
+  display: block;
+  width: 100%;
+  margin-top: 5px;
+  background: #2563eb;
+}
 .hidden { display: none; }
