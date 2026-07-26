@@ -6,7 +6,6 @@ body {
   justify-content: center;
   padding: 20px;
 }
-
 .app {
   max-width: 420px;
   width: 100%;
@@ -14,7 +13,6 @@ body {
   padding: 20px;
   border-radius: 12px;
 }
-
 textarea {
   width: 100%;
   height: 80px;
@@ -22,7 +20,6 @@ textarea {
   border-radius: 8px;
   padding: 10px;
 }
-
 button {
   margin: 5px;
   padding: 10px;
@@ -31,7 +28,4 @@ button {
   background: #3b82f6;
   color: white;
 }
-
-.hidden {
-  display: none;
-}
+.hidden { display: none; }

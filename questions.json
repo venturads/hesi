@@ -1,147 +1,1202 @@
 [
   {
-    "question": "What organelle produces ATP?",
-    "answer": "mitochondria",
-    "hint": "Powerhouse of the cell",
-    "choices": ["Ribosome", "Mitochondria", "Nucleus", "Golgi"],
-    "explanation": "Mitochondria generate ATP through cellular respiration."
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
   },
   {
-    "question": "Which chamber pumps blood to the body?",
-    "answer": "left ventricle",
-    "hint": "Strongest chamber",
-    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
-    "explanation": "The left ventricle pumps oxygenated blood to the body."
-  },
-  {
-    "question": "What is the charge of an electron?",
+    "question": "What is the charge of electron?",
     "answer": "negative",
-    "hint": "Opposite of proton",
-    "choices": ["Positive", "Neutral", "Negative", "Variable"],
-    "explanation": "Electrons carry a negative charge."
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
   },
   {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "Thick cell wall",
-    "choices": ["Red", "Pink", "Purple", "Blue"],
-    "explanation": "Gram-positive bacteria retain crystal violet and appear purple."
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
   },
   {
-    "question": "Choose the correct sentence.",
-    "answer": "she has the book",
-    "hint": "Singular subject",
-    "choices": ["She have the book", "She has the book", "She having the book", "She has book"],
-    "explanation": "Singular subjects use 'has'."
-  },
-
-  {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "Highly resistant",
-    "choices": ["Capsule", "Flagella", "Endospore", "Pili"],
-    "explanation": "Endospores protect bacteria from extreme environments."
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
   },
   {
-    "question": "Normal blood pH is?",
-    "answer": "7.4",
-    "hint": "Slightly basic",
-    "choices": ["6.8", "7.0", "7.4", "8.0"],
-    "explanation": "Normal blood pH is 7.35–7.45."
+    "question": "Which chamber pumps blood to body?",
+    "answer": "left ventricle",
+    "hint": "Strongest",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Left ventricle pumps body."
   },
   {
     "question": "What does ATP stand for?",
     "answer": "adenosine triphosphate",
-    "hint": "Cell energy molecule",
-    "choices": ["Adenosine Triphosphate", "Active Transport Protein", "Amino Transfer Process", "Atomic Transfer Protein"],
-    "explanation": "ATP is the main energy currency of the cell."
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
   },
   {
-    "question": "Which organelle modifies and packages proteins?",
-    "answer": "golgi apparatus",
-    "hint": "Post office of cell",
-    "choices": ["Ribosome", "Golgi apparatus", "Nucleus", "Lysosome"],
-    "explanation": "Golgi modifies and ships proteins."
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
   },
   {
-    "question": "What type of muscle is involuntary and striated?",
-    "answer": "cardiac",
-    "hint": "Heart muscle",
-    "choices": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
-    "explanation": "Cardiac muscle is involuntary and striated."
-  },
-
-  {
-    "question": "What ion has a positive charge?",
-    "answer": "cation",
-    "hint": "Cat = positive",
-    "choices": ["Anion", "Cation", "Neutron", "Electron"],
-    "explanation": "Cations are positively charged ions."
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
   },
   {
-    "question": "Which process moves water across a membrane?",
+    "question": "Which chamber pumps blood to body?",
+    "answer": "left ventricle",
+    "hint": "Strongest",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Left ventricle pumps body."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What process moves water?",
     "answer": "osmosis",
     "hint": "Water movement",
-    "choices": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
-    "explanation": "Osmosis is diffusion of water."
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
   },
   {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "Back of brain",
-    "choices": ["Frontal", "Temporal", "Parietal", "Occipital"],
-    "explanation": "Occipital lobe processes visual info."
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
   },
   {
-    "question": "Which drug class is lisinopril?",
-    "answer": "ace inhibitor",
-    "hint": "Blood pressure",
-    "choices": ["Beta blocker", "ACE inhibitor", "Diuretic", "CCB"],
-    "explanation": "Lisinopril is an ACE inhibitor."
+    "question": "Which chamber pumps blood to body?",
+    "answer": "left ventricle",
+    "hint": "Strongest",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Left ventricle pumps body."
   },
   {
-    "question": "What is the basic unit of life?",
-    "answer": "cell",
-    "hint": "Smallest unit",
-    "choices": ["Atom", "Cell", "Organ", "Tissue"],
-    "explanation": "Cells are the smallest living unit."
-  },
-
-  {
-    "question": "Which bacteria lack a cell wall?",
-    "answer": "mycoplasma",
-    "hint": "Unique bacteria",
-    "choices": ["E. coli", "Staph", "Mycoplasma", "Strep"],
-    "explanation": "Mycoplasma do not have a cell wall."
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
   },
   {
-    "question": "Which blood vessel carries oxygenated blood from lungs?",
-    "answer": "pulmonary vein",
-    "hint": "Exception to rule",
-    "choices": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
-    "explanation": "Pulmonary veins carry oxygenated blood."
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
   },
   {
-    "question": "What is the function of ribosomes?",
-    "answer": "protein synthesis",
-    "hint": "Make proteins",
-    "choices": ["Energy", "Transport", "Protein synthesis", "Storage"],
-    "explanation": "Ribosomes build proteins."
+    "question": "Which chamber pumps blood to body?",
+    "answer": "left ventricle",
+    "hint": "Strongest",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Left ventricle pumps body."
   },
   {
-    "question": "Which statement is correct?",
-    "answer": "they are going",
-    "hint": "Plural subject",
-    "choices": ["They is going", "They are going", "They goes", "They going"],
-    "explanation": "Plural subjects use 'are'."
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
   },
   {
-    "question": "Which part of neuron receives signals?",
-    "answer": "dendrite",
-    "hint": "Branches",
-    "choices": ["Axon", "Dendrite", "Myelin", "Synapse"],
-    "explanation": "Dendrites receive incoming signals."
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "What process moves water?",
+    "answer": "osmosis",
+    "hint": "Water movement",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Osmosis moves water."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "What does ATP stand for?",
+    "answer": "adenosine triphosphate",
+    "hint": "Energy molecule",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "ATP is energy."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "What is the normal blood pH?",
+    "answer": "7.4",
+    "hint": "Slightly basic",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Normal pH is 7.35-7.45."
+  },
+  {
+    "question": "What is the charge of electron?",
+    "answer": "negative",
+    "hint": "Opposite proton",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Electron is negative."
+  },
+  {
+    "question": "Which drug is ACE inhibitor?",
+    "answer": "lisinopril",
+    "hint": "BP med",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Lisinopril is ACE inhibitor."
+  },
+  {
+    "question": "What type muscle is involuntary?",
+    "answer": "smooth",
+    "hint": "Not skeletal",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Smooth muscle involuntary."
+  },
+  {
+    "question": "What organelle produces ATP?",
+    "answer": "mitochondria",
+    "hint": "Powerhouse",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Mitochondria produce ATP."
+  },
+  {
+    "question": "Which organelle makes proteins?",
+    "answer": "ribosome",
+    "hint": "Protein maker",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Ribosomes build protein."
+  },
+  {
+    "question": "Gram-positive bacteria stain what color?",
+    "answer": "purple",
+    "hint": "Thick wall",
+    "choices": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "explanation": "Gram-positive stain purple."
   }
-
-  // 👉 I’ll stop here so your app doesn’t break JSON format
 ]
