@@ -1,1202 +1,156 @@
 [
   {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
+    "topic": "Microbiology",
+    "question": "What structure allows bacteria to move?",
+    "options": ["Flagellum", "Capsule", "Cell wall", "Ribosome"],
+    "answer": "Flagellum"
   },
   {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
+    "topic": "Microbiology",
+    "question": "What color are Gram-positive bacteria after staining?",
+    "options": ["Purple", "Pink", "Red", "Blue"],
+    "answer": "Purple"
   },
   {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
+    "topic": "Microbiology",
+    "question": "Which structure protects bacteria from drying out?",
+    "options": ["Capsule", "Nucleus", "Mitochondria", "Golgi"],
+    "answer": "Capsule"
   },
   {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
+    "topic": "Microbiology",
+    "question": "What phase shows rapid bacterial growth?",
+    "options": ["Log phase", "Lag phase", "Death phase", "Stationary phase"],
+    "answer": "Log phase"
   },
   {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
+    "topic": "Microbiology",
+    "question": "Viruses reproduce by using what?",
+    "options": ["Host cell", "Ribosome", "ATP", "Nucleus"],
+    "answer": "Host cell"
   },
+
   {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
+    "topic": "Anatomy",
+    "question": "Which chamber pumps blood to the body?",
+    "options": ["Left ventricle", "Right atrium", "Left atrium", "Right ventricle"],
+    "answer": "Left ventricle"
   },
   {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
+    "topic": "Anatomy",
+    "question": "How many cervical vertebrae are there?",
+    "options": ["7", "12", "5", "10"],
+    "answer": "7"
   },
   {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
+    "topic": "Anatomy",
+    "question": "What bone is known as the collarbone?",
+    "options": ["Clavicle", "Scapula", "Femur", "Tibia"],
+    "answer": "Clavicle"
   },
   {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
+    "topic": "Anatomy",
+    "question": "Which organ pumps blood?",
+    "options": ["Heart", "Lungs", "Kidney", "Liver"],
+    "answer": "Heart"
   },
   {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
+    "topic": "Anatomy",
+    "question": "What type of muscle is voluntary?",
+    "options": ["Skeletal", "Smooth", "Cardiac", "Involuntary"],
+    "answer": "Skeletal"
   },
+
   {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
+    "topic": "Chemistry",
+    "question": "What particle has a negative charge?",
+    "options": ["Electron", "Proton", "Neutron", "Nucleus"],
+    "answer": "Electron"
   },
   {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
+    "topic": "Chemistry",
+    "question": "Atomic number equals what?",
+    "options": ["Protons", "Neutrons", "Electrons", "Mass"],
+    "answer": "Protons"
   },
   {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
+    "topic": "Chemistry",
+    "question": "What is pH less than 7?",
+    "options": ["Acid", "Base", "Neutral", "Salt"],
+    "answer": "Acid"
   },
   {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
+    "topic": "Chemistry",
+    "question": "Water is what type of molecule?",
+    "options": ["Polar", "Nonpolar", "Neutral", "Ionic"],
+    "answer": "Polar"
   },
   {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
+    "topic": "Chemistry",
+    "question": "ATP is used for what?",
+    "options": ["Energy", "Structure", "Storage", "Transport"],
+    "answer": "Energy"
   },
+
   {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
+    "topic": "Grammar",
+    "question": "Choose the correct sentence.",
+    "options": ["She is going home.", "She are going home.", "She going home.", "She be going home."],
+    "answer": "She is going home."
   },
   {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
+    "topic": "Grammar",
+    "question": "Which is correct?",
+    "options": ["An apple", "A apple", "The apple", "Apple"],
+    "answer": "An apple"
   },
   {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
+    "topic": "Grammar",
+    "question": "Choose the correct word: ___ going to the store.",
+    "options": ["You're", "Your", "Yours", "You"],
+    "answer": "You're"
   },
   {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
+    "topic": "Grammar",
+    "question": "Which is a past tense verb?",
+    "options": ["Walked", "Walk", "Walking", "Walks"],
+    "answer": "Walked"
   },
   {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
+    "topic": "Grammar",
+    "question": "Which is correct?",
+    "options": ["The information is useful.", "The informations are useful.", "Information are useful.", "Informations is useful."],
+    "answer": "The information is useful."
   },
+
   {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
+    "topic": "Pharmacology",
+    "question": "What does lisinopril treat?",
+    "options": ["Hypertension", "Diabetes", "Pain", "Infection"],
+    "answer": "Hypertension"
   },
   {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
+    "topic": "Pharmacology",
+    "question": "What drug is a bronchodilator?",
+    "options": ["Albuterol", "Insulin", "Aspirin", "Metformin"],
+    "answer": "Albuterol"
   },
   {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
+    "topic": "Pharmacology",
+    "question": "What does insulin lower?",
+    "options": ["Blood sugar", "Blood pressure", "Heart rate", "Oxygen"],
+    "answer": "Blood sugar"
   },
   {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
+    "topic": "Pharmacology",
+    "question": "What class is losartan?",
+    "options": ["ARB", "ACE inhibitor", "Beta blocker", "Diuretic"],
+    "answer": "ARB"
   },
   {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "What is the charge of electron?",
-    "answer": "negative",
-    "hint": "",
-    "choices": [
-      "positive",
-      "neutral",
-      "negative",
-      "variable"
-    ],
-    "explanation": "Correct answer is negative"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "Which drug is ACE inhibitor?",
-    "answer": "lisinopril",
-    "hint": "",
-    "choices": [
-      "metoprolol",
-      "amlodipine",
-      "lisinopril",
-      "furosemide"
-    ],
-    "explanation": "Correct answer is lisinopril"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "What process moves water?",
-    "answer": "osmosis",
-    "hint": "",
-    "choices": [
-      "diffusion",
-      "osmosis",
-      "active transport",
-      "facilitated diffusion"
-    ],
-    "explanation": "Correct answer is osmosis"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "she has the book",
-    "hint": "",
-    "choices": [
-      "she have the book",
-      "she has the book",
-      "she having the book",
-      "she has book"
-    ],
-    "explanation": "Correct answer is she has the book"
-  },
-  {
-    "question": "Which chamber pumps blood to body?",
-    "answer": "left ventricle",
-    "hint": "",
-    "choices": [
-      "left atrium",
-      "right atrium",
-      "right ventricle",
-      "left ventricle"
-    ],
-    "explanation": "Correct answer is left ventricle"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Which drug is beta blocker?",
-    "answer": "metoprolol",
-    "hint": "",
-    "choices": [
-      "lisinopril",
-      "metoprolol",
-      "amlodipine",
-      "losartan"
-    ],
-    "explanation": "Correct answer is metoprolol"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
-  },
-  {
-    "question": "What structure helps bacteria survive harsh conditions?",
-    "answer": "endospore",
-    "hint": "",
-    "choices": [
-      "capsule",
-      "flagella",
-      "endospore",
-      "pili"
-    ],
-    "explanation": "Correct answer is endospore"
-  },
-  {
-    "question": "Gram-positive bacteria stain what color?",
-    "answer": "purple",
-    "hint": "",
-    "choices": [
-      "purple",
-      "pink",
-      "red",
-      "blue"
-    ],
-    "explanation": "Correct answer is purple"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
-  },
-  {
-    "question": "Which lobe controls vision?",
-    "answer": "occipital",
-    "hint": "",
-    "choices": [
-      "frontal",
-      "temporal",
-      "parietal",
-      "occipital"
-    ],
-    "explanation": "Correct answer is occipital"
-  },
-  {
-    "question": "Choose correct sentence.",
-    "answer": "they are going",
-    "hint": "",
-    "choices": [
-      "they is going",
-      "they are going",
-      "they goes",
-      "they going"
-    ],
-    "explanation": "Correct answer is they are going"
+    "topic": "Pharmacology",
+    "question": "What is hydrochlorothiazide?",
+    "options": ["Diuretic", "Antibiotic", "Antiviral", "Steroid"],
+    "answer": "Diuretic"
   }
 ]
