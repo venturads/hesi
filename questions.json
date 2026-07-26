@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Anatomy",
+    "question": "Which chamber of the heart pumps blood to the body?",
+    "answer": "left ventricle",
+    "hint": "Strongest chamber",
+    "choices": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+    "explanation": "The left ventricle pumps oxygenated blood to the entire body."
+  },
+  {
+    "category": "Microbiology",
+    "question": "What structure allows bacteria to survive harsh conditions?",
+    "answer": "endospore",
+    "hint": "Highly resistant structure",
+    "choices": ["Capsule", "Flagella", "Endospore", "Pili"],
+    "explanation": "Endospores protect bacteria from heat, drying, and chemicals."
+  }
+]
