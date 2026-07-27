@@ -1,31 +1,352 @@
 [
-  {"topic":"Microbiology","question":"What structure allows bacteria to move?","options":["Flagellum","Capsule","Cell wall","Ribosome"],"answer":"Flagellum","explanation":"A flagellum acts like a tail that propels a bacterial cell."},
-  {"topic":"Microbiology","question":"What color are Gram-positive bacteria after staining?","options":["Purple","Pink","Red","Blue"],"answer":"Purple","explanation":"Their thick peptidoglycan wall retains the crystal violet stain."},
-  {"topic":"Microbiology","question":"Which structure protects bacteria from drying out?","options":["Capsule","Nucleus","Mitochondria","Golgi"],"answer":"Capsule","explanation":"The capsule can reduce water loss and help bacteria adhere to surfaces."},
-  {"topic":"Microbiology","question":"What phase shows rapid bacterial growth?","options":["Log phase","Lag phase","Death phase","Stationary phase"],"answer":"Log phase","explanation":"During log, or exponential, phase bacteria divide rapidly."},
-  {"topic":"Microbiology","question":"Viruses reproduce by using what?","options":["Host cell","Ribosome","ATP","Nucleus"],"answer":"Host cell","explanation":"Viruses depend on a host cell's machinery to make new viruses."},
-
-  {"topic":"Anatomy & Physiology","question":"Which chamber pumps blood to the body?","options":["Left ventricle","Right atrium","Left atrium","Right ventricle"],"answer":"Left ventricle","explanation":"The left ventricle sends oxygenated blood through the aorta to the body."},
-  {"topic":"Anatomy & Physiology","question":"How many cervical vertebrae are there?","options":["7","12","5","10"],"answer":"7","explanation":"The cervical spine contains seven vertebrae, C1 through C7."},
-  {"topic":"Anatomy & Physiology","question":"What bone is known as the collarbone?","options":["Clavicle","Scapula","Femur","Tibia"],"answer":"Clavicle","explanation":"The clavicle connects the sternum to the shoulder."},
-  {"topic":"Anatomy & Physiology","question":"Which organ pumps blood?","options":["Heart","Lungs","Kidney","Liver"],"answer":"Heart","explanation":"The heart contracts to circulate blood through pulmonary and systemic pathways."},
-  {"topic":"Anatomy & Physiology","question":"What type of muscle is voluntary?","options":["Skeletal","Smooth","Cardiac","Involuntary"],"answer":"Skeletal","explanation":"Skeletal muscle is generally under conscious control."},
-
-  {"topic":"Chemistry","question":"What particle has a negative charge?","options":["Electron","Proton","Neutron","Nucleus"],"answer":"Electron","explanation":"Electrons carry a negative electrical charge."},
-  {"topic":"Chemistry","question":"Atomic number equals what?","options":["Protons","Neutrons","Electrons","Mass"],"answer":"Protons","explanation":"An element's atomic number is the number of protons in its nucleus."},
-  {"topic":"Chemistry","question":"What is a substance with a pH less than 7?","options":["Acid","Base","Neutral","Salt"],"answer":"Acid","explanation":"On the standard pH scale, values below 7 are acidic."},
-  {"topic":"Chemistry","question":"Water is what type of molecule?","options":["Polar","Nonpolar","Neutral","Ionic"],"answer":"Polar","explanation":"Water has an uneven charge distribution, making it polar."},
-  {"topic":"Chemistry","question":"ATP is mainly used for what?","options":["Energy","Structure","Storage","Color"],"answer":"Energy","explanation":"ATP is the cell's immediate energy-carrying molecule."},
-
-  {"topic":"Grammar","question":"Choose the correct sentence.","options":["She is going home.","She are going home.","She going home.","She be going home."],"answer":"She is going home.","explanation":"The singular subject “she” agrees with the singular verb “is.”"},
-  {"topic":"Grammar","question":"Which phrase is correct?","options":["An apple","A apple","An apples","A apples"],"answer":"An apple","explanation":"Use “an” before a word that begins with a vowel sound."},
-  {"topic":"Grammar","question":"Choose the correct word: ___ going to the store.","options":["You're","Your","Yours","You"],"answer":"You're","explanation":"“You're” is the contraction of “you are.”"},
-  {"topic":"Grammar","question":"Which is a past-tense verb?","options":["Walked","Walk","Walking","Walks"],"answer":"Walked","explanation":"“Walked” describes an action completed in the past."},
-  {"topic":"Grammar","question":"Which sentence is correct?","options":["The information is useful.","The informations are useful.","Information are useful.","Informations is useful."],"answer":"The information is useful.","explanation":"“Information” is an uncountable singular noun, so use “is.”"},
-
-  {"topic":"Pharmacology","question":"What does lisinopril commonly treat?","options":["Hypertension","Diabetes","Pain","Infection"],"answer":"Hypertension","explanation":"Lisinopril is an ACE inhibitor commonly used to lower blood pressure."},
-  {"topic":"Pharmacology","question":"Which drug is a bronchodilator?","options":["Albuterol","Insulin","Aspirin","Metformin"],"answer":"Albuterol","explanation":"Albuterol relaxes airway smooth muscle to improve airflow."},
-  {"topic":"Pharmacology","question":"What does insulin lower?","options":["Blood sugar","Blood pressure","Heart rate","Oxygen"],"answer":"Blood sugar","explanation":"Insulin helps glucose move from the blood into cells."},
-  {"topic":"Pharmacology","question":"What drug class is losartan?","options":["ARB","ACE inhibitor","Beta blocker","Diuretic"],"answer":"ARB","explanation":"Losartan is an angiotensin II receptor blocker, or ARB."},
-  {"topic":"Pharmacology","question":"What type of medication is hydrochlorothiazide?","options":["Diuretic","Antibiotic","Antiviral","Steroid"],"answer":"Diuretic","explanation":"Hydrochlorothiazide increases urine output and is often used for hypertension."}
+  {
+    "topic": "Microbiology",
+    "question": "What structure allows bacteria to move?",
+    "choices": [
+      "Flagellum",
+      "Capsule",
+      "Cell wall",
+      "Ribosome"
+    ],
+    "answer": "Flagellum",
+    "explanation": "A flagellum is a whip-like structure that helps many bacteria move.",
+    "hint": "Think of a whip-like tail.",
+    "memoryTip": "Flagellum = movement."
+  },
+  {
+    "topic": "Microbiology",
+    "question": "What color are Gram-positive bacteria after staining?",
+    "choices": [
+      "Purple",
+      "Pink",
+      "Red",
+      "Blue"
+    ],
+    "answer": "Purple",
+    "explanation": "Gram-positive bacteria retain crystal violet because of their thick peptidoglycan wall.",
+    "hint": "Think thick wall, violet stain.",
+    "memoryTip": "Gram-positive = purple."
+  },
+  {
+    "topic": "Microbiology",
+    "question": "Which structure protects bacteria from drying out?",
+    "choices": [
+      "Capsule",
+      "Nucleus",
+      "Mitochondria",
+      "Golgi"
+    ],
+    "answer": "Capsule",
+    "explanation": "A bacterial capsule helps prevent dehydration and can protect against immune defenses.",
+    "hint": "Think protective outer coating.",
+    "memoryTip": "Capsule = coat."
+  },
+  {
+    "topic": "Microbiology",
+    "question": "What phase shows rapid bacterial growth?",
+    "choices": [
+      "Log phase",
+      "Lag phase",
+      "Death phase",
+      "Stationary phase"
+    ],
+    "answer": "Log phase",
+    "explanation": "During log phase, bacteria divide rapidly at an exponential rate.",
+    "hint": "Think logarithmic growth.",
+    "memoryTip": "Log = lots of growth."
+  },
+  {
+    "topic": "Microbiology",
+    "question": "Viruses reproduce by using what?",
+    "choices": [
+      "Host cell",
+      "Ribosome",
+      "ATP",
+      "Nucleus"
+    ],
+    "answer": "Host cell",
+    "explanation": "Viruses must use a living host cell's machinery to reproduce.",
+    "hint": "Viruses cannot reproduce alone.",
+    "memoryTip": "Virus needs a host."
+  },
+  {
+    "topic": "Anatomy",
+    "question": "Which chamber pumps blood to the body?",
+    "choices": [
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle"
+    ],
+    "answer": "Left ventricle",
+    "explanation": "The left ventricle pumps oxygenated blood into the aorta and systemic circulation.",
+    "hint": "It has the thickest wall.",
+    "memoryTip": "Left launches blood."
+  },
+  {
+    "topic": "Anatomy",
+    "question": "How many cervical vertebrae are there?",
+    "choices": [
+      "7",
+      "12",
+      "5",
+      "10"
+    ],
+    "answer": "7",
+    "explanation": "There are seven cervical vertebrae in the neck.",
+    "hint": "Think breakfast at 7.",
+    "memoryTip": "Cervical = 7."
+  },
+  {
+    "topic": "Anatomy",
+    "question": "What bone is known as the collarbone?",
+    "choices": [
+      "Clavicle",
+      "Scapula",
+      "Femur",
+      "Tibia"
+    ],
+    "answer": "Clavicle",
+    "explanation": "The clavicle is commonly called the collarbone.",
+    "hint": "It connects the sternum and shoulder.",
+    "memoryTip": "Clavicle = collarbone."
+  },
+  {
+    "topic": "Anatomy",
+    "question": "Which organ pumps blood?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Heart",
+    "explanation": "The heart contracts to circulate blood through the body.",
+    "hint": "Think cardiovascular system.",
+    "memoryTip": "Heart = pump."
+  },
+  {
+    "topic": "Anatomy",
+    "question": "What type of muscle is voluntary?",
+    "choices": [
+      "Skeletal",
+      "Smooth",
+      "Cardiac",
+      "Involuntary"
+    ],
+    "answer": "Skeletal",
+    "explanation": "Skeletal muscle is under conscious control and moves bones.",
+    "hint": "You control it to move.",
+    "memoryTip": "Skeletal = voluntary."
+  },
+  {
+    "topic": "Chemistry",
+    "question": "What particle has a negative charge?",
+    "choices": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Nucleus"
+    ],
+    "answer": "Electron",
+    "explanation": "Electrons carry a negative electrical charge.",
+    "hint": "It moves around the nucleus.",
+    "memoryTip": "Electron = negative."
+  },
+  {
+    "topic": "Chemistry",
+    "question": "Atomic number equals what?",
+    "choices": [
+      "Protons",
+      "Neutrons",
+      "Electrons",
+      "Mass"
+    ],
+    "answer": "Protons",
+    "explanation": "An element's atomic number equals its number of protons.",
+    "hint": "This identifies the element.",
+    "memoryTip": "Atomic number = protons."
+  },
+  {
+    "topic": "Chemistry",
+    "question": "What is pH less than 7?",
+    "choices": [
+      "Acid",
+      "Base",
+      "Neutral",
+      "Salt"
+    ],
+    "answer": "Acid",
+    "explanation": "A solution with a pH below 7 is acidic.",
+    "hint": "Lower than neutral.",
+    "memoryTip": "Low pH = acid."
+  },
+  {
+    "topic": "Chemistry",
+    "question": "Water is what type of molecule?",
+    "choices": [
+      "Polar",
+      "Nonpolar",
+      "Neutral",
+      "Ionic"
+    ],
+    "answer": "Polar",
+    "explanation": "Water is polar because oxygen and hydrogen share electrons unequally.",
+    "hint": "It has partial charges.",
+    "memoryTip": "Water is polar."
+  },
+  {
+    "topic": "Chemistry",
+    "question": "ATP is used for what?",
+    "choices": [
+      "Energy",
+      "Structure",
+      "Storage",
+      "Transport"
+    ],
+    "answer": "Energy",
+    "explanation": "ATP is the cell's immediate energy-carrying molecule.",
+    "hint": "Think cellular fuel.",
+    "memoryTip": "ATP = energy."
+  },
+  {
+    "topic": "Grammar",
+    "question": "Choose the correct sentence.",
+    "choices": [
+      "She is going home.",
+      "She are going home.",
+      "She going home.",
+      "She be going home."
+    ],
+    "answer": "She is going home.",
+    "explanation": "The singular subject she takes the verb is.",
+    "hint": "She pairs with is.",
+    "memoryTip": "She is."
+  },
+  {
+    "topic": "Grammar",
+    "question": "Which is correct?",
+    "choices": [
+      "An apple",
+      "A apple",
+      "The apple",
+      "Apple"
+    ],
+    "answer": "An apple",
+    "explanation": "Use an before a word beginning with a vowel sound.",
+    "hint": "Apple begins with a vowel sound.",
+    "memoryTip": "An apple."
+  },
+  {
+    "topic": "Grammar",
+    "question": "Choose the correct word: ___ going to the store.",
+    "choices": [
+      "You're",
+      "Your",
+      "Yours",
+      "You"
+    ],
+    "answer": "You're",
+    "explanation": "You're is the contraction of you are.",
+    "hint": "Replace it with you are.",
+    "memoryTip": "You're = you are."
+  },
+  {
+    "topic": "Grammar",
+    "question": "Which is a past tense verb?",
+    "choices": [
+      "Walked",
+      "Walk",
+      "Walking",
+      "Walks"
+    ],
+    "answer": "Walked",
+    "explanation": "Walked is the simple past-tense form of walk.",
+    "hint": "Look for -ed.",
+    "memoryTip": "Yesterday = walked."
+  },
+  {
+    "topic": "Grammar",
+    "question": "Which is correct?",
+    "choices": [
+      "The information is useful.",
+      "The informations are useful.",
+      "Information are useful.",
+      "Informations is useful."
+    ],
+    "answer": "The information is useful.",
+    "explanation": "Information is an uncountable singular noun.",
+    "hint": "Do not pluralize information.",
+    "memoryTip": "Information is."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What does lisinopril treat?",
+    "choices": [
+      "Hypertension",
+      "Diabetes",
+      "Pain",
+      "Infection"
+    ],
+    "answer": "Hypertension",
+    "explanation": "Lisinopril is an ACE inhibitor commonly used to treat hypertension.",
+    "hint": "Look for the -pril ending.",
+    "memoryTip": "-pril = ACE inhibitor."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What drug is a bronchodilator?",
+    "choices": [
+      "Albuterol",
+      "Insulin",
+      "Aspirin",
+      "Metformin"
+    ],
+    "answer": "Albuterol",
+    "explanation": "Albuterol relaxes bronchial smooth muscle and opens the airways.",
+    "hint": "Think rescue inhaler.",
+    "memoryTip": "Albuterol allows air."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What does insulin lower?",
+    "choices": [
+      "Blood sugar",
+      "Blood pressure",
+      "Heart rate",
+      "Oxygen"
+    ],
+    "answer": "Blood sugar",
+    "explanation": "Insulin lowers blood glucose by helping glucose enter cells.",
+    "hint": "Think diabetes treatment.",
+    "memoryTip": "Insulin lowers sugar."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What class is losartan?",
+    "choices": [
+      "ARB",
+      "ACE inhibitor",
+      "Beta blocker",
+      "Diuretic"
+    ],
+    "answer": "ARB",
+    "explanation": "Losartan is an angiotensin II receptor blocker.",
+    "hint": "Look for -sartan.",
+    "memoryTip": "-sartan = ARB."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What is hydrochlorothiazide?",
+    "choices": [
+      "Diuretic",
+      "Antibiotic",
+      "Antiviral",
+      "Steroid"
+    ],
+    "answer": "Diuretic",
+    "explanation": "Hydrochlorothiazide is a thiazide diuretic used to reduce fluid volume and blood pressure.",
+    "hint": "It helps the kidneys remove water.",
+    "memoryTip": "HCTZ = diuretic."
+  }
 ]
