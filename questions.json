@@ -1,156 +1,31 @@
 [
-  {
-    "topic": "Microbiology",
-    "question": "What structure allows bacteria to move?",
-    "options": ["Flagellum", "Capsule", "Cell wall", "Ribosome"],
-    "answer": "Flagellum"
-  },
-  {
-    "topic": "Microbiology",
-    "question": "What color are Gram-positive bacteria after staining?",
-    "options": ["Purple", "Pink", "Red", "Blue"],
-    "answer": "Purple"
-  },
-  {
-    "topic": "Microbiology",
-    "question": "Which structure protects bacteria from drying out?",
-    "options": ["Capsule", "Nucleus", "Mitochondria", "Golgi"],
-    "answer": "Capsule"
-  },
-  {
-    "topic": "Microbiology",
-    "question": "What phase shows rapid bacterial growth?",
-    "options": ["Log phase", "Lag phase", "Death phase", "Stationary phase"],
-    "answer": "Log phase"
-  },
-  {
-    "topic": "Microbiology",
-    "question": "Viruses reproduce by using what?",
-    "options": ["Host cell", "Ribosome", "ATP", "Nucleus"],
-    "answer": "Host cell"
-  },
+  {"topic":"Microbiology","question":"What structure allows bacteria to move?","options":["Flagellum","Capsule","Cell wall","Ribosome"],"answer":"Flagellum","explanation":"A flagellum acts like a tail that propels a bacterial cell."},
+  {"topic":"Microbiology","question":"What color are Gram-positive bacteria after staining?","options":["Purple","Pink","Red","Blue"],"answer":"Purple","explanation":"Their thick peptidoglycan wall retains the crystal violet stain."},
+  {"topic":"Microbiology","question":"Which structure protects bacteria from drying out?","options":["Capsule","Nucleus","Mitochondria","Golgi"],"answer":"Capsule","explanation":"The capsule can reduce water loss and help bacteria adhere to surfaces."},
+  {"topic":"Microbiology","question":"What phase shows rapid bacterial growth?","options":["Log phase","Lag phase","Death phase","Stationary phase"],"answer":"Log phase","explanation":"During log, or exponential, phase bacteria divide rapidly."},
+  {"topic":"Microbiology","question":"Viruses reproduce by using what?","options":["Host cell","Ribosome","ATP","Nucleus"],"answer":"Host cell","explanation":"Viruses depend on a host cell's machinery to make new viruses."},
 
-  {
-    "topic": "Anatomy",
-    "question": "Which chamber pumps blood to the body?",
-    "options": ["Left ventricle", "Right atrium", "Left atrium", "Right ventricle"],
-    "answer": "Left ventricle"
-  },
-  {
-    "topic": "Anatomy",
-    "question": "How many cervical vertebrae are there?",
-    "options": ["7", "12", "5", "10"],
-    "answer": "7"
-  },
-  {
-    "topic": "Anatomy",
-    "question": "What bone is known as the collarbone?",
-    "options": ["Clavicle", "Scapula", "Femur", "Tibia"],
-    "answer": "Clavicle"
-  },
-  {
-    "topic": "Anatomy",
-    "question": "Which organ pumps blood?",
-    "options": ["Heart", "Lungs", "Kidney", "Liver"],
-    "answer": "Heart"
-  },
-  {
-    "topic": "Anatomy",
-    "question": "What type of muscle is voluntary?",
-    "options": ["Skeletal", "Smooth", "Cardiac", "Involuntary"],
-    "answer": "Skeletal"
-  },
+  {"topic":"Anatomy & Physiology","question":"Which chamber pumps blood to the body?","options":["Left ventricle","Right atrium","Left atrium","Right ventricle"],"answer":"Left ventricle","explanation":"The left ventricle sends oxygenated blood through the aorta to the body."},
+  {"topic":"Anatomy & Physiology","question":"How many cervical vertebrae are there?","options":["7","12","5","10"],"answer":"7","explanation":"The cervical spine contains seven vertebrae, C1 through C7."},
+  {"topic":"Anatomy & Physiology","question":"What bone is known as the collarbone?","options":["Clavicle","Scapula","Femur","Tibia"],"answer":"Clavicle","explanation":"The clavicle connects the sternum to the shoulder."},
+  {"topic":"Anatomy & Physiology","question":"Which organ pumps blood?","options":["Heart","Lungs","Kidney","Liver"],"answer":"Heart","explanation":"The heart contracts to circulate blood through pulmonary and systemic pathways."},
+  {"topic":"Anatomy & Physiology","question":"What type of muscle is voluntary?","options":["Skeletal","Smooth","Cardiac","Involuntary"],"answer":"Skeletal","explanation":"Skeletal muscle is generally under conscious control."},
 
-  {
-    "topic": "Chemistry",
-    "question": "What particle has a negative charge?",
-    "options": ["Electron", "Proton", "Neutron", "Nucleus"],
-    "answer": "Electron"
-  },
-  {
-    "topic": "Chemistry",
-    "question": "Atomic number equals what?",
-    "options": ["Protons", "Neutrons", "Electrons", "Mass"],
-    "answer": "Protons"
-  },
-  {
-    "topic": "Chemistry",
-    "question": "What is pH less than 7?",
-    "options": ["Acid", "Base", "Neutral", "Salt"],
-    "answer": "Acid"
-  },
-  {
-    "topic": "Chemistry",
-    "question": "Water is what type of molecule?",
-    "options": ["Polar", "Nonpolar", "Neutral", "Ionic"],
-    "answer": "Polar"
-  },
-  {
-    "topic": "Chemistry",
-    "question": "ATP is used for what?",
-    "options": ["Energy", "Structure", "Storage", "Transport"],
-    "answer": "Energy"
-  },
+  {"topic":"Chemistry","question":"What particle has a negative charge?","options":["Electron","Proton","Neutron","Nucleus"],"answer":"Electron","explanation":"Electrons carry a negative electrical charge."},
+  {"topic":"Chemistry","question":"Atomic number equals what?","options":["Protons","Neutrons","Electrons","Mass"],"answer":"Protons","explanation":"An element's atomic number is the number of protons in its nucleus."},
+  {"topic":"Chemistry","question":"What is a substance with a pH less than 7?","options":["Acid","Base","Neutral","Salt"],"answer":"Acid","explanation":"On the standard pH scale, values below 7 are acidic."},
+  {"topic":"Chemistry","question":"Water is what type of molecule?","options":["Polar","Nonpolar","Neutral","Ionic"],"answer":"Polar","explanation":"Water has an uneven charge distribution, making it polar."},
+  {"topic":"Chemistry","question":"ATP is mainly used for what?","options":["Energy","Structure","Storage","Color"],"answer":"Energy","explanation":"ATP is the cell's immediate energy-carrying molecule."},
 
-  {
-    "topic": "Grammar",
-    "question": "Choose the correct sentence.",
-    "options": ["She is going home.", "She are going home.", "She going home.", "She be going home."],
-    "answer": "She is going home."
-  },
-  {
-    "topic": "Grammar",
-    "question": "Which is correct?",
-    "options": ["An apple", "A apple", "The apple", "Apple"],
-    "answer": "An apple"
-  },
-  {
-    "topic": "Grammar",
-    "question": "Choose the correct word: ___ going to the store.",
-    "options": ["You're", "Your", "Yours", "You"],
-    "answer": "You're"
-  },
-  {
-    "topic": "Grammar",
-    "question": "Which is a past tense verb?",
-    "options": ["Walked", "Walk", "Walking", "Walks"],
-    "answer": "Walked"
-  },
-  {
-    "topic": "Grammar",
-    "question": "Which is correct?",
-    "options": ["The information is useful.", "The informations are useful.", "Information are useful.", "Informations is useful."],
-    "answer": "The information is useful."
-  },
+  {"topic":"Grammar","question":"Choose the correct sentence.","options":["She is going home.","She are going home.","She going home.","She be going home."],"answer":"She is going home.","explanation":"The singular subject “she” agrees with the singular verb “is.”"},
+  {"topic":"Grammar","question":"Which phrase is correct?","options":["An apple","A apple","An apples","A apples"],"answer":"An apple","explanation":"Use “an” before a word that begins with a vowel sound."},
+  {"topic":"Grammar","question":"Choose the correct word: ___ going to the store.","options":["You're","Your","Yours","You"],"answer":"You're","explanation":"“You're” is the contraction of “you are.”"},
+  {"topic":"Grammar","question":"Which is a past-tense verb?","options":["Walked","Walk","Walking","Walks"],"answer":"Walked","explanation":"“Walked” describes an action completed in the past."},
+  {"topic":"Grammar","question":"Which sentence is correct?","options":["The information is useful.","The informations are useful.","Information are useful.","Informations is useful."],"answer":"The information is useful.","explanation":"“Information” is an uncountable singular noun, so use “is.”"},
 
-  {
-    "topic": "Pharmacology",
-    "question": "What does lisinopril treat?",
-    "options": ["Hypertension", "Diabetes", "Pain", "Infection"],
-    "answer": "Hypertension"
-  },
-  {
-    "topic": "Pharmacology",
-    "question": "What drug is a bronchodilator?",
-    "options": ["Albuterol", "Insulin", "Aspirin", "Metformin"],
-    "answer": "Albuterol"
-  },
-  {
-    "topic": "Pharmacology",
-    "question": "What does insulin lower?",
-    "options": ["Blood sugar", "Blood pressure", "Heart rate", "Oxygen"],
-    "answer": "Blood sugar"
-  },
-  {
-    "topic": "Pharmacology",
-    "question": "What class is losartan?",
-    "options": ["ARB", "ACE inhibitor", "Beta blocker", "Diuretic"],
-    "answer": "ARB"
-  },
-  {
-    "topic": "Pharmacology",
-    "question": "What is hydrochlorothiazide?",
-    "options": ["Diuretic", "Antibiotic", "Antiviral", "Steroid"],
-    "answer": "Diuretic"
-  }
+  {"topic":"Pharmacology","question":"What does lisinopril commonly treat?","options":["Hypertension","Diabetes","Pain","Infection"],"answer":"Hypertension","explanation":"Lisinopril is an ACE inhibitor commonly used to lower blood pressure."},
+  {"topic":"Pharmacology","question":"Which drug is a bronchodilator?","options":["Albuterol","Insulin","Aspirin","Metformin"],"answer":"Albuterol","explanation":"Albuterol relaxes airway smooth muscle to improve airflow."},
+  {"topic":"Pharmacology","question":"What does insulin lower?","options":["Blood sugar","Blood pressure","Heart rate","Oxygen"],"answer":"Blood sugar","explanation":"Insulin helps glucose move from the blood into cells."},
+  {"topic":"Pharmacology","question":"What drug class is losartan?","options":["ARB","ACE inhibitor","Beta blocker","Diuretic"],"answer":"ARB","explanation":"Losartan is an angiotensin II receptor blocker, or ARB."},
+  {"topic":"Pharmacology","question":"What type of medication is hydrochlorothiazide?","options":["Diuretic","Antibiotic","Antiviral","Steroid"],"answer":"Diuretic","explanation":"Hydrochlorothiazide increases urine output and is often used for hypertension."}
 ]
