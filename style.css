@@ -2,143 +2,211 @@
   box-sizing: border-box;
 }
 
+:root {
+  --page-bg: #0f172a;
+  --card-bg: #1e293b;
+  --card-border: #334155;
+  --text-main: #f8fafc;
+  --text-muted: #cbd5e1;
+  --choice-bg: #2563eb;
+  --choice-hover: #1d4ed8;
+  --correct: #16a34a;
+  --wrong: #dc2626;
+  --next-bg: #22c55e;
+  --next-hover: #16a34a;
+  --restart-bg: #475569;
+  --restart-hover: #334155;
+  --disabled-bg: #64748b;
+}
+
 body {
   margin: 0;
   min-height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background: #0f172a;
-  color: #f8fafc;
+  background: var(--page-bg);
+  color: var(--text-main);
   display: flex;
   justify-content: center;
+  align-items: flex-start;
   padding: 20px;
 }
 
 .app {
   width: 100%;
-  max-width: 520px;
-  align-self: flex-start;
-  background: #1e293b;
-  padding: 22px;
-  border-radius: 16px;
+  max-width: 560px;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 18px;
+  padding: 24px;
   box-shadow: 0 18px 45px rgba(0, 0, 0, 0.28);
 }
 
 h1 {
-  margin: 0 0 16px;
+  margin: 0 0 18px;
   text-align: center;
+  font-size: 1.8rem;
 }
 
 .quiz-meta {
   display: flex;
   justify-content: space-between;
   gap: 12px;
-  color: #cbd5e1;
-  font-size: 0.92rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
   margin-bottom: 14px;
 }
 
 .question {
-  white-space: pre-line;
-  font-size: 1.2rem;
-  line-height: 1.45;
-  font-weight: 700;
   margin: 16px 0;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 700;
+  white-space: pre-line;
 }
 
 .choices {
   display: grid;
-  gap: 10px;
+  gap: 12px;
 }
 
 button {
+  font: inherit;
+}
+
+.choice-button,
+.action-button {
   width: 100%;
-  padding: 13px 14px;
+  min-height: 48px;
   border: none;
-  border-radius: 10px;
-  font-size: 1rem;
+  border-radius: 12px;
+  padding: 13px 16px;
   cursor: pointer;
+  transition:
+    transform 0.15s ease,
+    background 0.15s ease,
+    opacity 0.15s ease;
 }
 
 .choice-button {
-  margin: 0;
-  background: #3b82f6;
+  background: var(--choice-bg);
   color: white;
   text-align: left;
+  font-weight: 600;
 }
 
 .choice-button:hover:not(:disabled) {
-  filter: brightness(1.08);
+  background: var(--choice-hover);
+  transform: translateY(-1px);
 }
 
 .choice-button:disabled {
   cursor: default;
-  opacity: 0.9;
+  opacity: 0.95;
 }
 
 .correct,
 .reveal {
-  background: #16a34a !important;
+  background: var(--correct) !important;
 }
 
 .wrong {
-  background: #dc2626 !important;
+  background: var(--wrong) !important;
 }
 
 .feedback {
   min-height: 28px;
-  margin: 16px 0 8px;
+  margin: 18px 0 8px;
   font-size: 1.08rem;
   font-weight: 700;
 }
 
 .explanation {
-  min-height: 48px;
-  white-space: pre-line;
+  min-height: 52px;
   color: #e2e8f0;
-  line-height: 1.45;
+  line-height: 1.5;
+  white-space: pre-line;
 }
 
 .footer {
-  margin-top: 18px;
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--card-border);
 }
 
 #score {
-  color: #cbd5e1;
-}
-
-#nextButton {
-  background: #22c55e;
-  color: #052e16;
+  margin: 0 0 14px;
+  color: var(--text-muted);
   font-weight: 700;
 }
 
-#nextButton:disabled {
-  background: #64748b;
-  color: #e2e8f0;
-  cursor: default;
+.button-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
 }
 
-.secondary {
-  margin-top: 10px;
-  background: #334155;
-  color: #f8fafc;
+.action-button {
+  text-align: center;
+  font-weight: 800;
+}
+
+.next-button {
+  background: var(--next-bg);
+  color: #052e16;
+}
+
+.next-button:hover:not(:disabled) {
+  background: var(--next-hover);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.restart-button {
+  background: var(--restart-bg);
+  color: white;
+}
+
+.restart-button:hover {
+  background: var(--restart-hover);
+  transform: translateY(-1px);
+}
+
+.action-button:disabled {
+  background: var(--disabled-bg);
+  color: #e2e8f0;
+  opacity: 0.65;
+  cursor: not-allowed;
+  transform: none;
 }
 
 .error {
   color: #fecaca;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 520px) {
   body {
     padding: 12px;
   }
 
   .app {
     padding: 18px;
+    border-radius: 14px;
+  }
+
+  h1 {
+    font-size: 1.55rem;
   }
 
   .quiz-meta {
     flex-direction: column;
     gap: 4px;
+  }
+
+  .button-row {
+    grid-template-columns: 1fr;
+  }
+
+  .action-button {
+    min-height: 52px;
   }
 }

@@ -1,5 +1,6 @@
 "use strict";
 
+let masterQuestions = [];
 let questions = [];
 let current = 0;
 let score = 0;
@@ -45,26 +46,22 @@ function validateQuestions(data) {
       throw new Error(`Question ${index + 1} has an answer that is not in its options.`);
     }
 
-    return {
-      ...item,
-      options
-    };
+    return { ...item, options: [...options] };
   });
 }
 
 async function loadQuestions() {
+  setControlsLoading(true);
+
   try {
-    const response = await fetch(`questions.json?v=${Date.now()}`, {
-      cache: "no-store"
-    });
+    const response = await fetch(`questions.json?v=${Date.now()}`, { cache: "no-store" });
 
     if (!response.ok) {
       throw new Error(`Could not load questions.json (HTTP ${response.status}).`);
     }
 
-    const data = await response.json();
-    questions = shuffle(validateQuestions(data));
-    renderQuestion();
+    masterQuestions = validateQuestions(await response.json());
+    startNewQuiz();
   } catch (error) {
     console.error(error);
     topicEl.textContent = "Load error";
@@ -74,23 +71,42 @@ async function loadQuestions() {
       "Questions could not load. Upload index.html, style.css, app.js, and questions.json together in the same GitHub folder.";
     explanationEl.classList.add("error");
     explanationEl.textContent = error.message;
+    nextButton.disabled = true;
+    restartButton.disabled = true;
   }
+}
+
+function setControlsLoading(isLoading) {
+  nextButton.disabled = true;
+  restartButton.disabled = isLoading;
+  nextButton.textContent = isLoading ? "Loading…" : "Next Question";
+}
+
+function startNewQuiz() {
+  questions = shuffle(masterQuestions);
+  current = 0;
+  score = 0;
+  answered = 0;
+  isAnswered = false;
+  restartButton.disabled = false;
+  renderQuestion();
 }
 
 function renderQuestion() {
   const q = questions[current];
+  if (!q) return;
+
   isAnswered = false;
   nextButton.disabled = true;
-  nextButton.textContent =
-    current === questions.length - 1 ? "See Results" : "Next Question";
+  nextButton.textContent = current === questions.length - 1 ? "See Results" : "Next Question";
 
-  feedbackEl.textContent = "";
+  feedbackEl.textContent = "Choose an answer to continue.";
   explanationEl.textContent = "";
   explanationEl.classList.remove("error");
   questionEl.classList.remove("error");
   choicesEl.innerHTML = "";
 
-  topicEl.textContent = q.topic || "Mixed HESI";
+  topicEl.textContent = q.topic || q.category || "Mixed HESI";
   progressEl.textContent = `Question ${current + 1} of ${questions.length}`;
   questionEl.textContent = q.question;
 
@@ -99,11 +115,12 @@ function renderQuestion() {
     button.type = "button";
     button.className = "choice-button";
     button.textContent = choice;
-    button.addEventListener("click", () => checkAnswer(choice, button, q));
+    button.addEventListener("click", () => checkAnswer(choice, button, q), { once: true });
     choicesEl.appendChild(button);
   });
 
   updateScore();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function checkAnswer(choice, selectedButton, q) {
@@ -111,19 +128,18 @@ function checkAnswer(choice, selectedButton, q) {
 
   isAnswered = true;
   answered += 1;
-
   const correct = normalize(choice) === normalize(q.answer);
 
   if (correct) {
     score += 1;
     selectedButton.classList.add("correct");
-    feedbackEl.textContent = "✅ Correct!";
+    feedbackEl.textContent = "✅ Correct! Tap Next Question.";
   } else {
     selectedButton.classList.add("wrong");
-    feedbackEl.textContent = "❌ Not quite.";
+    feedbackEl.textContent = "❌ Not quite. Tap Next Question.";
   }
 
-  [...choicesEl.querySelectorAll("button")].forEach((button) => {
+  choicesEl.querySelectorAll("button").forEach((button) => {
     button.disabled = true;
     if (normalize(button.textContent) === normalize(q.answer)) {
       button.classList.add("reveal");
@@ -136,11 +152,14 @@ function checkAnswer(choice, selectedButton, q) {
   explanationEl.textContent = details.join("\n");
 
   nextButton.disabled = false;
+  nextButton.focus({ preventScroll: true });
   updateScore();
 }
 
 function nextQuestion() {
-  if (!isAnswered) return;
+  if (nextButton.disabled || !isAnswered) return;
+
+  nextButton.disabled = true;
 
   if (current < questions.length - 1) {
     current += 1;
@@ -151,36 +170,24 @@ function nextQuestion() {
 }
 
 function showResults() {
-  const percent = questions.length
-    ? Math.round((score / questions.length) * 100)
-    : 0;
+  const percent = questions.length ? Math.round((score / questions.length) * 100) : 0;
 
+  isAnswered = false;
   topicEl.textContent = "Quiz complete";
   progressEl.textContent = `${questions.length} questions`;
-  questionEl.textContent =
-    `Final score: ${score} / ${questions.length} (${percent}%)`;
-
+  questionEl.textContent = `Final score: ${score} / ${questions.length} (${percent}%)`;
   choicesEl.innerHTML = "";
-  feedbackEl.textContent =
-    percent >= 75
-      ? "🎉 Nice work!"
-      : "💪 Keep practicing—you’re building it.";
-
-  explanationEl.textContent =
-    "Tap Restart Quiz to reshuffle every question and try again.";
-
+  feedbackEl.textContent = percent >= 75 ? "🎉 Nice work!" : "💪 Keep practicing—you’re building it.";
+  explanationEl.textContent = "Tap Restart Quiz to reshuffle every question and begin again.";
   nextButton.disabled = true;
   nextButton.textContent = "Quiz Finished";
+  restartButton.disabled = false;
+  restartButton.focus({ preventScroll: true });
 }
 
 function restartQuiz() {
-  if (questions.length === 0) return;
-
-  questions = shuffle(questions);
-  current = 0;
-  score = 0;
-  answered = 0;
-  renderQuestion();
+  if (restartButton.disabled || masterQuestions.length === 0) return;
+  startNewQuiz();
 }
 
 function updateScore() {
