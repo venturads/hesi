@@ -1,352 +1,602 @@
 [
   {
-    "topic": "Microbiology",
-    "question": "What structure allows bacteria to move?",
-    "choices": [
-      "Flagellum",
-      "Capsule",
-      "Cell wall",
-      "Ribosome"
+    "id": 1,
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist first used the term “cell” after examining cork?",
+    "options": [
+      "Robert Hooke",
+      "Anton van Leeuwenhoek",
+      "Matthias Schleiden",
+      "Rudolf Virchow"
     ],
-    "answer": "Flagellum",
-    "explanation": "A flagellum is a whip-like structure that helps many bacteria move.",
-    "hint": "Think of a whip-like tail.",
-    "memoryTip": "Flagellum = movement."
+    "answer": "Robert Hooke",
+    "explanation": "Robert Hooke examined cork and called the small boxlike compartments cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Microbiology",
-    "question": "What color are Gram-positive bacteria after staining?",
-    "choices": [
-      "Purple",
-      "Pink",
-      "Red",
-      "Blue"
+    "id": 2,
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist first observed living microorganisms using a simple microscope?",
+    "options": [
+      "Anton van Leeuwenhoek",
+      "Robert Hooke",
+      "Theodor Schwann",
+      "Matthias Schleiden"
     ],
-    "answer": "Purple",
-    "explanation": "Gram-positive bacteria retain crystal violet because of their thick peptidoglycan wall.",
-    "hint": "Think thick wall, violet stain.",
-    "memoryTip": "Gram-positive = purple."
+    "answer": "Anton van Leeuwenhoek",
+    "explanation": "Anton van Leeuwenhoek used powerful single-lens microscopes to observe living microorganisms.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Microbiology",
-    "question": "Which structure protects bacteria from drying out?",
-    "choices": [
-      "Capsule",
+    "id": 3,
+    "topic": "Cell Theory Scientists",
+    "question": "Who concluded that all plants are made of cells?",
+    "options": [
+      "Matthias Schleiden",
+      "Theodor Schwann",
+      "Rudolf Virchow",
+      "Robert Hooke"
+    ],
+    "answer": "Matthias Schleiden",
+    "explanation": "Matthias Schleiden proposed that all plants are composed of cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 4,
+    "topic": "Cell Theory Scientists",
+    "question": "Who concluded that all animals are made of cells?",
+    "options": [
+      "Theodor Schwann",
+      "Matthias Schleiden",
+      "Anton van Leeuwenhoek",
+      "Rudolf Virchow"
+    ],
+    "answer": "Theodor Schwann",
+    "explanation": "Theodor Schwann proposed that all animals are composed of cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 5,
+    "topic": "Cell Theory Scientists",
+    "question": "Who stated that all cells come from preexisting cells?",
+    "options": [
+      "Rudolf Virchow",
+      "Robert Hooke",
+      "Theodor Schwann",
+      "Anton van Leeuwenhoek"
+    ],
+    "answer": "Rudolf Virchow",
+    "explanation": "Rudolf Virchow added that cells arise only from preexisting cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 6,
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist studied cork rather than living microorganisms?",
+    "options": [
+      "Robert Hooke",
+      "Anton van Leeuwenhoek",
+      "Rudolf Virchow",
+      "Theodor Schwann"
+    ],
+    "answer": "Robert Hooke",
+    "explanation": "Hooke examined nonliving cork tissue and described its compartments as cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 7,
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist is often called the father of microbiology?",
+    "options": [
+      "Anton van Leeuwenhoek",
+      "Robert Hooke",
+      "Matthias Schleiden",
+      "Theodor Schwann"
+    ],
+    "answer": "Anton van Leeuwenhoek",
+    "explanation": "Leeuwenhoek is often called the father of microbiology because he first described living microorganisms.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 8,
+    "topic": "Cell Theory Scientists",
+    "question": "Schleiden’s work focused primarily on which type of organism?",
+    "options": [
+      "Plants",
+      "Animals",
+      "Bacteria",
+      "Viruses"
+    ],
+    "answer": "Plants",
+    "explanation": "Schleiden was a botanist who concluded that plants are made of cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 9,
+    "topic": "Cell Theory Scientists",
+    "question": "Schwann’s work focused primarily on which type of organism?",
+    "options": [
+      "Animals",
+      "Plants",
+      "Bacteria",
+      "Fungi only"
+    ],
+    "answer": "Animals",
+    "explanation": "Schwann concluded that animal tissues are made of cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 10,
+    "topic": "Cell Theory Scientists",
+    "question": "Which statement is most closely associated with Rudolf Virchow?",
+    "options": [
+      "Cells arise from existing cells",
+      "Plants are made of cells",
+      "Animals are made of cells",
+      "Cork contains compartments"
+    ],
+    "answer": "Cells arise from existing cells",
+    "explanation": "Virchow stated that every cell comes from another existing cell.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 11,
+    "topic": "DNA",
+    "question": "What sugar is found in DNA?",
+    "options": [
+      "Deoxyribose",
+      "Ribose",
+      "Glucose",
+      "Fructose"
+    ],
+    "answer": "Deoxyribose",
+    "explanation": "DNA contains the five-carbon sugar deoxyribose.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 12,
+    "topic": "DNA",
+    "question": "Which bases are found in DNA?",
+    "options": [
+      "Adenine, thymine, cytosine, and guanine",
+      "Adenine, uracil, cytosine, and guanine",
+      "Adenine, thymine, uracil, and guanine",
+      "Uracil, thymine, cytosine, and guanine"
+    ],
+    "answer": "Adenine, thymine, cytosine, and guanine",
+    "explanation": "The four DNA bases are adenine, thymine, cytosine, and guanine.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 13,
+    "topic": "DNA",
+    "question": "In DNA, adenine pairs with which base?",
+    "options": [
+      "Thymine",
+      "Uracil",
+      "Cytosine",
+      "Guanine"
+    ],
+    "answer": "Thymine",
+    "explanation": "Adenine pairs with thymine in double-stranded DNA.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 14,
+    "topic": "DNA",
+    "question": "In DNA, guanine pairs with which base?",
+    "options": [
+      "Cytosine",
+      "Thymine",
+      "Uracil",
+      "Adenine"
+    ],
+    "answer": "Cytosine",
+    "explanation": "Guanine pairs with cytosine in DNA.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 15,
+    "topic": "DNA",
+    "question": "What is the usual shape of a DNA molecule?",
+    "options": [
+      "Double helix",
+      "Single straight strand",
+      "Triple helix",
+      "Circular protein chain"
+    ],
+    "answer": "Double helix",
+    "explanation": "DNA usually consists of two strands twisted into a double helix.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 16,
+    "topic": "DNA",
+    "question": "What is the basic building block of DNA?",
+    "options": [
+      "Nucleotide",
+      "Amino acid",
+      "Fatty acid",
+      "Monosaccharide"
+    ],
+    "answer": "Nucleotide",
+    "explanation": "DNA is a polymer made of nucleotide subunits.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 17,
+    "topic": "DNA",
+    "question": "Where is most DNA located in a eukaryotic cell?",
+    "options": [
       "Nucleus",
-      "Mitochondria",
-      "Golgi"
-    ],
-    "answer": "Capsule",
-    "explanation": "A bacterial capsule helps prevent dehydration and can protect against immune defenses.",
-    "hint": "Think protective outer coating.",
-    "memoryTip": "Capsule = coat."
-  },
-  {
-    "topic": "Microbiology",
-    "question": "What phase shows rapid bacterial growth?",
-    "choices": [
-      "Log phase",
-      "Lag phase",
-      "Death phase",
-      "Stationary phase"
-    ],
-    "answer": "Log phase",
-    "explanation": "During log phase, bacteria divide rapidly at an exponential rate.",
-    "hint": "Think logarithmic growth.",
-    "memoryTip": "Log = lots of growth."
-  },
-  {
-    "topic": "Microbiology",
-    "question": "Viruses reproduce by using what?",
-    "choices": [
-      "Host cell",
       "Ribosome",
-      "ATP",
-      "Nucleus"
+      "Golgi apparatus",
+      "Lysosome"
     ],
-    "answer": "Host cell",
-    "explanation": "Viruses must use a living host cell's machinery to reproduce.",
-    "hint": "Viruses cannot reproduce alone.",
-    "memoryTip": "Virus needs a host."
+    "answer": "Nucleus",
+    "explanation": "Most eukaryotic DNA is stored in the nucleus.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Anatomy",
-    "question": "Which chamber pumps blood to the body?",
-    "choices": [
-      "Left ventricle",
-      "Right atrium",
-      "Left atrium",
-      "Right ventricle"
+    "id": 18,
+    "topic": "DNA",
+    "question": "What is DNA replication?",
+    "options": [
+      "Making a copy of DNA",
+      "Making protein from RNA",
+      "Making RNA from protein",
+      "Dividing the cytoplasm"
     ],
-    "answer": "Left ventricle",
-    "explanation": "The left ventricle pumps oxygenated blood into the aorta and systemic circulation.",
-    "hint": "It has the thickest wall.",
-    "memoryTip": "Left launches blood."
+    "answer": "Making a copy of DNA",
+    "explanation": "DNA replication produces an identical DNA copy before cell division.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Anatomy",
-    "question": "How many cervical vertebrae are there?",
-    "choices": [
-      "7",
-      "12",
-      "5",
-      "10"
+    "id": 19,
+    "topic": "DNA",
+    "question": "During which phase of interphase is DNA replicated?",
+    "options": [
+      "S phase",
+      "G1 phase",
+      "G2 phase",
+      "M phase"
     ],
-    "answer": "7",
-    "explanation": "There are seven cervical vertebrae in the neck.",
-    "hint": "Think breakfast at 7.",
-    "memoryTip": "Cervical = 7."
+    "answer": "S phase",
+    "explanation": "DNA is synthesized during the S phase of interphase.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Anatomy",
-    "question": "What bone is known as the collarbone?",
-    "choices": [
-      "Clavicle",
-      "Scapula",
-      "Femur",
-      "Tibia"
+    "id": 20,
+    "topic": "DNA",
+    "question": "What is the primary function of DNA?",
+    "options": [
+      "Store genetic information",
+      "Produce ATP directly",
+      "Digest waste",
+      "Transport oxygen"
     ],
-    "answer": "Clavicle",
-    "explanation": "The clavicle is commonly called the collarbone.",
-    "hint": "It connects the sternum and shoulder.",
-    "memoryTip": "Clavicle = collarbone."
+    "answer": "Store genetic information",
+    "explanation": "DNA stores the instructions used to build proteins and regulate cell activities.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Anatomy",
-    "question": "Which organ pumps blood?",
-    "choices": [
-      "Heart",
-      "Lungs",
-      "Kidney",
-      "Liver"
+    "id": 21,
+    "topic": "RNA",
+    "question": "What sugar is found in RNA?",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Glucose",
+      "Sucrose"
     ],
-    "answer": "Heart",
-    "explanation": "The heart contracts to circulate blood through the body.",
-    "hint": "Think cardiovascular system.",
-    "memoryTip": "Heart = pump."
+    "answer": "Ribose",
+    "explanation": "RNA contains the sugar ribose.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Anatomy",
-    "question": "What type of muscle is voluntary?",
-    "choices": [
-      "Skeletal",
-      "Smooth",
-      "Cardiac",
-      "Involuntary"
+    "id": 22,
+    "topic": "RNA",
+    "question": "Which base is found in RNA instead of thymine?",
+    "options": [
+      "Uracil",
+      "Adenine",
+      "Guanine",
+      "Cytosine"
     ],
-    "answer": "Skeletal",
-    "explanation": "Skeletal muscle is under conscious control and moves bones.",
-    "hint": "You control it to move.",
-    "memoryTip": "Skeletal = voluntary."
+    "answer": "Uracil",
+    "explanation": "RNA contains uracil in place of thymine.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Chemistry",
-    "question": "What particle has a negative charge?",
-    "choices": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Nucleus"
+    "id": 23,
+    "topic": "RNA",
+    "question": "What does mRNA do?",
+    "options": [
+      "Carries genetic instructions to a ribosome",
+      "Carries oxygen",
+      "Stores lipids",
+      "Breaks down waste"
     ],
-    "answer": "Electron",
-    "explanation": "Electrons carry a negative electrical charge.",
-    "hint": "It moves around the nucleus.",
-    "memoryTip": "Electron = negative."
+    "answer": "Carries genetic instructions to a ribosome",
+    "explanation": "Messenger RNA carries a copied genetic message from DNA to a ribosome.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Chemistry",
-    "question": "Atomic number equals what?",
-    "choices": [
-      "Protons",
-      "Neutrons",
-      "Electrons",
-      "Mass"
+    "id": 24,
+    "topic": "RNA",
+    "question": "What is the main function of tRNA?",
+    "options": [
+      "Carry amino acids to the ribosome",
+      "Copy DNA",
+      "Store genetic information",
+      "Form the cell membrane"
     ],
-    "answer": "Protons",
-    "explanation": "An element's atomic number equals its number of protons.",
-    "hint": "This identifies the element.",
-    "memoryTip": "Atomic number = protons."
+    "answer": "Carry amino acids to the ribosome",
+    "explanation": "Transfer RNA brings specific amino acids to the ribosome during translation.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Chemistry",
-    "question": "What is pH less than 7?",
-    "choices": [
-      "Acid",
-      "Base",
-      "Neutral",
-      "Salt"
+    "id": 25,
+    "topic": "RNA",
+    "question": "What is the main role of rRNA?",
+    "options": [
+      "Form part of the ribosome",
+      "Carry oxygen",
+      "Copy chromosomes",
+      "Break down glucose"
     ],
-    "answer": "Acid",
-    "explanation": "A solution with a pH below 7 is acidic.",
-    "hint": "Lower than neutral.",
-    "memoryTip": "Low pH = acid."
+    "answer": "Form part of the ribosome",
+    "explanation": "Ribosomal RNA combines with proteins to form ribosomes.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Chemistry",
-    "question": "Water is what type of molecule?",
-    "choices": [
-      "Polar",
-      "Nonpolar",
-      "Neutral",
-      "Ionic"
+    "id": 26,
+    "topic": "RNA",
+    "question": "What is transcription?",
+    "options": [
+      "Making RNA from a DNA template",
+      "Making DNA from protein",
+      "Making ATP from glucose",
+      "Separating chromosomes"
     ],
-    "answer": "Polar",
-    "explanation": "Water is polar because oxygen and hydrogen share electrons unequally.",
-    "hint": "It has partial charges.",
-    "memoryTip": "Water is polar."
+    "answer": "Making RNA from a DNA template",
+    "explanation": "Transcription uses a DNA template to produce RNA.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Chemistry",
-    "question": "ATP is used for what?",
-    "choices": [
-      "Energy",
-      "Structure",
-      "Storage",
-      "Transport"
+    "id": 27,
+    "topic": "RNA",
+    "question": "Where does transcription occur in a eukaryotic cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Cell membrane",
+      "Golgi apparatus"
     ],
-    "answer": "Energy",
-    "explanation": "ATP is the cell's immediate energy-carrying molecule.",
-    "hint": "Think cellular fuel.",
-    "memoryTip": "ATP = energy."
+    "answer": "Nucleus",
+    "explanation": "Eukaryotic transcription occurs in the nucleus.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Grammar",
-    "question": "Choose the correct sentence.",
-    "choices": [
-      "She is going home.",
-      "She are going home.",
-      "She going home.",
-      "She be going home."
+    "id": 28,
+    "topic": "RNA",
+    "question": "What is translation?",
+    "options": [
+      "Using mRNA to build a protein",
+      "Copying DNA",
+      "Making RNA from DNA",
+      "Splitting one cell into two"
     ],
-    "answer": "She is going home.",
-    "explanation": "The singular subject she takes the verb is.",
-    "hint": "She pairs with is.",
-    "memoryTip": "She is."
+    "answer": "Using mRNA to build a protein",
+    "explanation": "During translation, ribosomes read mRNA codons to assemble amino acids into a protein.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Grammar",
-    "question": "Which is correct?",
-    "choices": [
-      "An apple",
-      "A apple",
-      "The apple",
-      "Apple"
+    "id": 29,
+    "topic": "RNA",
+    "question": "Where does translation occur?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Lysosome",
+      "Centrosome"
     ],
-    "answer": "An apple",
-    "explanation": "Use an before a word beginning with a vowel sound.",
-    "hint": "Apple begins with a vowel sound.",
-    "memoryTip": "An apple."
+    "answer": "Ribosome",
+    "explanation": "Ribosomes read mRNA and build proteins.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Grammar",
-    "question": "Choose the correct word: ___ going to the store.",
-    "choices": [
-      "You're",
-      "Your",
-      "Yours",
-      "You"
+    "id": 30,
+    "topic": "RNA",
+    "question": "What is a codon?",
+    "options": [
+      "A three-base sequence on mRNA",
+      "A two-base sequence on DNA",
+      "A protein organelle",
+      "A chromosome pair"
     ],
-    "answer": "You're",
-    "explanation": "You're is the contraction of you are.",
-    "hint": "Replace it with you are.",
-    "memoryTip": "You're = you are."
+    "answer": "A three-base sequence on mRNA",
+    "explanation": "Each mRNA codon contains three bases and specifies an amino acid or stop signal.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Grammar",
-    "question": "Which is a past tense verb?",
-    "choices": [
-      "Walked",
-      "Walk",
-      "Walking",
-      "Walks"
+    "id": 31,
+    "topic": "Mitosis & Meiosis",
+    "question": "What is the main purpose of mitosis?",
+    "options": [
+      "Growth and tissue repair",
+      "Production of gametes",
+      "Reduction of chromosome number",
+      "Creation of four different cells"
     ],
-    "answer": "Walked",
-    "explanation": "Walked is the simple past-tense form of walk.",
-    "hint": "Look for -ed.",
-    "memoryTip": "Yesterday = walked."
+    "answer": "Growth and tissue repair",
+    "explanation": "Mitosis produces genetically similar cells for growth, replacement, and repair.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Grammar",
-    "question": "Which is correct?",
-    "choices": [
-      "The information is useful.",
-      "The informations are useful.",
-      "Information are useful.",
-      "Informations is useful."
+    "id": 32,
+    "topic": "Mitosis & Meiosis",
+    "question": "How many daughter cells are produced by mitosis?",
+    "options": [
+      "Two",
+      "Four",
+      "One",
+      "Eight"
     ],
-    "answer": "The information is useful.",
-    "explanation": "Information is an uncountable singular noun.",
-    "hint": "Do not pluralize information.",
-    "memoryTip": "Information is."
+    "answer": "Two",
+    "explanation": "Mitosis produces two daughter cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Pharmacology",
-    "question": "What does lisinopril treat?",
-    "choices": [
-      "Hypertension",
-      "Diabetes",
-      "Pain",
-      "Infection"
+    "id": 33,
+    "topic": "Mitosis & Meiosis",
+    "question": "Are daughter cells produced by mitosis usually genetically identical to the parent cell?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in meiosis",
+      "Only in bacteria"
     ],
-    "answer": "Hypertension",
-    "explanation": "Lisinopril is an ACE inhibitor commonly used to treat hypertension.",
-    "hint": "Look for the -pril ending.",
-    "memoryTip": "-pril = ACE inhibitor."
+    "answer": "Yes",
+    "explanation": "Mitosis usually produces daughter cells with the same genetic information as the parent cell.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Pharmacology",
-    "question": "What drug is a bronchodilator?",
-    "choices": [
-      "Albuterol",
-      "Insulin",
-      "Aspirin",
-      "Metformin"
+    "id": 34,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of mitosis do chromosomes line up in the middle of the cell?",
+    "options": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
     ],
-    "answer": "Albuterol",
-    "explanation": "Albuterol relaxes bronchial smooth muscle and opens the airways.",
-    "hint": "Think rescue inhaler.",
-    "memoryTip": "Albuterol allows air."
+    "answer": "Metaphase",
+    "explanation": "During metaphase, chromosomes align along the cell’s equator.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Pharmacology",
-    "question": "What does insulin lower?",
-    "choices": [
-      "Blood sugar",
-      "Blood pressure",
-      "Heart rate",
-      "Oxygen"
+    "id": 35,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of mitosis do sister chromatids separate?",
+    "options": [
+      "Anaphase",
+      "Metaphase",
+      "Prophase",
+      "Telophase"
     ],
-    "answer": "Blood sugar",
-    "explanation": "Insulin lowers blood glucose by helping glucose enter cells.",
-    "hint": "Think diabetes treatment.",
-    "memoryTip": "Insulin lowers sugar."
+    "answer": "Anaphase",
+    "explanation": "During anaphase, sister chromatids are pulled to opposite poles.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Pharmacology",
-    "question": "What class is losartan?",
-    "choices": [
-      "ARB",
-      "ACE inhibitor",
-      "Beta blocker",
-      "Diuretic"
+    "id": 36,
+    "topic": "Mitosis & Meiosis",
+    "question": "What is the main purpose of meiosis?",
+    "options": [
+      "Produce gametes",
+      "Repair tissues",
+      "Replace skin cells",
+      "Produce identical body cells"
     ],
-    "answer": "ARB",
-    "explanation": "Losartan is an angiotensin II receptor blocker.",
-    "hint": "Look for -sartan.",
-    "memoryTip": "-sartan = ARB."
+    "answer": "Produce gametes",
+    "explanation": "Meiosis produces haploid gametes for sexual reproduction.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "topic": "Pharmacology",
-    "question": "What is hydrochlorothiazide?",
-    "choices": [
-      "Diuretic",
-      "Antibiotic",
-      "Antiviral",
-      "Steroid"
+    "id": 37,
+    "topic": "Mitosis & Meiosis",
+    "question": "How many daughter cells are produced by meiosis?",
+    "options": [
+      "Four",
+      "Two",
+      "One",
+      "Eight"
     ],
-    "answer": "Diuretic",
-    "explanation": "Hydrochlorothiazide is a thiazide diuretic used to reduce fluid volume and blood pressure.",
-    "hint": "It helps the kidneys remove water.",
-    "memoryTip": "HCTZ = diuretic."
+    "answer": "Four",
+    "explanation": "Meiosis produces four haploid daughter cells.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 38,
+    "topic": "Mitosis & Meiosis",
+    "question": "What happens to chromosome number during meiosis?",
+    "options": [
+      "It is reduced by half",
+      "It doubles permanently",
+      "It stays diploid in gametes",
+      "It becomes zero"
+    ],
+    "answer": "It is reduced by half",
+    "explanation": "Meiosis reduces the chromosome number from diploid to haploid.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 39,
+    "topic": "Mitosis & Meiosis",
+    "question": "What event during prophase I increases genetic variation?",
+    "options": [
+      "Crossing over",
+      "DNA translation",
+      "Binary fission",
+      "Cytokinesis only"
+    ],
+    "answer": "Crossing over",
+    "explanation": "Crossing over recombines maternal and paternal genetic material.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 40,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of meiosis do homologous chromosome pairs separate?",
+    "options": [
+      "Anaphase I",
+      "Anaphase II",
+      "Metaphase II",
+      "Telophase II"
+    ],
+    "answer": "Anaphase I",
+    "explanation": "Homologous chromosome pairs separate during anaphase I; sister chromatids separate during anaphase II.",
+    "hint": "",
+    "memoryTip": ""
   }
 ]

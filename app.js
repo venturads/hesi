@@ -34,20 +34,30 @@ function validateQuestions(data) {
     throw new Error("questions.json must contain a non-empty array.");
   }
 
-  data.forEach((item, index) => {
+  return data.map((item, index) => {
     const options = item.options ?? item.choices;
+
     if (!item.question || !Array.isArray(options) || options.length < 2 || !item.answer) {
       throw new Error(`Question ${index + 1} is missing a question, options, or answer.`);
     }
-    item.options = options;
-  });
 
-  return data;
+    if (!options.some((option) => normalize(option) === normalize(item.answer))) {
+      throw new Error(`Question ${index + 1} has an answer that is not in its options.`);
+    }
+
+    return {
+      ...item,
+      options
+    };
+  });
 }
 
 async function loadQuestions() {
   try {
-    const response = await fetch(`questions.json?v=${Date.now()}`, { cache: "no-store" });
+    const response = await fetch(`questions.json?v=${Date.now()}`, {
+      cache: "no-store"
+    });
+
     if (!response.ok) {
       throw new Error(`Could not load questions.json (HTTP ${response.status}).`);
     }
@@ -61,7 +71,7 @@ async function loadQuestions() {
     progressEl.textContent = "";
     questionEl.classList.add("error");
     questionEl.textContent =
-      "Questions could not load.\n\nUpload index.html, style.css, app.js, and questions.json together in the same GitHub folder.";
+      "Questions could not load. Upload index.html, style.css, app.js, and questions.json together in the same GitHub folder.";
     explanationEl.classList.add("error");
     explanationEl.textContent = error.message;
   }
@@ -71,8 +81,12 @@ function renderQuestion() {
   const q = questions[current];
   isAnswered = false;
   nextButton.disabled = true;
+  nextButton.textContent =
+    current === questions.length - 1 ? "See Results" : "Next Question";
+
   feedbackEl.textContent = "";
   explanationEl.textContent = "";
+  explanationEl.classList.remove("error");
   questionEl.classList.remove("error");
   choicesEl.innerHTML = "";
 
@@ -94,10 +108,12 @@ function renderQuestion() {
 
 function checkAnswer(choice, selectedButton, q) {
   if (isAnswered) return;
+
   isAnswered = true;
   answered += 1;
 
   const correct = normalize(choice) === normalize(q.answer);
+
   if (correct) {
     score += 1;
     selectedButton.classList.add("correct");
@@ -114,12 +130,12 @@ function checkAnswer(choice, selectedButton, q) {
     }
   });
 
-  explanationEl.textContent = q.explanation
-    ? `Answer: ${q.answer}\n${q.explanation}`
-    : `Correct answer: ${q.answer}`;
+  const details = [`Answer: ${q.answer}`];
+  if (q.explanation) details.push(q.explanation);
+  if (q.memoryTip) details.push(`Memory tip: ${q.memoryTip}`);
+  explanationEl.textContent = details.join("\n");
 
   nextButton.disabled = false;
-  nextButton.textContent = current === questions.length - 1 ? "See Results" : "Next Question";
   updateScore();
 }
 
@@ -129,26 +145,37 @@ function nextQuestion() {
   if (current < questions.length - 1) {
     current += 1;
     renderQuestion();
-    return;
+  } else {
+    showResults();
   }
-
-  showResults();
 }
 
 function showResults() {
-  const percent = questions.length ? Math.round((score / questions.length) * 100) : 0;
+  const percent = questions.length
+    ? Math.round((score / questions.length) * 100)
+    : 0;
+
   topicEl.textContent = "Quiz complete";
   progressEl.textContent = `${questions.length} questions`;
-  questionEl.textContent = `Final score: ${score} / ${questions.length} (${percent}%)`;
+  questionEl.textContent =
+    `Final score: ${score} / ${questions.length} (${percent}%)`;
+
   choicesEl.innerHTML = "";
-  feedbackEl.textContent = percent >= 75 ? "🎉 Nice work!" : "💪 Keep practicing—you’re building it.";
-  explanationEl.textContent = "Tap Restart Quiz to reshuffle every question and try again.";
+  feedbackEl.textContent =
+    percent >= 75
+      ? "🎉 Nice work!"
+      : "💪 Keep practicing—you’re building it.";
+
+  explanationEl.textContent =
+    "Tap Restart Quiz to reshuffle every question and try again.";
+
   nextButton.disabled = true;
   nextButton.textContent = "Quiz Finished";
 }
 
 function restartQuiz() {
   if (questions.length === 0) return;
+
   questions = shuffle(questions);
   current = 0;
   score = 0;
@@ -162,4 +189,5 @@ function updateScore() {
 
 nextButton.addEventListener("click", nextQuestion);
 restartButton.addEventListener("click", restartQuiz);
+
 loadQuestions();
