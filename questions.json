@@ -1,602 +1,208 @@
 [
   {
     "id": 1,
-    "topic": "Cell Theory Scientists",
-    "question": "Which scientist first used the term “cell” after examining cork?",
-    "options": [
-      "Robert Hooke",
-      "Anton van Leeuwenhoek",
-      "Matthias Schleiden",
-      "Rudolf Virchow"
-    ],
-    "answer": "Robert Hooke",
-    "explanation": "Robert Hooke examined cork and called the small boxlike compartments cells.",
+    "topic": "Microbiology",
+    "question": "Which bacterial structure allows survival through extreme heat, radiation, and desiccation?",
+    "options": ["Endospore", "Capsule", "Fimbriae", "Flagellum"],
+    "answer": "Endospore",
+    "explanation": "Endospores are highly resistant dormant structures formed by certain bacteria.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 2,
-    "topic": "Cell Theory Scientists",
-    "question": "Which scientist first observed living microorganisms using a simple microscope?",
-    "options": [
-      "Anton van Leeuwenhoek",
-      "Robert Hooke",
-      "Theodor Schwann",
-      "Matthias Schleiden"
-    ],
-    "answer": "Anton van Leeuwenhoek",
-    "explanation": "Anton van Leeuwenhoek used powerful single-lens microscopes to observe living microorganisms.",
+    "topic": "Microbiology",
+    "question": "Which process involves bacterial uptake of naked DNA from the environment?",
+    "options": ["Transformation", "Transduction", "Conjugation", "Binary fission"],
+    "answer": "Transformation",
+    "explanation": "Transformation occurs when bacteria incorporate free DNA into their genome.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 3,
-    "topic": "Cell Theory Scientists",
-    "question": "Who concluded that all plants are made of cells?",
-    "options": [
-      "Matthias Schleiden",
-      "Theodor Schwann",
-      "Rudolf Virchow",
-      "Robert Hooke"
-    ],
-    "answer": "Matthias Schleiden",
-    "explanation": "Matthias Schleiden proposed that all plants are composed of cells.",
+    "topic": "Microbiology",
+    "question": "Which microorganism lacks a true nucleus and membrane-bound organelles?",
+    "options": ["Bacteria", "Fungi", "Protozoa", "Helminths"],
+    "answer": "Bacteria",
+    "explanation": "Bacteria are prokaryotes and lack membrane-bound organelles.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 4,
-    "topic": "Cell Theory Scientists",
-    "question": "Who concluded that all animals are made of cells?",
-    "options": [
-      "Theodor Schwann",
-      "Matthias Schleiden",
-      "Anton van Leeuwenhoek",
-      "Rudolf Virchow"
-    ],
-    "answer": "Theodor Schwann",
-    "explanation": "Theodor Schwann proposed that all animals are composed of cells.",
+    "topic": "Microbiology",
+    "question": "Which viral replication step involves synthesis of viral proteins?",
+    "options": ["Biosynthesis", "Attachment", "Assembly", "Release"],
+    "answer": "Biosynthesis",
+    "explanation": "During biosynthesis, viral nucleic acids and proteins are produced.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 5,
-    "topic": "Cell Theory Scientists",
-    "question": "Who stated that all cells come from preexisting cells?",
-    "options": [
-      "Rudolf Virchow",
-      "Robert Hooke",
-      "Theodor Schwann",
-      "Anton van Leeuwenhoek"
-    ],
-    "answer": "Rudolf Virchow",
-    "explanation": "Rudolf Virchow added that cells arise only from preexisting cells.",
+    "topic": "Microbiology",
+    "question": "Which pathogen is responsible for causing tuberculosis?",
+    "options": ["Mycobacterium tuberculosis", "Streptococcus pyogenes", "Salmonella enterica", "Clostridium tetani"],
+    "answer": "Mycobacterium tuberculosis",
+    "explanation": "Mycobacterium tuberculosis is an acid-fast bacterium that causes TB.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 6,
-    "topic": "Cell Theory Scientists",
-    "question": "Which scientist studied cork rather than living microorganisms?",
-    "options": [
-      "Robert Hooke",
-      "Anton van Leeuwenhoek",
-      "Rudolf Virchow",
-      "Theodor Schwann"
-    ],
-    "answer": "Robert Hooke",
-    "explanation": "Hooke examined nonliving cork tissue and described its compartments as cells.",
+    "topic": "Microbiology",
+    "question": "Which fungal structure produces asexual spores?",
+    "options": ["Conidiophore", "Basidium", "Ascus", "Hypha"],
+    "answer": "Conidiophore",
+    "explanation": "Conidiophores generate conidia, which are asexual fungal spores.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 7,
-    "topic": "Cell Theory Scientists",
-    "question": "Which scientist is often called the father of microbiology?",
-    "options": [
-      "Anton van Leeuwenhoek",
-      "Robert Hooke",
-      "Matthias Schleiden",
-      "Theodor Schwann"
-    ],
-    "answer": "Anton van Leeuwenhoek",
-    "explanation": "Leeuwenhoek is often called the father of microbiology because he first described living microorganisms.",
+    "topic": "Microbiology",
+    "question": "Which type of microorganism requires oxygen for survival?",
+    "options": ["Obligate aerobes", "Obligate anaerobes", "Facultative anaerobes", "Microaerophiles"],
+    "answer": "Obligate aerobes",
+    "explanation": "Obligate aerobes depend on oxygen for ATP production.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 8,
-    "topic": "Cell Theory Scientists",
-    "question": "Schleiden’s work focused primarily on which type of organism?",
-    "options": [
-      "Plants",
-      "Animals",
-      "Bacteria",
-      "Viruses"
-    ],
-    "answer": "Plants",
-    "explanation": "Schleiden was a botanist who concluded that plants are made of cells.",
+    "topic": "Microbiology",
+    "question": "Which structure allows bacteria to exchange genetic material during conjugation?",
+    "options": ["Pilus", "Flagellum", "Capsule", "Cell membrane"],
+    "answer": "Pilus",
+    "explanation": "Pili form bridges between bacteria for DNA transfer.",
     "hint": "",
     "memoryTip": ""
   },
+
   {
     "id": 9,
-    "topic": "Cell Theory Scientists",
-    "question": "Schwann’s work focused primarily on which type of organism?",
-    "options": [
-      "Animals",
-      "Plants",
-      "Bacteria",
-      "Fungi only"
-    ],
-    "answer": "Animals",
-    "explanation": "Schwann concluded that animal tissues are made of cells.",
+    "topic": "Chemistry",
+    "question": "Which type of chemical reaction involves electron transfer?",
+    "options": ["Redox reaction", "Decomposition", "Neutralization", "Condensation"],
+    "answer": "Redox reaction",
+    "explanation": "Redox reactions involve oxidation and reduction processes.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 10,
-    "topic": "Cell Theory Scientists",
-    "question": "Which statement is most closely associated with Rudolf Virchow?",
-    "options": [
-      "Cells arise from existing cells",
-      "Plants are made of cells",
-      "Animals are made of cells",
-      "Cork contains compartments"
-    ],
-    "answer": "Cells arise from existing cells",
-    "explanation": "Virchow stated that every cell comes from another existing cell.",
+    "topic": "Chemistry",
+    "question": "What is the pH of a solution with a hydrogen ion concentration of 1 × 10⁻⁴?",
+    "options": ["4", "7", "10", "12"],
+    "answer": "4",
+    "explanation": "pH is the negative log of hydrogen ion concentration.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 11,
-    "topic": "DNA",
-    "question": "What sugar is found in DNA?",
-    "options": [
-      "Deoxyribose",
-      "Ribose",
-      "Glucose",
-      "Fructose"
-    ],
-    "answer": "Deoxyribose",
-    "explanation": "DNA contains the five-carbon sugar deoxyribose.",
+    "topic": "Chemistry",
+    "question": "Which intermolecular force is strongest?",
+    "options": ["Hydrogen bonding", "Dipole-dipole", "London dispersion", "Ion-induced dipole"],
+    "answer": "Hydrogen bonding",
+    "explanation": "Hydrogen bonds are stronger than other intermolecular forces.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 12,
-    "topic": "DNA",
-    "question": "Which bases are found in DNA?",
-    "options": [
-      "Adenine, thymine, cytosine, and guanine",
-      "Adenine, uracil, cytosine, and guanine",
-      "Adenine, thymine, uracil, and guanine",
-      "Uracil, thymine, cytosine, and guanine"
-    ],
-    "answer": "Adenine, thymine, cytosine, and guanine",
-    "explanation": "The four DNA bases are adenine, thymine, cytosine, and guanine.",
+    "topic": "Chemistry",
+    "question": "Which gas law states that pressure is inversely proportional to volume?",
+    "options": ["Boyle’s law", "Charles’s law", "Dalton’s law", "Henry’s law"],
+    "answer": "Boyle’s law",
+    "explanation": "Boyle’s law describes the inverse relationship between pressure and volume.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 13,
-    "topic": "DNA",
-    "question": "In DNA, adenine pairs with which base?",
-    "options": [
-      "Thymine",
-      "Uracil",
-      "Cytosine",
-      "Guanine"
-    ],
-    "answer": "Thymine",
-    "explanation": "Adenine pairs with thymine in double-stranded DNA.",
+    "topic": "Chemistry",
+    "question": "Which term describes the minimum energy required for a reaction to occur?",
+    "options": ["Activation energy", "Bond energy", "Lattice energy", "Potential energy"],
+    "answer": "Activation energy",
+    "explanation": "Activation energy is needed to initiate a chemical reaction.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 14,
-    "topic": "DNA",
-    "question": "In DNA, guanine pairs with which base?",
-    "options": [
-      "Cytosine",
-      "Thymine",
-      "Uracil",
-      "Adenine"
-    ],
-    "answer": "Cytosine",
-    "explanation": "Guanine pairs with cytosine in DNA.",
+    "topic": "Chemistry",
+    "question": "Which solution resists changes in pH?",
+    "options": ["Buffer", "Colloid", "Suspension", "Solvent"],
+    "answer": "Buffer",
+    "explanation": "Buffers stabilize pH by neutralizing added acids or bases.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 15,
-    "topic": "DNA",
-    "question": "What is the usual shape of a DNA molecule?",
-    "options": [
-      "Double helix",
-      "Single straight strand",
-      "Triple helix",
-      "Circular protein chain"
-    ],
-    "answer": "Double helix",
-    "explanation": "DNA usually consists of two strands twisted into a double helix.",
+    "topic": "Chemistry",
+    "question": "Which type of bond forms between metal atoms?",
+    "options": ["Metallic bond", "Ionic bond", "Covalent bond", "Hydrogen bond"],
+    "answer": "Metallic bond",
+    "explanation": "Metallic bonds involve delocalized electrons shared among metal atoms.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 16,
-    "topic": "DNA",
-    "question": "What is the basic building block of DNA?",
-    "options": [
-      "Nucleotide",
-      "Amino acid",
-      "Fatty acid",
-      "Monosaccharide"
-    ],
-    "answer": "Nucleotide",
-    "explanation": "DNA is a polymer made of nucleotide subunits.",
+    "topic": "Chemistry",
+    "question": "Which orbital has a cloverleaf shape?",
+    "options": ["d orbital", "s orbital", "p orbital", "f orbital"],
+    "answer": "d orbital",
+    "explanation": "d orbitals have complex cloverleaf-like shapes.",
     "hint": "",
     "memoryTip": ""
   },
+
   {
     "id": 17,
-    "topic": "DNA",
-    "question": "Where is most DNA located in a eukaryotic cell?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus",
-      "Lysosome"
-    ],
-    "answer": "Nucleus",
-    "explanation": "Most eukaryotic DNA is stored in the nucleus.",
+    "topic": "Anatomy & Physiology",
+    "question": "Which part of the nephron is responsible for filtration?",
+    "options": ["Glomerulus", "Loop of Henle", "Distal tubule", "Collecting duct"],
+    "answer": "Glomerulus",
+    "explanation": "The glomerulus filters blood plasma into the nephron.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 18,
-    "topic": "DNA",
-    "question": "What is DNA replication?",
-    "options": [
-      "Making a copy of DNA",
-      "Making protein from RNA",
-      "Making RNA from protein",
-      "Dividing the cytoplasm"
-    ],
-    "answer": "Making a copy of DNA",
-    "explanation": "DNA replication produces an identical DNA copy before cell division.",
+    "topic": "Anatomy & Physiology",
+    "question": "Which hormone increases blood calcium levels?",
+    "options": ["Parathyroid hormone", "Calcitonin", "Insulin", "Aldosterone"],
+    "answer": "Parathyroid hormone",
+    "explanation": "PTH raises blood calcium by stimulating bone resorption.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 19,
-    "topic": "DNA",
-    "question": "During which phase of interphase is DNA replicated?",
-    "options": [
-      "S phase",
-      "G1 phase",
-      "G2 phase",
-      "M phase"
-    ],
-    "answer": "S phase",
-    "explanation": "DNA is synthesized during the S phase of interphase.",
+    "topic": "Anatomy & Physiology",
+    "question": "Which structure initiates the heartbeat?",
+    "options": ["SA node", "AV node", "Bundle of His", "Purkinje fibers"],
+    "answer": "SA node",
+    "explanation": "The SA node acts as the heart’s natural pacemaker.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 20,
-    "topic": "DNA",
-    "question": "What is the primary function of DNA?",
-    "options": [
-      "Store genetic information",
-      "Produce ATP directly",
-      "Digest waste",
-      "Transport oxygen"
-    ],
-    "answer": "Store genetic information",
-    "explanation": "DNA stores the instructions used to build proteins and regulate cell activities.",
+    "topic": "Anatomy & Physiology",
+    "question": "Which muscle fiber type is most resistant to fatigue?",
+    "options": ["Type I", "Type IIa", "Type IIb", "Fast glycolytic"],
+    "answer": "Type I",
+    "explanation": "Type I fibers rely on aerobic metabolism and resist fatigue.",
     "hint": "",
     "memoryTip": ""
   },
   {
     "id": 21,
-    "topic": "RNA",
-    "question": "What sugar is found in RNA?",
-    "options": [
-      "Ribose",
-      "Deoxyribose",
-      "Glucose",
-      "Sucrose"
-    ],
-    "answer": "Ribose",
-    "explanation": "RNA contains the sugar ribose.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 22,
-    "topic": "RNA",
-    "question": "Which base is found in RNA instead of thymine?",
-    "options": [
-      "Uracil",
-      "Adenine",
-      "Guanine",
-      "Cytosine"
-    ],
-    "answer": "Uracil",
-    "explanation": "RNA contains uracil in place of thymine.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 23,
-    "topic": "RNA",
-    "question": "What does mRNA do?",
-    "options": [
-      "Carries genetic instructions to a ribosome",
-      "Carries oxygen",
-      "Stores lipids",
-      "Breaks down waste"
-    ],
-    "answer": "Carries genetic instructions to a ribosome",
-    "explanation": "Messenger RNA carries a copied genetic message from DNA to a ribosome.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 24,
-    "topic": "RNA",
-    "question": "What is the main function of tRNA?",
-    "options": [
-      "Carry amino acids to the ribosome",
-      "Copy DNA",
-      "Store genetic information",
-      "Form the cell membrane"
-    ],
-    "answer": "Carry amino acids to the ribosome",
-    "explanation": "Transfer RNA brings specific amino acids to the ribosome during translation.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 25,
-    "topic": "RNA",
-    "question": "What is the main role of rRNA?",
-    "options": [
-      "Form part of the ribosome",
-      "Carry oxygen",
-      "Copy chromosomes",
-      "Break down glucose"
-    ],
-    "answer": "Form part of the ribosome",
-    "explanation": "Ribosomal RNA combines with proteins to form ribosomes.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 26,
-    "topic": "RNA",
-    "question": "What is transcription?",
-    "options": [
-      "Making RNA from a DNA template",
-      "Making DNA from protein",
-      "Making ATP from glucose",
-      "Separating chromosomes"
-    ],
-    "answer": "Making RNA from a DNA template",
-    "explanation": "Transcription uses a DNA template to produce RNA.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 27,
-    "topic": "RNA",
-    "question": "Where does transcription occur in a eukaryotic cell?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Cell membrane",
-      "Golgi apparatus"
-    ],
-    "answer": "Nucleus",
-    "explanation": "Eukaryotic transcription occurs in the nucleus.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 28,
-    "topic": "RNA",
-    "question": "What is translation?",
-    "options": [
-      "Using mRNA to build a protein",
-      "Copying DNA",
-      "Making RNA from DNA",
-      "Splitting one cell into two"
-    ],
-    "answer": "Using mRNA to build a protein",
-    "explanation": "During translation, ribosomes read mRNA codons to assemble amino acids into a protein.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 29,
-    "topic": "RNA",
-    "question": "Where does translation occur?",
-    "options": [
-      "Ribosome",
-      "Nucleus",
-      "Lysosome",
-      "Centrosome"
-    ],
-    "answer": "Ribosome",
-    "explanation": "Ribosomes read mRNA and build proteins.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 30,
-    "topic": "RNA",
-    "question": "What is a codon?",
-    "options": [
-      "A three-base sequence on mRNA",
-      "A two-base sequence on DNA",
-      "A protein organelle",
-      "A chromosome pair"
-    ],
-    "answer": "A three-base sequence on mRNA",
-    "explanation": "Each mRNA codon contains three bases and specifies an amino acid or stop signal.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 31,
-    "topic": "Mitosis & Meiosis",
-    "question": "What is the main purpose of mitosis?",
-    "options": [
-      "Growth and tissue repair",
-      "Production of gametes",
-      "Reduction of chromosome number",
-      "Creation of four different cells"
-    ],
-    "answer": "Growth and tissue repair",
-    "explanation": "Mitosis produces genetically similar cells for growth, replacement, and repair.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 32,
-    "topic": "Mitosis & Meiosis",
-    "question": "How many daughter cells are produced by mitosis?",
-    "options": [
-      "Two",
-      "Four",
-      "One",
-      "Eight"
-    ],
-    "answer": "Two",
-    "explanation": "Mitosis produces two daughter cells.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 33,
-    "topic": "Mitosis & Meiosis",
-    "question": "Are daughter cells produced by mitosis usually genetically identical to the parent cell?",
-    "options": [
-      "Yes",
-      "No",
-      "Only in meiosis",
-      "Only in bacteria"
-    ],
-    "answer": "Yes",
-    "explanation": "Mitosis usually produces daughter cells with the same genetic information as the parent cell.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 34,
-    "topic": "Mitosis & Meiosis",
-    "question": "During which stage of mitosis do chromosomes line up in the middle of the cell?",
-    "options": [
-      "Metaphase",
-      "Prophase",
-      "Anaphase",
-      "Telophase"
-    ],
-    "answer": "Metaphase",
-    "explanation": "During metaphase, chromosomes align along the cell’s equator.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 35,
-    "topic": "Mitosis & Meiosis",
-    "question": "During which stage of mitosis do sister chromatids separate?",
-    "options": [
-      "Anaphase",
-      "Metaphase",
-      "Prophase",
-      "Telophase"
-    ],
-    "answer": "Anaphase",
-    "explanation": "During anaphase, sister chromatids are pulled to opposite poles.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 36,
-    "topic": "Mitosis & Meiosis",
-    "question": "What is the main purpose of meiosis?",
-    "options": [
-      "Produce gametes",
-      "Repair tissues",
-      "Replace skin cells",
-      "Produce identical body cells"
-    ],
-    "answer": "Produce gametes",
-    "explanation": "Meiosis produces haploid gametes for sexual reproduction.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 37,
-    "topic": "Mitosis & Meiosis",
-    "question": "How many daughter cells are produced by meiosis?",
-    "options": [
-      "Four",
-      "Two",
-      "One",
-      "Eight"
-    ],
-    "answer": "Four",
-    "explanation": "Meiosis produces four haploid daughter cells.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 38,
-    "topic": "Mitosis & Meiosis",
-    "question": "What happens to chromosome number during meiosis?",
-    "options": [
-      "It is reduced by half",
-      "It doubles permanently",
-      "It stays diploid in gametes",
-      "It becomes zero"
-    ],
-    "answer": "It is reduced by half",
-    "explanation": "Meiosis reduces the chromosome number from diploid to haploid.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 39,
-    "topic": "Mitosis & Meiosis",
-    "question": "What event during prophase I increases genetic variation?",
-    "options": [
-      "Crossing over",
-      "DNA translation",
-      "Binary fission",
-      "Cytokinesis only"
-    ],
-    "answer": "Crossing over",
-    "explanation": "Crossing over recombines maternal and paternal genetic material.",
-    "hint": "",
-    "memoryTip": ""
-  },
-  {
-    "id": 40,
-    "topic": "Mitosis & Meiosis",
-    "question": "During which stage of meiosis do homologous chromosome pairs separate?",
-    "options": [
-      "Anaphase I",
-      "Anaphase II",
-      "Metaphase II",
-      "Telophase II"
-    ],
-    "answer": "Anaphase I",
-    "explanation": "Homologous chromosome pairs separate during anaphase I; sister chromatids separate during anaphase II.",
-    "hint": "",
-    "memoryTip": ""
-  }
-]
+    "topic": "Anatomy & Physiology",
+    "question": "Which brain region regulates hunger and body temperature?",
+    "options": ["Hypothalamus", "Cerebellum",
