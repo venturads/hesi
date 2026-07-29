@@ -1,1088 +1,188 @@
 [
   {
     "id": 1,
-    "topic": "Microbiology",
-    "question": "What structure primarily allows many bacteria to move?",
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist first used the term “cell” after examining cork?",
     "options": [
-      "Flagellum",
-      "Capsule",
-      "Ribosome",
-      "Cell wall"
+      "Robert Hooke",
+      "Anton van Leeuwenhoek",
+      "Matthias Schleiden",
+      "Rudolf Virchow"
     ],
-    "answer": "Flagellum",
-    "hint": "Think of a whip-like tail.",
-    "explanation": "A flagellum rotates like a propeller and helps a bacterium move.",
-    "memoryTip": "Flagellum = bacterial tail for travel."
+    "answer": "Robert Hooke",
+    "explanation": "Robert Hooke examined cork and called the small boxlike compartments cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 2,
-    "topic": "Microbiology",
-    "question": "Which bacterial structure commonly carries extra genes such as antibiotic-resistance genes?",
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist first observed living microorganisms using a simple microscope?",
     "options": [
-      "Plasmid",
-      "Nucleoid",
-      "Capsule",
-      "Endospore"
+      "Anton van Leeuwenhoek",
+      "Robert Hooke",
+      "Theodor Schwann",
+      "Matthias Schleiden"
     ],
-    "answer": "Plasmid",
-    "hint": "Think of bonus DNA.",
-    "explanation": "A plasmid is a small circular piece of DNA separate from the main bacterial chromosome.",
-    "memoryTip": "Plasmid = portable bonus genes."
+    "answer": "Anton van Leeuwenhoek",
+    "explanation": "Anton van Leeuwenhoek used powerful single-lens microscopes to observe living microorganisms.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 3,
-    "topic": "Microbiology",
-    "question": "What is the main function of a sex pilus?",
+    "topic": "Cell Theory Scientists",
+    "question": "Who concluded that all plants are made of cells?",
     "options": [
-      "Transfer DNA during conjugation",
-      "Produce ATP",
-      "Make proteins",
-      "Form endospores"
+      "Matthias Schleiden",
+      "Theodor Schwann",
+      "Rudolf Virchow",
+      "Robert Hooke"
     ],
-    "answer": "Transfer DNA during conjugation",
-    "hint": "It builds a bridge between bacteria.",
-    "explanation": "A sex pilus connects bacterial cells so plasmid DNA can be transferred during conjugation.",
-    "memoryTip": "Pilus = passage for plasmids."
+    "answer": "Matthias Schleiden",
+    "explanation": "Matthias Schleiden proposed that all plants are composed of cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 4,
-    "topic": "Microbiology",
-    "question": "Which bacterial structure is made largely of peptidoglycan?",
+    "topic": "Cell Theory Scientists",
+    "question": "Who concluded that all animals are made of cells?",
     "options": [
-      "Cell wall",
-      "Capsule",
-      "Plasma membrane",
-      "Flagellum"
+      "Theodor Schwann",
+      "Matthias Schleiden",
+      "Anton van Leeuwenhoek",
+      "Rudolf Virchow"
     ],
-    "answer": "Cell wall",
-    "hint": "Think rigid bacterial support.",
-    "explanation": "Peptidoglycan forms the strong mesh-like layer of bacterial cell walls.",
-    "memoryTip": "Peptidoglycan puts strength in the wall."
+    "answer": "Theodor Schwann",
+    "explanation": "Theodor Schwann proposed that all animals are composed of cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 5,
-    "topic": "Microbiology",
-    "question": "Gram-positive bacteria have which major cell-wall feature?",
+    "topic": "Cell Theory Scientists",
+    "question": "Who stated that all cells come from preexisting cells?",
     "options": [
-      "Thick peptidoglycan",
-      "Thin peptidoglycan plus an outer membrane",
-      "No cell wall",
-      "A cellulose wall"
+      "Rudolf Virchow",
+      "Robert Hooke",
+      "Theodor Schwann",
+      "Anton van Leeuwenhoek"
     ],
-    "answer": "Thick peptidoglycan",
-    "hint": "Positive holds purple tightly.",
-    "explanation": "Gram-positive bacteria retain crystal violet because of their thick peptidoglycan layer.",
-    "memoryTip": "Gram-positive = thick wall, purple stain."
+    "answer": "Rudolf Virchow",
+    "explanation": "Rudolf Virchow added that cells arise only from preexisting cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 6,
-    "topic": "Microbiology",
-    "question": "Gram-negative bacteria contain which substance in their outer membrane?",
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist studied cork rather than living microorganisms?",
     "options": [
-      "Lipopolysaccharide (LPS)",
-      "Teichoic acid only",
-      "Cellulose",
-      "Chitin"
+      "Robert Hooke",
+      "Anton van Leeuwenhoek",
+      "Rudolf Virchow",
+      "Theodor Schwann"
     ],
-    "answer": "Lipopolysaccharide (LPS)",
-    "hint": "Think outer membrane endotoxin.",
-    "explanation": "The outer membrane of Gram-negative bacteria contains LPS, which includes endotoxin.",
-    "memoryTip": "Negative = outer membrane with LPS."
+    "answer": "Robert Hooke",
+    "explanation": "Hooke examined nonliving cork tissue and described its compartments as cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 7,
-    "topic": "Microbiology",
-    "question": "What is an endospore?",
+    "topic": "Cell Theory Scientists",
+    "question": "Which scientist is often called the father of microbiology?",
     "options": [
-      "A dormant survival structure",
-      "A reproductive cell",
-      "A bacterial nucleus",
-      "A protein-making organelle"
+      "Anton van Leeuwenhoek",
+      "Robert Hooke",
+      "Matthias Schleiden",
+      "Theodor Schwann"
     ],
-    "answer": "A dormant survival structure",
-    "hint": "It helps bacteria wait out danger.",
-    "explanation": "Some bacteria form endospores to survive heat, drying, or chemicals; endospores are not reproductive.",
-    "memoryTip": "Endospore = emergency survival pod."
+    "answer": "Anton van Leeuwenhoek",
+    "explanation": "Leeuwenhoek is often called the father of microbiology because he first described living microorganisms.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 8,
-    "topic": "Microbiology",
-    "question": "Quorum sensing allows bacteria to do what?",
+    "topic": "Cell Theory Scientists",
+    "question": "Schleiden’s work focused primarily on which type of organism?",
     "options": [
-      "Coordinate behavior based on population density",
-      "Perform photosynthesis",
-      "Produce human antibodies",
-      "Digest viruses"
+      "Plants",
+      "Animals",
+      "Bacteria",
+      "Viruses"
     ],
-    "answer": "Coordinate behavior based on population density",
-    "hint": "Think bacterial group chat.",
-    "explanation": "Bacteria release and detect signaling molecules to coordinate group actions once enough cells are present.",
-    "memoryTip": "Quorum = enough bacteria to make a group decision."
+    "answer": "Plants",
+    "explanation": "Schleiden was a botanist who concluded that plants are made of cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 9,
-    "topic": "Microbiology",
-    "question": "An obligate aerobe requires what to grow?",
+    "topic": "Cell Theory Scientists",
+    "question": "Schwann’s work focused primarily on which type of organism?",
     "options": [
-      "Oxygen",
-      "No oxygen",
-      "Only carbon dioxide",
-      "Only sunlight"
+      "Animals",
+      "Plants",
+      "Bacteria",
+      "Fungi only"
     ],
-    "answer": "Oxygen",
-    "hint": "Aero means air.",
-    "explanation": "Obligate aerobes depend on oxygen for metabolism.",
-    "memoryTip": "Obligate aerobe = obligated to use oxygen."
+    "answer": "Animals",
+    "explanation": "Schwann concluded that animal tissues are made of cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 10,
-    "topic": "Microbiology",
-    "question": "An obligate anaerobe is harmed by what?",
+    "topic": "Cell Theory Scientists",
+    "question": "Which statement is most closely associated with Rudolf Virchow?",
     "options": [
-      "Oxygen",
-      "Water",
-      "Glucose",
-      "Nitrogen"
+      "Cells arise from existing cells",
+      "Plants are made of cells",
+      "Animals are made of cells",
+      "Cork contains compartments"
     ],
-    "answer": "Oxygen",
-    "hint": "Anaerobe avoids air.",
-    "explanation": "Obligate anaerobes cannot tolerate oxygen and grow only where oxygen is absent.",
-    "memoryTip": "Anaerobe = air is dangerous."
+    "answer": "Cells arise from existing cells",
+    "explanation": "Virchow stated that every cell comes from another existing cell.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 11,
-    "topic": "Microbiology",
-    "question": "A facultative anaerobe can grow under which conditions?",
+    "topic": "DNA",
+    "question": "What sugar is found in DNA?",
     "options": [
-      "With or without oxygen",
-      "Only with oxygen",
-      "Only without oxygen",
-      "Only in sunlight"
+      "Deoxyribose",
+      "Ribose",
+      "Glucose",
+      "Fructose"
     ],
-    "answer": "With or without oxygen",
-    "hint": "Facultative means flexible.",
-    "explanation": "Facultative anaerobes use oxygen when available but can also grow without it.",
-    "memoryTip": "Facultative = flexible about oxygen."
+    "answer": "Deoxyribose",
+    "explanation": "DNA contains the five-carbon sugar deoxyribose.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 12,
-    "topic": "Microbiology",
-    "question": "Which organism moves by pseudopods?",
+    "topic": "DNA",
+    "question": "Which bases are found in DNA?",
     "options": [
-      "Amoeba",
-      "Paramecium",
-      "Euglena",
-      "Giardia"
+      "Adenine, thymine, cytosine, and guanine",
+      "Adenine, uracil, cytosine, and guanine",
+      "Adenine, thymine, uracil, and guanine",
+      "Uracil, thymine, cytosine, and guanine"
     ],
-    "answer": "Amoeba",
-    "hint": "Think false feet.",
-    "explanation": "Amoebas extend temporary cytoplasmic projections called pseudopods for movement and feeding.",
-    "memoryTip": "Amoeba moves with pretend feet."
+    "answer": "Adenine, thymine, cytosine, and guanine",
+    "explanation": "The four DNA bases are adenine, thymine, cytosine, and guanine.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
     "id": 13,
-    "topic": "Microbiology",
-    "question": "Which protist is slipper-shaped and covered with cilia?",
-    "options": [
-      "Paramecium",
-      "Amoeba",
-      "Giardia",
-      "Plasmodium"
-    ],
-    "answer": "Paramecium",
-    "hint": "Think fuzzy slipper.",
-    "explanation": "Paramecia use many short cilia for movement and feeding.",
-    "memoryTip": "Paramecium = slipper with cilia."
-  },
-  {
-    "id": 14,
-    "topic": "Microbiology",
-    "question": "Which protist commonly moves with a flagellum and may contain chloroplasts?",
-    "options": [
-      "Euglena",
-      "Amoeba",
-      "Toxoplasma",
-      "Paramecium"
-    ],
-    "answer": "Euglena",
-    "hint": "Think long green swimmer.",
-    "explanation": "Euglena has a flagellum and many species can photosynthesize.",
-    "memoryTip": "Euglena = green flagellated swimmer."
-  },
-  {
-    "id": 15,
-    "topic": "Microbiology",
-    "question": "Which parasite is associated with contaminated water and may appear face-like under a microscope?",
-    "options": [
-      "Giardia",
-      "Plasmodium",
-      "Trypanosoma",
-      "Trichomonas"
-    ],
-    "answer": "Giardia",
-    "hint": "Think camping water and a tiny face.",
-    "explanation": "Giardia is a flagellated intestinal protozoan often spread through contaminated water.",
-    "memoryTip": "Giardia = face in unsafe water."
-  },
-  {
-    "id": 16,
-    "topic": "Microbiology",
-    "question": "Which protozoan causes malaria?",
-    "options": [
-      "Plasmodium",
-      "Giardia",
-      "Amoeba",
-      "Trichomonas"
-    ],
-    "answer": "Plasmodium",
-    "hint": "Think mosquito-borne parasite.",
-    "explanation": "Plasmodium species are transmitted by Anopheles mosquitoes and cause malaria.",
-    "memoryTip": "Plasmodium = parasite behind malaria."
-  },
-  {
-    "id": 17,
-    "topic": "Microbiology",
-    "question": "What is the first step of the typical viral life cycle?",
-    "options": [
-      "Attachment",
-      "Assembly",
-      "Release",
-      "Uncoating"
-    ],
-    "answer": "Attachment",
-    "hint": "The virus must grab the cell first.",
-    "explanation": "A virus first binds to specific receptors on a host cell.",
-    "memoryTip": "Attach before entering."
-  },
-  {
-    "id": 18,
-    "topic": "Microbiology",
-    "question": "During viral uncoating, what happens?",
-    "options": [
-      "The viral genetic material is released",
-      "The virus leaves the cell",
-      "The capsid is assembled",
-      "The host cell divides"
-    ],
-    "answer": "The viral genetic material is released",
-    "hint": "Think taking off a coat.",
-    "explanation": "Uncoating removes the viral capsid so the genome can become available inside the host cell.",
-    "memoryTip": "Uncoating = viral coat comes off."
-  },
-  {
-    "id": 19,
-    "topic": "Microbiology",
-    "question": "Viruses depend on host cells mainly because viruses lack what?",
-    "options": [
-      "Complete machinery for independent reproduction",
-      "Genetic material",
-      "Protein coats",
-      "Surface proteins"
-    ],
-    "answer": "Complete machinery for independent reproduction",
-    "hint": "They must borrow the host's factory.",
-    "explanation": "Viruses lack the complete cellular machinery needed to reproduce on their own.",
-    "memoryTip": "Virus = genetic instructions without a full factory."
-  },
-  {
-    "id": 20,
-    "topic": "Microbiology",
-    "question": "A biofilm is best described as what?",
-    "options": [
-      "A community of microbes attached to a surface",
-      "A single dormant bacterium",
-      "A viral protein coat",
-      "A fungal spore only"
-    ],
-    "answer": "A community of microbes attached to a surface",
-    "hint": "Think slimy microbial neighborhood.",
-    "explanation": "Biofilms are organized microbial communities embedded in a protective extracellular matrix.",
-    "memoryTip": "Biofilm = bacteria building a sticky neighborhood."
-  },
-  {
-    "id": 21,
-    "topic": "Anatomy & Physiology",
-    "question": "Which bone is the collarbone?",
-    "options": [
-      "Clavicle",
-      "Scapula",
-      "Humerus",
-      "Sternum"
-    ],
-    "answer": "Clavicle",
-    "hint": "It lies across the upper chest.",
-    "explanation": "The clavicle connects the sternum to the shoulder region.",
-    "memoryTip": "Clavicle = collarbone."
-  },
-  {
-    "id": 22,
-    "topic": "Anatomy & Physiology",
-    "question": "Which bone is commonly called the shoulder blade?",
-    "options": [
-      "Scapula",
-      "Clavicle",
-      "Ulna",
-      "Radius"
-    ],
-    "answer": "Scapula",
-    "hint": "Think flat blade on the back.",
-    "explanation": "The scapula is the flat triangular bone on the posterior shoulder.",
-    "memoryTip": "Scapula = shoulder blade."
-  },
-  {
-    "id": 23,
-    "topic": "Anatomy & Physiology",
-    "question": "Which bone is located in the upper arm?",
-    "options": [
-      "Humerus",
-      "Radius",
-      "Ulna",
-      "Femur"
-    ],
-    "answer": "Humerus",
-    "hint": "The funny bone region is nearby.",
-    "explanation": "The humerus extends from the shoulder to the elbow.",
-    "memoryTip": "Humerus = upper arm."
-  },
-  {
-    "id": 24,
-    "topic": "Anatomy & Physiology",
-    "question": "In anatomical position, which forearm bone is on the thumb side?",
-    "options": [
-      "Radius",
-      "Ulna",
-      "Humerus",
-      "Scapula"
-    ],
-    "answer": "Radius",
-    "hint": "Think thumb turns in a radius.",
-    "explanation": "The radius lies laterally on the thumb side of the forearm.",
-    "memoryTip": "Radius = thumb side."
-  },
-  {
-    "id": 25,
-    "topic": "Anatomy & Physiology",
-    "question": "Which forearm bone is on the little-finger side in anatomical position?",
-    "options": [
-      "Ulna",
-      "Radius",
-      "Humerus",
-      "Clavicle"
-    ],
-    "answer": "Ulna",
-    "hint": "Ulna is opposite the thumb-side radius.",
-    "explanation": "The ulna lies medially on the little-finger side of the forearm.",
-    "memoryTip": "Ulna = pinky side."
-  },
-  {
-    "id": 26,
-    "topic": "Anatomy & Physiology",
-    "question": "Which bone is the longest and strongest bone in the body?",
-    "options": [
-      "Femur",
-      "Tibia",
-      "Humerus",
-      "Fibula"
-    ],
-    "answer": "Femur",
-    "hint": "Think powerful thigh bone.",
-    "explanation": "The femur is the thigh bone and bears substantial body weight.",
-    "memoryTip": "Femur = formidable thigh bone."
-  },
-  {
-    "id": 27,
-    "topic": "Anatomy & Physiology",
-    "question": "Which part of the hip bone forms the broad superior region?",
-    "options": [
-      "Ilium",
-      "Ischium",
-      "Pubis",
-      "Sacrum"
-    ],
-    "answer": "Ilium",
-    "hint": "Think upper wing of the pelvis.",
-    "explanation": "The ilium is the large flaring upper portion of each hip bone.",
-    "memoryTip": "Ilium = upper hip wing."
-  },
-  {
-    "id": 28,
-    "topic": "Anatomy & Physiology",
-    "question": "Which pelvic bone bears weight when a person sits?",
-    "options": [
-      "Ischium",
-      "Ilium",
-      "Pubis",
-      "Coccyx"
-    ],
-    "answer": "Ischium",
-    "hint": "Think sitting on the ischium.",
-    "explanation": "The ischial tuberosities are the 'sit bones.'",
-    "memoryTip": "Ischium = sit bone."
-  },
-  {
-    "id": 29,
-    "topic": "Anatomy & Physiology",
-    "question": "Which tissue type covers body surfaces and lines cavities?",
-    "options": [
-      "Epithelial tissue",
-      "Connective tissue",
-      "Muscle tissue",
-      "Nervous tissue"
-    ],
-    "answer": "Epithelial tissue",
-    "hint": "Think covers and lines.",
-    "explanation": "Epithelial tissue forms protective coverings, linings, and many glands.",
-    "memoryTip": "Epithelium = exterior and interior lining."
-  },
-  {
-    "id": 30,
-    "topic": "Anatomy & Physiology",
-    "question": "Which tissue type supports, binds, and protects other tissues?",
-    "options": [
-      "Connective tissue",
-      "Epithelial tissue",
-      "Nervous tissue",
-      "Cardiac tissue"
-    ],
-    "answer": "Connective tissue",
-    "hint": "It connects and supports.",
-    "explanation": "Connective tissue includes bone, blood, cartilage, adipose tissue, tendons, and ligaments.",
-    "memoryTip": "Connective tissue connects."
-  },
-  {
-    "id": 31,
-    "topic": "Anatomy & Physiology",
-    "question": "Which muscle type is voluntary and striated?",
-    "options": [
-      "Skeletal muscle",
-      "Smooth muscle",
-      "Cardiac muscle",
-      "Visceral muscle only"
-    ],
-    "answer": "Skeletal muscle",
-    "hint": "Think moving your skeleton on purpose.",
-    "explanation": "Skeletal muscles attach to bones and are generally under conscious control.",
-    "memoryTip": "Skeletal = striped and voluntary."
-  },
-  {
-    "id": 32,
-    "topic": "Anatomy & Physiology",
-    "question": "Which muscle type is found in the walls of hollow organs?",
-    "options": [
-      "Smooth muscle",
-      "Skeletal muscle",
-      "Cardiac muscle",
-      "Bone tissue"
-    ],
-    "answer": "Smooth muscle",
-    "hint": "It works without conscious control.",
-    "explanation": "Smooth muscle moves substances through organs such as the intestines and blood vessels.",
-    "memoryTip": "Smooth = slow, automatic organ muscle."
-  },
-  {
-    "id": 33,
-    "topic": "Anatomy & Physiology",
-    "question": "Which muscle type contains intercalated discs?",
-    "options": [
-      "Cardiac muscle",
-      "Skeletal muscle",
-      "Smooth muscle",
-      "Tendon"
-    ],
-    "answer": "Cardiac muscle",
-    "hint": "Think special connections in the heart.",
-    "explanation": "Intercalated discs connect cardiac muscle cells and help coordinate heart contractions.",
-    "memoryTip": "Intercalated discs identify cardiac muscle."
-  },
-  {
-    "id": 34,
-    "topic": "Anatomy & Physiology",
-    "question": "What is the functional unit of the kidney?",
-    "options": [
-      "Nephron",
-      "Neuron",
-      "Alveolus",
-      "Sarcomere"
-    ],
-    "answer": "Nephron",
-    "hint": "Think kidney's tiny filtering unit.",
-    "explanation": "Each nephron filters blood and helps form urine.",
-    "memoryTip": "Nephron = kidney filter."
-  },
-  {
-    "id": 35,
-    "topic": "Anatomy & Physiology",
-    "question": "Where does blood filtration begin in the nephron?",
-    "options": [
-      "Glomerulus",
-      "Loop of Henle",
-      "Collecting duct",
-      "Ureter"
-    ],
-    "answer": "Glomerulus",
-    "hint": "Think a capillary filter ball.",
-    "explanation": "Pressure forces water and small solutes from glomerular capillaries into Bowman's capsule.",
-    "memoryTip": "Glomerulus = first filter."
-  },
-  {
-    "id": 36,
-    "topic": "Anatomy & Physiology",
-    "question": "Which nephron segment reabsorbs the largest proportion of filtered nutrients and water?",
-    "options": [
-      "Proximal convoluted tubule",
-      "Distal convoluted tubule",
-      "Collecting duct",
-      "Urethra"
-    ],
-    "answer": "Proximal convoluted tubule",
-    "hint": "Proximal means near the start.",
-    "explanation": "The proximal convoluted tubule reabsorbs most filtered water, sodium, glucose, and amino acids.",
-    "memoryTip": "PCT = Picks up Plenty."
-  },
-  {
-    "id": 37,
-    "topic": "Anatomy & Physiology",
-    "question": "What is the main role of the loop of Henle?",
-    "options": [
-      "Create a concentration gradient for water conservation",
-      "Filter blood cells",
-      "Store urine",
-      "Produce red blood cells"
-    ],
-    "answer": "Create a concentration gradient for water conservation",
-    "hint": "Think loop builds the gradient.",
-    "explanation": "The loop of Henle establishes the medullary osmotic gradient that helps concentrate urine.",
-    "memoryTip": "Henle helps hold water."
-  },
-  {
-    "id": 38,
-    "topic": "Anatomy & Physiology",
-    "question": "Which hormone increases water reabsorption in the collecting ducts?",
-    "options": [
-      "ADH",
-      "Insulin",
-      "Thyroxine",
-      "Glucagon"
-    ],
-    "answer": "ADH",
-    "hint": "Anti-diuretic means less urine.",
-    "explanation": "Antidiuretic hormone makes collecting ducts more permeable to water, reducing urine volume.",
-    "memoryTip": "ADH adds water back."
-  },
-  {
-    "id": 39,
-    "topic": "Anatomy & Physiology",
-    "question": "Which structure carries urine from a kidney to the bladder?",
-    "options": [
-      "Ureter",
-      "Urethra",
-      "Nephron",
-      "Renal artery"
-    ],
-    "answer": "Ureter",
-    "hint": "There are two, one from each kidney.",
-    "explanation": "Each ureter transports urine from a kidney to the urinary bladder.",
-    "memoryTip": "Ureter = kidney to bladder."
-  },
-  {
-    "id": 40,
-    "topic": "Anatomy & Physiology",
-    "question": "Which structure carries urine from the bladder out of the body?",
-    "options": [
-      "Urethra",
-      "Ureter",
-      "Renal vein",
-      "Collecting duct"
-    ],
-    "answer": "Urethra",
-    "hint": "Think the exit tube.",
-    "explanation": "The urethra is the final passageway for urine leaving the bladder.",
-    "memoryTip": "Urethra = urine exits."
-  },
-  {
-    "id": 41,
-    "topic": "Chemistry",
-    "question": "What type of bond forms when atoms share electrons?",
-    "options": [
-      "Covalent bond",
-      "Ionic bond",
-      "Hydrogen bond",
-      "Metallic ion"
-    ],
-    "answer": "Covalent bond",
-    "hint": "Cooperate by sharing.",
-    "explanation": "A covalent bond forms through shared electron pairs.",
-    "memoryTip": "Covalent = co-own electrons."
-  },
-  {
-    "id": 42,
-    "topic": "Chemistry",
-    "question": "What type of bond forms after electrons are transferred and oppositely charged ions attract?",
-    "options": [
-      "Ionic bond",
-      "Covalent bond",
-      "Hydrogen bond",
-      "Peptide bond"
-    ],
-    "answer": "Ionic bond",
-    "hint": "Think opposite charges attract.",
-    "explanation": "Ionic bonding results from electrostatic attraction between positive and negative ions.",
-    "memoryTip": "Ionic = ions attract."
-  },
-  {
-    "id": 43,
-    "topic": "Chemistry",
-    "question": "Why is water considered a polar molecule?",
-    "options": [
-      "It has an uneven distribution of charge",
-      "It has no electrons",
-      "It is always acidic",
-      "It contains ionic bonds only"
-    ],
-    "answer": "It has an uneven distribution of charge",
-    "hint": "One side is slightly negative, the other positive.",
-    "explanation": "Oxygen attracts shared electrons more strongly, giving water partial negative and positive regions.",
-    "memoryTip": "Water is polar because its charge pulls unevenly."
-  },
-  {
-    "id": 44,
-    "topic": "Chemistry",
-    "question": "A hydrogen bond is best described as what?",
-    "options": [
-      "A weak attraction involving a partially positive hydrogen",
-      "A transfer of protons between nuclei",
-      "A strong covalent bond inside all salts",
-      "A bond formed only in metals"
-    ],
-    "answer": "A weak attraction involving a partially positive hydrogen",
-    "hint": "Think weak attraction between partial charges.",
-    "explanation": "Hydrogen bonds are weak intermolecular attractions important in water and DNA base pairing.",
-    "memoryTip": "Hydrogen bonds are weak but biologically mighty."
-  },
-  {
-    "id": 45,
-    "topic": "Chemistry",
-    "question": "What does a pH below 7 indicate?",
-    "options": [
-      "Acidic solution",
-      "Basic solution",
-      "Neutral solution",
-      "Isotonic solution"
-    ],
-    "answer": "Acidic solution",
-    "hint": "Lower than 7 means more hydrogen ions.",
-    "explanation": "On the standard pH scale, values below 7 are acidic.",
-    "memoryTip": "Low pH = acid."
-  },
-  {
-    "id": 46,
-    "topic": "Chemistry",
-    "question": "What does a pH above 7 indicate?",
-    "options": [
-      "Basic solution",
-      "Acidic solution",
-      "Neutral solution",
-      "Radioactive solution"
-    ],
-    "answer": "Basic solution",
-    "hint": "Higher than 7 means base.",
-    "explanation": "On the standard pH scale, values above 7 are basic or alkaline.",
-    "memoryTip": "High pH = basic."
-  },
-  {
-    "id": 47,
-    "topic": "Chemistry",
-    "question": "What is the pH of a neutral solution at room temperature?",
-    "options": [
-      "7",
-      "0",
-      "5",
-      "14"
-    ],
-    "answer": "7",
-    "hint": "It is the midpoint of the common scale.",
-    "explanation": "Pure water is approximately neutral at pH 7 at room temperature.",
-    "memoryTip": "Seven sits neutral."
-  },
-  {
-    "id": 48,
-    "topic": "Chemistry",
-    "question": "What does a buffer do?",
-    "options": [
-      "Resists sudden changes in pH",
-      "Makes every solution neutral",
-      "Stops all chemical reactions",
-      "Removes all water"
-    ],
-    "answer": "Resists sudden changes in pH",
-    "hint": "Think chemical shock absorber.",
-    "explanation": "Buffers accept or release hydrogen ions to limit pH changes.",
-    "memoryTip": "Buffer = pH bodyguard."
-  },
-  {
-    "id": 49,
-    "topic": "Chemistry",
-    "question": "Which substance is the solvent in most body fluids?",
-    "options": [
-      "Water",
-      "Sodium chloride",
-      "Glucose",
-      "Protein"
-    ],
-    "answer": "Water",
-    "hint": "The substance doing the dissolving is most abundant.",
-    "explanation": "Water dissolves many ionic and polar substances in body fluids.",
-    "memoryTip": "Water is the body's main solvent."
-  },
-  {
-    "id": 50,
-    "topic": "Chemistry",
-    "question": "What is a solute?",
-    "options": [
-      "A substance dissolved in a solvent",
-      "The liquid that does the dissolving",
-      "A membrane protein",
-      "A type of bond"
-    ],
-    "answer": "A substance dissolved in a solvent",
-    "hint": "Think sugar in sweet tea.",
-    "explanation": "A solute is dispersed within a solvent to form a solution.",
-    "memoryTip": "Solute gets dissolved."
-  },
-  {
-    "id": 51,
-    "topic": "Chemistry",
-    "question": "Diffusion moves particles in which direction?",
-    "options": [
-      "From higher to lower concentration",
-      "From lower to higher concentration only",
-      "Against the gradient using ATP",
-      "Only into the nucleus"
-    ],
-    "answer": "From higher to lower concentration",
-    "hint": "Particles spread from crowded to less crowded.",
-    "explanation": "Diffusion is passive movement down a concentration gradient.",
-    "memoryTip": "Diffusion goes downhill."
-  },
-  {
-    "id": 52,
-    "topic": "Chemistry",
-    "question": "Osmosis is the movement of what across a selectively permeable membrane?",
-    "options": [
-      "Water",
-      "Protein",
-      "DNA",
-      "ATP"
-    ],
-    "answer": "Water",
-    "hint": "Think water follows solute.",
-    "explanation": "Osmosis specifically describes water movement across a selectively permeable membrane.",
-    "memoryTip": "Osmosis = water movement."
-  },
-  {
-    "id": 53,
-    "topic": "Chemistry",
-    "question": "Active transport generally requires what?",
-    "options": [
-      "ATP",
-      "Only oxygen",
-      "No energy",
-      "Only carbon dioxide"
-    ],
-    "answer": "ATP",
-    "hint": "It pushes uphill.",
-    "explanation": "Active transport uses cellular energy to move substances against their concentration gradients.",
-    "memoryTip": "Active transport spends ATP."
-  },
-  {
-    "id": 54,
-    "topic": "Chemistry",
-    "question": "A solution with more solute than the inside of a cell is called what?",
-    "options": [
-      "Hypertonic",
-      "Hypotonic",
-      "Isotonic",
-      "Neutral"
-    ],
-    "answer": "Hypertonic",
-    "hint": "Hyper means higher solute outside.",
-    "explanation": "A hypertonic solution draws water out of a cell, causing it to shrink.",
-    "memoryTip": "Hypertonic = water heads out."
-  },
-  {
-    "id": 55,
-    "topic": "Chemistry",
-    "question": "A solution with less solute than the inside of a cell is called what?",
-    "options": [
-      "Hypotonic",
-      "Hypertonic",
-      "Isotonic",
-      "Acidic"
-    ],
-    "answer": "Hypotonic",
-    "hint": "Hypo means lower solute outside.",
-    "explanation": "A hypotonic solution causes water to enter a cell, which may swell.",
-    "memoryTip": "Hypotonic = water hurries in."
-  },
-  {
-    "id": 56,
-    "topic": "Chemistry",
-    "question": "In an isotonic solution, what happens to a cell's net water movement?",
-    "options": [
-      "There is no net water movement",
-      "Water only enters",
-      "Water only leaves",
-      "The membrane dissolves"
-    ],
-    "answer": "There is no net water movement",
-    "hint": "Iso means equal.",
-    "explanation": "Water moves in both directions equally because solute concentrations are balanced.",
-    "memoryTip": "Isotonic = equal flow, stable cell."
-  },
-  {
-    "id": 57,
-    "topic": "Chemistry",
-    "question": "Which chemical reaction joins smaller molecules while removing water?",
-    "options": [
-      "Dehydration synthesis",
-      "Hydrolysis",
-      "Oxidation only",
-      "Neutralization"
-    ],
-    "answer": "Dehydration synthesis",
-    "hint": "Dehydrate means take water out.",
-    "explanation": "Dehydration synthesis forms a bond while releasing a water molecule.",
-    "memoryTip": "Build by removing water."
-  },
-  {
-    "id": 58,
-    "topic": "Chemistry",
-    "question": "Which reaction uses water to split a larger molecule?",
-    "options": [
-      "Hydrolysis",
-      "Dehydration synthesis",
-      "Reduction",
-      "Combustion"
-    ],
-    "answer": "Hydrolysis",
-    "hint": "Hydro means water; lysis means split.",
-    "explanation": "Hydrolysis adds water to break a chemical bond.",
-    "memoryTip": "Hydrolysis = water splits."
-  },
-  {
-    "id": 59,
-    "topic": "Chemistry",
-    "question": "An enzyme speeds a reaction by lowering what?",
-    "options": [
-      "Activation energy",
-      "Temperature",
-      "Amount of product",
-      "Number of atoms"
-    ],
-    "answer": "Activation energy",
-    "hint": "Think easier starting hill.",
-    "explanation": "Enzymes lower the energy barrier needed to begin a chemical reaction.",
-    "memoryTip": "Enzyme lowers the launch energy."
-  },
-  {
-    "id": 60,
-    "topic": "Chemistry",
-    "question": "What happens to an enzyme at an extreme temperature or pH?",
-    "options": [
-      "It may denature and lose its shape",
-      "It becomes DNA",
-      "It always works faster",
-      "It turns into ATP"
-    ],
-    "answer": "It may denature and lose its shape",
-    "hint": "Shape controls function.",
-    "explanation": "Extreme conditions can disrupt an enzyme's three-dimensional shape and active site.",
-    "memoryTip": "Denatured enzyme = damaged shape."
-  },
-  {
-    "id": 61,
-    "topic": "Biology & Cell",
-    "question": "A monosaccharide contains how many sugar units?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Many only"
-    ],
-    "answer": "One",
-    "hint": "Mono means one.",
-    "explanation": "A monosaccharide is a single simple sugar unit.",
-    "memoryTip": "Mono rides solo."
-  },
-  {
-    "id": 62,
-    "topic": "Biology & Cell",
-    "question": "A disaccharide is formed from how many monosaccharides?",
-    "options": [
-      "Two",
-      "One",
-      "Three",
-      "Ten"
-    ],
-    "answer": "Two",
-    "hint": "Di means two.",
-    "explanation": "A disaccharide consists of two monosaccharides joined together.",
-    "memoryTip": "Di comes as a duo."
-  },
-  {
-    "id": 63,
-    "topic": "Biology & Cell",
-    "question": "Which of the following is a monosaccharide?",
-    "options": [
-      "Glucose",
-      "Sucrose",
-      "Lactose",
-      "Maltose"
-    ],
-    "answer": "Glucose",
-    "hint": "Look for a common blood sugar.",
-    "explanation": "Glucose is a single sugar unit and can be absorbed directly.",
-    "memoryTip": "Glucose goes alone."
-  },
-  {
-    "id": 64,
-    "topic": "Biology & Cell",
-    "question": "Which of the following is a disaccharide?",
-    "options": [
-      "Lactose",
-      "Fructose",
-      "Galactose",
-      "Glucose"
-    ],
-    "answer": "Lactose",
-    "hint": "Milk sugar has two parts.",
-    "explanation": "Lactose is made from glucose and galactose.",
-    "memoryTip": "Lactose links glucose and galactose."
-  },
-  {
-    "id": 65,
-    "topic": "Biology & Cell",
-    "question": "Sucrose is made from which two monosaccharides?",
-    "options": [
-      "Glucose and fructose",
-      "Glucose and galactose",
-      "Glucose and glucose",
-      "Fructose and galactose"
-    ],
-    "answer": "Glucose and fructose",
-    "hint": "Think table sugar combines fruit sugar with glucose.",
-    "explanation": "Table sugar, or sucrose, consists of glucose plus fructose.",
-    "memoryTip": "Sucrose = glucose + fructose."
-  },
-  {
-    "id": 66,
-    "topic": "Biology & Cell",
-    "question": "Lactose is made from which two monosaccharides?",
-    "options": [
-      "Glucose and galactose",
-      "Glucose and fructose",
-      "Fructose and fructose",
-      "Glucose and glucose"
-    ],
-    "answer": "Glucose and galactose",
-    "hint": "Think milk sugar.",
-    "explanation": "Milk sugar, or lactose, consists of glucose plus galactose.",
-    "memoryTip": "Lactose = glucose + galactose."
-  },
-  {
-    "id": 67,
-    "topic": "Biology & Cell",
-    "question": "Maltose is made from which two monosaccharides?",
-    "options": [
-      "Glucose and glucose",
-      "Glucose and fructose",
-      "Glucose and galactose",
-      "Fructose and galactose"
-    ],
-    "answer": "Glucose and glucose",
-    "hint": "It is a glucose double.",
-    "explanation": "Maltose consists of two glucose units.",
-    "memoryTip": "Maltose = glucose + glucose."
-  },
-  {
-    "id": 68,
-    "topic": "Biology & Cell",
-    "question": "Which enzyme begins starch digestion in the mouth?",
-    "options": [
-      "Salivary amylase",
-      "Lactase",
-      "Lipase",
-      "Pepsin"
-    ],
-    "answer": "Salivary amylase",
-    "hint": "Think saliva starts starch.",
-    "explanation": "Salivary amylase begins breaking starch into smaller carbohydrates.",
-    "memoryTip": "Amylase attacks amylose starch."
-  },
-  {
-    "id": 69,
-    "topic": "Biology & Cell",
-    "question": "Which enzyme breaks down lactose?",
-    "options": [
-      "Lactase",
-      "Sucrase",
-      "Maltase",
-      "Amylase"
-    ],
-    "answer": "Lactase",
-    "hint": "The names match.",
-    "explanation": "Lactase splits lactose into glucose and galactose.",
-    "memoryTip": "Lactase handles lactose."
-  },
-  {
-    "id": 70,
-    "topic": "Biology & Cell",
-    "question": "Which polysaccharide stores glucose in animals?",
-    "options": [
-      "Glycogen",
-      "Starch",
-      "Cellulose",
-      "Sucrose"
-    ],
-    "answer": "Glycogen",
-    "hint": "Think animal glucose storage.",
-    "explanation": "Animals store glucose mainly as glycogen in the liver and skeletal muscles.",
-    "memoryTip": "Glycogen = glucose in reserve."
-  },
-  {
-    "id": 71,
-    "topic": "Biology & Cell",
-    "question": "Which polysaccharide is the main storage carbohydrate in plants?",
-    "options": [
-      "Starch",
-      "Glycogen",
-      "Cellulose",
-      "Lactose"
-    ],
-    "answer": "Starch",
-    "hint": "Think potatoes and grains.",
-    "explanation": "Plants store excess glucose as starch.",
-    "memoryTip": "Plants stash starch."
-  },
-  {
-    "id": 72,
-    "topic": "Biology & Cell",
-    "question": "Which carbohydrate provides structural support in plant cell walls?",
-    "options": [
-      "Cellulose",
-      "Glycogen",
-      "Sucrose",
-      "Maltose"
-    ],
-    "answer": "Cellulose",
-    "hint": "Think plant structure and fiber.",
-    "explanation": "Cellulose is a polysaccharide that strengthens plant cell walls and acts as dietary fiber for humans.",
-    "memoryTip": "Cellulose = cell wall support."
-  },
-  {
-    "id": 73,
-    "topic": "Biology & Cell",
-    "question": "Which DNA base pairs with adenine?",
+    "topic": "DNA",
+    "question": "In DNA, adenine pairs with which base?",
     "options": [
       "Thymine",
       "Uracil",
@@ -1090,89 +190,284 @@
       "Guanine"
     ],
     "answer": "Thymine",
-    "hint": "RNA uses uracil instead.",
-    "explanation": "In DNA, adenine pairs with thymine through hydrogen bonds.",
-    "memoryTip": "DNA: A with T."
+    "explanation": "Adenine pairs with thymine in double-stranded DNA.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 74,
-    "topic": "Biology & Cell",
-    "question": "Which DNA base pairs with cytosine?",
+    "id": 14,
+    "topic": "DNA",
+    "question": "In DNA, guanine pairs with which base?",
     "options": [
-      "Guanine",
-      "Thymine",
-      "Adenine",
-      "Uracil"
-    ],
-    "answer": "Guanine",
-    "hint": "Think C and G together.",
-    "explanation": "In DNA, cytosine pairs with guanine.",
-    "memoryTip": "C pairs with G."
-  },
-  {
-    "id": 75,
-    "topic": "Biology & Cell",
-    "question": "Which nitrogenous base is found in RNA instead of thymine?",
-    "options": [
-      "Uracil",
-      "Guanine",
       "Cytosine",
+      "Thymine",
+      "Uracil",
       "Adenine"
     ],
-    "answer": "Uracil",
-    "hint": "RNA swaps T for U.",
-    "explanation": "RNA uses uracil, which pairs with adenine.",
-    "memoryTip": "RNA uses U."
+    "answer": "Cytosine",
+    "explanation": "Guanine pairs with cytosine in DNA.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 76,
-    "topic": "Biology & Cell",
-    "question": "What process makes an RNA copy from a DNA template?",
+    "id": 15,
+    "topic": "DNA",
+    "question": "What is the usual shape of a DNA molecule?",
     "options": [
-      "Transcription",
-      "Translation",
-      "Replication",
-      "Mitosis"
+      "Double helix",
+      "Single straight strand",
+      "Triple helix",
+      "Circular protein chain"
     ],
-    "answer": "Transcription",
-    "hint": "Think copying DNA into a transcript.",
-    "explanation": "During transcription, a segment of DNA is used to build RNA.",
-    "memoryTip": "Transcription: DNA to RNA."
+    "answer": "Double helix",
+    "explanation": "DNA usually consists of two strands twisted into a double helix.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 77,
-    "topic": "Biology & Cell",
-    "question": "What process uses mRNA instructions to build a protein?",
+    "id": 16,
+    "topic": "DNA",
+    "question": "What is the basic building block of DNA?",
     "options": [
-      "Translation",
-      "Transcription",
-      "Replication",
-      "Meiosis"
+      "Nucleotide",
+      "Amino acid",
+      "Fatty acid",
+      "Monosaccharide"
     ],
-    "answer": "Translation",
-    "hint": "Translate the message into protein.",
-    "explanation": "At a ribosome, mRNA codons are translated into an amino-acid sequence.",
-    "memoryTip": "Translation: RNA to protein."
+    "answer": "Nucleotide",
+    "explanation": "DNA is a polymer made of nucleotide subunits.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 78,
-    "topic": "Biology & Cell",
-    "question": "Where are ribosomal subunits assembled in a eukaryotic cell?",
+    "id": 17,
+    "topic": "DNA",
+    "question": "Where is most DNA located in a eukaryotic cell?",
     "options": [
-      "Nucleolus",
+      "Nucleus",
+      "Ribosome",
       "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus",
+    "explanation": "Most eukaryotic DNA is stored in the nucleus.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 18,
+    "topic": "DNA",
+    "question": "What is DNA replication?",
+    "options": [
+      "Making a copy of DNA",
+      "Making protein from RNA",
+      "Making RNA from protein",
+      "Dividing the cytoplasm"
+    ],
+    "answer": "Making a copy of DNA",
+    "explanation": "DNA replication produces an identical DNA copy before cell division.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 19,
+    "topic": "DNA",
+    "question": "During which phase of interphase is DNA replicated?",
+    "options": [
+      "S phase",
+      "G1 phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase",
+    "explanation": "DNA is synthesized during the S phase of interphase.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 20,
+    "topic": "DNA",
+    "question": "What is the primary function of DNA?",
+    "options": [
+      "Store genetic information",
+      "Produce ATP directly",
+      "Digest waste",
+      "Transport oxygen"
+    ],
+    "answer": "Store genetic information",
+    "explanation": "DNA stores the instructions used to build proteins and regulate cell activities.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 21,
+    "topic": "RNA",
+    "question": "What sugar is found in RNA?",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Glucose",
+      "Sucrose"
+    ],
+    "answer": "Ribose",
+    "explanation": "RNA contains the sugar ribose.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 22,
+    "topic": "RNA",
+    "question": "Which base is found in RNA instead of thymine?",
+    "options": [
+      "Uracil",
+      "Adenine",
+      "Guanine",
+      "Cytosine"
+    ],
+    "answer": "Uracil",
+    "explanation": "RNA contains uracil in place of thymine.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 23,
+    "topic": "RNA",
+    "question": "What does mRNA do?",
+    "options": [
+      "Carries genetic instructions to a ribosome",
+      "Carries oxygen",
+      "Stores lipids",
+      "Breaks down waste"
+    ],
+    "answer": "Carries genetic instructions to a ribosome",
+    "explanation": "Messenger RNA carries a copied genetic message from DNA to a ribosome.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 24,
+    "topic": "RNA",
+    "question": "What is the main function of tRNA?",
+    "options": [
+      "Carry amino acids to the ribosome",
+      "Copy DNA",
+      "Store genetic information",
+      "Form the cell membrane"
+    ],
+    "answer": "Carry amino acids to the ribosome",
+    "explanation": "Transfer RNA brings specific amino acids to the ribosome during translation.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 25,
+    "topic": "RNA",
+    "question": "What is the main role of rRNA?",
+    "options": [
+      "Form part of the ribosome",
+      "Carry oxygen",
+      "Copy chromosomes",
+      "Break down glucose"
+    ],
+    "answer": "Form part of the ribosome",
+    "explanation": "Ribosomal RNA combines with proteins to form ribosomes.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 26,
+    "topic": "RNA",
+    "question": "What is transcription?",
+    "options": [
+      "Making RNA from a DNA template",
+      "Making DNA from protein",
+      "Making ATP from glucose",
+      "Separating chromosomes"
+    ],
+    "answer": "Making RNA from a DNA template",
+    "explanation": "Transcription uses a DNA template to produce RNA.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 27,
+    "topic": "RNA",
+    "question": "Where does transcription occur in a eukaryotic cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Cell membrane",
+      "Golgi apparatus"
+    ],
+    "answer": "Nucleus",
+    "explanation": "Eukaryotic transcription occurs in the nucleus.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 28,
+    "topic": "RNA",
+    "question": "What is translation?",
+    "options": [
+      "Using mRNA to build a protein",
+      "Copying DNA",
+      "Making RNA from DNA",
+      "Splitting one cell into two"
+    ],
+    "answer": "Using mRNA to build a protein",
+    "explanation": "During translation, ribosomes read mRNA codons to assemble amino acids into a protein.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 29,
+    "topic": "RNA",
+    "question": "Where does translation occur?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
       "Lysosome",
       "Centrosome"
     ],
-    "answer": "Nucleolus",
-    "hint": "It is the ribosome workshop inside the nucleus.",
-    "explanation": "The nucleolus produces rRNA and assembles ribosomal subunits.",
-    "memoryTip": "Nucleolus makes ribosome parts."
+    "answer": "Ribosome",
+    "explanation": "Ribosomes read mRNA and build proteins.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 79,
-    "topic": "Biology & Cell",
-    "question": "Mitosis normally produces how many genetically similar daughter cells?",
+    "id": 30,
+    "topic": "RNA",
+    "question": "What is a codon?",
+    "options": [
+      "A three-base sequence on mRNA",
+      "A two-base sequence on DNA",
+      "A protein organelle",
+      "A chromosome pair"
+    ],
+    "answer": "A three-base sequence on mRNA",
+    "explanation": "Each mRNA codon contains three bases and specifies an amino acid or stop signal.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 31,
+    "topic": "Mitosis & Meiosis",
+    "question": "What is the main purpose of mitosis?",
+    "options": [
+      "Growth and tissue repair",
+      "Production of gametes",
+      "Reduction of chromosome number",
+      "Creation of four different cells"
+    ],
+    "answer": "Growth and tissue repair",
+    "explanation": "Mitosis produces genetically similar cells for growth, replacement, and repair.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 32,
+    "topic": "Mitosis & Meiosis",
+    "question": "How many daughter cells are produced by mitosis?",
     "options": [
       "Two",
       "Four",
@@ -1180,14 +475,74 @@
       "Eight"
     ],
     "answer": "Two",
-    "hint": "Body-cell division makes a pair.",
-    "explanation": "Mitosis produces two daughter cells with the same chromosome number as the parent cell.",
-    "memoryTip": "Mitosis makes two matching cells."
+    "explanation": "Mitosis produces two daughter cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 80,
-    "topic": "Biology & Cell",
-    "question": "Meiosis normally produces how many genetically varied haploid cells?",
+    "id": 33,
+    "topic": "Mitosis & Meiosis",
+    "question": "Are daughter cells produced by mitosis usually genetically identical to the parent cell?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in meiosis",
+      "Only in bacteria"
+    ],
+    "answer": "Yes",
+    "explanation": "Mitosis usually produces daughter cells with the same genetic information as the parent cell.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 34,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of mitosis do chromosomes line up in the middle of the cell?",
+    "options": [
+      "Metaphase",
+      "Prophase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "answer": "Metaphase",
+    "explanation": "During metaphase, chromosomes align along the cell’s equator.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 35,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of mitosis do sister chromatids separate?",
+    "options": [
+      "Anaphase",
+      "Metaphase",
+      "Prophase",
+      "Telophase"
+    ],
+    "answer": "Anaphase",
+    "explanation": "During anaphase, sister chromatids are pulled to opposite poles.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 36,
+    "topic": "Mitosis & Meiosis",
+    "question": "What is the main purpose of meiosis?",
+    "options": [
+      "Produce gametes",
+      "Repair tissues",
+      "Replace skin cells",
+      "Produce identical body cells"
+    ],
+    "answer": "Produce gametes",
+    "explanation": "Meiosis produces haploid gametes for sexual reproduction.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 37,
+    "topic": "Mitosis & Meiosis",
+    "question": "How many daughter cells are produced by meiosis?",
     "options": [
       "Four",
       "Two",
@@ -1195,608 +550,53 @@
       "Eight"
     ],
     "answer": "Four",
-    "hint": "Gamete formation creates four.",
-    "explanation": "Meiosis includes two divisions and usually produces four genetically varied haploid cells.",
-    "memoryTip": "Meiosis makes four with half."
+    "explanation": "Meiosis produces four haploid daughter cells.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 81,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence.",
+    "id": 38,
+    "topic": "Mitosis & Meiosis",
+    "question": "What happens to chromosome number during meiosis?",
     "options": [
-      "Each of the students is prepared.",
-      "Each of the students are prepared.",
-      "Each of the student are prepared.",
-      "Each students is prepared."
+      "It is reduced by half",
+      "It doubles permanently",
+      "It stays diploid in gametes",
+      "It becomes zero"
     ],
-    "answer": "Each of the students is prepared.",
-    "hint": "Focus on 'each,' not 'students.'",
-    "explanation": "The subject 'each' is singular and takes the verb 'is.'",
-    "memoryTip": "Each = one, so use is."
+    "answer": "It is reduced by half",
+    "explanation": "Meiosis reduces the chromosome number from diploid to haploid.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 82,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 2)",
+    "id": 39,
+    "topic": "Mitosis & Meiosis",
+    "question": "What event during prophase I increases genetic variation?",
     "options": [
-      "Neither of the answers is correct.",
-      "Neither of the answers are correct.",
-      "Neither answers is correct.",
-      "Neither answer are correct."
+      "Crossing over",
+      "DNA translation",
+      "Binary fission",
+      "Cytokinesis only"
     ],
-    "answer": "Neither of the answers is correct.",
-    "hint": "Neither means not one of the two.",
-    "explanation": "'Neither' is singular in standard test grammar and takes 'is.'",
-    "memoryTip": "Neither = not either one, so singular."
+    "answer": "Crossing over",
+    "explanation": "Crossing over recombines maternal and paternal genetic material.",
+    "hint": "",
+    "memoryTip": ""
   },
   {
-    "id": 83,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 3)",
+    "id": 40,
+    "topic": "Mitosis & Meiosis",
+    "question": "During which stage of meiosis do homologous chromosome pairs separate?",
     "options": [
-      "The nurse and the physician are reviewing the chart.",
-      "The nurse and the physician is reviewing the chart.",
-      "The nurse and physician am reviewing the chart.",
-      "The nurse and the physician be reviewing the chart."
+      "Anaphase I",
+      "Anaphase II",
+      "Metaphase II",
+      "Telophase II"
     ],
-    "answer": "The nurse and the physician are reviewing the chart.",
-    "hint": "Count the two people.",
-    "explanation": "Two subjects joined by 'and' usually take a plural verb.",
-    "memoryTip": "Nurse + physician = they are."
-  },
-  {
-    "id": 84,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 4)",
-    "options": [
-      "The box of gloves is on the shelf.",
-      "The box of gloves are on the shelf.",
-      "The boxes of glove is on the shelf.",
-      "The box of gloves be on the shelf."
-    ],
-    "answer": "The box of gloves is on the shelf.",
-    "hint": "Ignore the prepositional phrase.",
-    "explanation": "The true subject is the singular noun 'box,' not the plural noun 'gloves.'",
-    "memoryTip": "The box is; the gloves are."
-  },
-  {
-    "id": 85,
-    "topic": "Grammar",
-    "question": "Choose the correct word: The patient has ___ pain today than yesterday.",
-    "options": [
-      "less",
-      "fewer",
-      "fewest",
-      "leastest"
-    ],
-    "answer": "less",
-    "hint": "Can you count individual pains here?",
-    "explanation": "Use 'less' with uncountable nouns such as pain.",
-    "memoryTip": "Less for uncountable; fewer for countable."
-  },
-  {
-    "id": 86,
-    "topic": "Grammar",
-    "question": "Choose the correct word: There are ___ tablets in the bottle now.",
-    "options": [
-      "fewer",
-      "less",
-      "little",
-      "least"
-    ],
-    "answer": "fewer",
-    "hint": "You can count the tablets.",
-    "explanation": "Use 'fewer' with countable plural nouns such as tablets.",
-    "memoryTip": "Fewer for things you can count."
-  },
-  {
-    "id": 87,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 5)",
-    "options": [
-      "The information is accurate.",
-      "The information are accurate.",
-      "The informations are accurate.",
-      "An information is accurate."
-    ],
-    "answer": "The information is accurate.",
-    "hint": "Do not add an s.",
-    "explanation": "'Information' is an uncountable noun treated as singular.",
-    "memoryTip": "Information is singular."
-  },
-  {
-    "id": 88,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 6)",
-    "options": [
-      "The data are being reviewed.",
-      "The data is being reviewed in formal usage.",
-      "The datas are being reviewed.",
-      "A data are being reviewed."
-    ],
-    "answer": "The data are being reviewed.",
-    "hint": "Think multiple data points.",
-    "explanation": "In traditional formal test usage, 'data' is plural; 'datum' is singular.",
-    "memoryTip": "Data are; datum is."
-  },
-  {
-    "id": 89,
-    "topic": "Grammar",
-    "question": "Choose the correct word: ___ going to administer the medication.",
-    "options": [
-      "You're",
-      "Your",
-      "Yours",
-      "Youre"
-    ],
-    "answer": "You're",
-    "hint": "Replace it with 'you are.'",
-    "explanation": "'You're' is the contraction of 'you are.'",
-    "memoryTip": "You're = you are."
-  },
-  {
-    "id": 90,
-    "topic": "Grammar",
-    "question": "Choose the correct word: Is this notebook ___?",
-    "options": [
-      "yours",
-      "your's",
-      "you're",
-      "youre"
-    ],
-    "answer": "yours",
-    "hint": "No noun follows the blank.",
-    "explanation": "'Yours' is a possessive pronoun and never takes an apostrophe.",
-    "memoryTip": "Yours owns; you're means you are."
-  },
-  {
-    "id": 91,
-    "topic": "Grammar",
-    "question": "Choose the correct article: She waited for ___ hour.",
-    "options": [
-      "an",
-      "a",
-      "the only",
-      "no article because hour is plural"
-    ],
-    "answer": "an",
-    "hint": "Listen to the first sound, not the first letter.",
-    "explanation": "Use 'an' before a vowel sound; the h in 'hour' is silent.",
-    "memoryTip": "An hour because it sounds like 'our.'"
-  },
-  {
-    "id": 92,
-    "topic": "Grammar",
-    "question": "Choose the correct article: He is ___ university student.",
-    "options": [
-      "a",
-      "an",
-      "the only",
-      "no article"
-    ],
-    "answer": "a",
-    "hint": "Listen for the 'yoo' sound.",
-    "explanation": "'University' begins with a consonant 'yoo' sound, so use 'a.'",
-    "memoryTip": "A university, but an umbrella."
-  },
-  {
-    "id": 93,
-    "topic": "Grammar",
-    "question": "Which sentence uses the past tense correctly?",
-    "options": [
-      "The patient walked yesterday.",
-      "The patient walks yesterday.",
-      "The patient walking yesterday.",
-      "The patient walk yesterday."
-    ],
-    "answer": "The patient walked yesterday.",
-    "hint": "Look for a completed action.",
-    "explanation": "The -ed form 'walked' correctly describes a completed past action.",
-    "memoryTip": "Yesterday walked."
-  },
-  {
-    "id": 94,
-    "topic": "Grammar",
-    "question": "Choose the correct pronoun: Maria gave the notes to James and ___.",
-    "options": [
-      "me",
-      "I",
-      "myself",
-      "mine"
-    ],
-    "answer": "me",
-    "hint": "Remove 'James and' and test the sentence.",
-    "explanation": "The pronoun is the object of the preposition 'to,' so use 'me.'",
-    "memoryTip": "Give it to me."
-  },
-  {
-    "id": 95,
-    "topic": "Grammar",
-    "question": "Choose the correct pronoun: James and ___ studied together.",
-    "options": [
-      "I",
-      "me",
-      "myself",
-      "mine"
-    ],
-    "answer": "I",
-    "hint": "Remove 'James and' and test it.",
-    "explanation": "The pronoun is part of the compound subject, so use 'I.'",
-    "memoryTip": "I studied; me did not."
-  },
-  {
-    "id": 96,
-    "topic": "Grammar",
-    "question": "Which sentence is punctuated correctly?",
-    "options": [
-      "After the exam, we reviewed our answers.",
-      "After the exam we, reviewed our answers.",
-      "After, the exam we reviewed our answers.",
-      "After the exam we reviewed, our answers."
-    ],
-    "answer": "After the exam, we reviewed our answers.",
-    "hint": "Pause after the opening phrase.",
-    "explanation": "An introductory phrase is commonly followed by a comma.",
-    "memoryTip": "Intro phrase, then comma."
-  },
-  {
-    "id": 97,
-    "topic": "Grammar",
-    "question": "Which sentence uses an apostrophe correctly?",
-    "options": [
-      "The patient's chart is complete.",
-      "The patients chart is complete.",
-      "The patients' chart is complete for one patient.",
-      "The patient's' chart is complete."
-    ],
-    "answer": "The patient's chart is complete.",
-    "hint": "One patient owns the chart.",
-    "explanation": "A singular possessive noun usually takes apostrophe-s.",
-    "memoryTip": "One patient = patient's."
-  },
-  {
-    "id": 98,
-    "topic": "Grammar",
-    "question": "Choose the correct sentence. (Version 7)",
-    "options": [
-      "There are many reasons to study.",
-      "Their are many reasons to study.",
-      "They're are many reasons to study.",
-      "There is many reasons to study."
-    ],
-    "answer": "There are many reasons to study.",
-    "hint": "Reasons is plural.",
-    "explanation": "'There are' agrees with the plural noun 'reasons.'",
-    "memoryTip": "Many reasons are."
-  },
-  {
-    "id": 99,
-    "topic": "Grammar",
-    "question": "Which word correctly completes the sentence? The medication may ___ the patient's blood pressure.",
-    "options": [
-      "affect",
-      "effect",
-      "effects",
-      "affects"
-    ],
-    "answer": "affect",
-    "hint": "The blank needs an action word.",
-    "explanation": "'Affect' is usually a verb meaning to influence.",
-    "memoryTip": "Affect = action; effect = end result."
-  },
-  {
-    "id": 100,
-    "topic": "Grammar",
-    "question": "Which word correctly completes the sentence? The medication had a positive ___.",
-    "options": [
-      "effect",
-      "affect",
-      "affects",
-      "affected"
-    ],
-    "answer": "effect",
-    "hint": "The blank names the result.",
-    "explanation": "'Effect' is usually a noun meaning a result.",
-    "memoryTip": "Effect = end result."
-  },
-  {
-    "id": 101,
-    "topic": "Pharmacology",
-    "question": "Albuterol is primarily used to do what?",
-    "options": [
-      "Relieve bronchospasm",
-      "Lower blood glucose",
-      "Treat bacterial infection",
-      "Prevent blood clotting"
-    ],
-    "answer": "Relieve bronchospasm",
-    "hint": "Think rescue inhaler.",
-    "explanation": "Albuterol is a short-acting beta2 agonist that relaxes airway smooth muscle.",
-    "memoryTip": "Albuterol opens airways."
-  },
-  {
-    "id": 102,
-    "topic": "Pharmacology",
-    "question": "A common side effect of albuterol is what?",
-    "options": [
-      "Tremor and increased heart rate",
-      "Severe constipation only",
-      "Low blood glucose",
-      "Purple urine"
-    ],
-    "answer": "Tremor and increased heart rate",
-    "hint": "Think stimulation.",
-    "explanation": "Beta2 agonists may cause tremor, nervousness, and tachycardia.",
-    "memoryTip": "Albuterol may make hands and heart race."
-  },
-  {
-    "id": 103,
-    "topic": "Pharmacology",
-    "question": "Gabapentin is commonly used for which condition?",
-    "options": [
-      "Neuropathic pain",
-      "Bacterial pneumonia",
-      "Hypertension only",
-      "Acute bleeding"
-    ],
-    "answer": "Neuropathic pain",
-    "hint": "Think nerve pain.",
-    "explanation": "Gabapentin is often prescribed for nerve pain and certain seizure disorders.",
-    "memoryTip": "Gabapentin calms nerve firing."
-  },
-  {
-    "id": 104,
-    "topic": "Pharmacology",
-    "question": "Lisinopril belongs to which drug class?",
-    "options": [
-      "ACE inhibitor",
-      "ARB",
-      "Beta blocker",
-      "Calcium supplement"
-    ],
-    "answer": "ACE inhibitor",
-    "hint": "The -pril ending is the clue.",
-    "explanation": "Lisinopril inhibits angiotensin-converting enzyme and is used for hypertension and other cardiovascular conditions.",
-    "memoryTip": "-pril = ACE inhibitor."
-  },
-  {
-    "id": 105,
-    "topic": "Pharmacology",
-    "question": "Which adverse effect is commonly associated with ACE inhibitors?",
-    "options": [
-      "Dry cough",
-      "Orange tears",
-      "Hearing loss",
-      "Severe hypoglycemia"
-    ],
-    "answer": "Dry cough",
-    "hint": "Think ACE cough.",
-    "explanation": "ACE inhibitors can increase bradykinin and cause a persistent dry cough.",
-    "memoryTip": "ACE inhibitors can cause an annoying cough."
-  },
-  {
-    "id": 106,
-    "topic": "Pharmacology",
-    "question": "Losartan belongs to which drug class?",
-    "options": [
-      "Angiotensin II receptor blocker (ARB)",
-      "ACE inhibitor",
-      "Beta2 agonist",
-      "Loop diuretic"
-    ],
-    "answer": "Angiotensin II receptor blocker (ARB)",
-    "hint": "The -sartan ending is the clue.",
-    "explanation": "Losartan blocks angiotensin II receptors and lowers blood pressure.",
-    "memoryTip": "-sartan = ARB."
-  },
-  {
-    "id": 107,
-    "topic": "Pharmacology",
-    "question": "Metoprolol belongs to which drug class?",
-    "options": [
-      "Beta blocker",
-      "ACE inhibitor",
-      "Antibiotic",
-      "Antacid"
-    ],
-    "answer": "Beta blocker",
-    "hint": "The -olol ending is the clue.",
-    "explanation": "Metoprolol blocks mainly beta1 receptors and can lower heart rate and blood pressure.",
-    "memoryTip": "-olol slows the heart."
-  },
-  {
-    "id": 108,
-    "topic": "Pharmacology",
-    "question": "A nurse should generally check which measurement before administering metoprolol?",
-    "options": [
-      "Heart rate",
-      "Pupil size",
-      "Height",
-      "Visual acuity"
-    ],
-    "answer": "Heart rate",
-    "hint": "This drug can slow the heart.",
-    "explanation": "Beta blockers can slow the pulse, so heart rate and blood pressure are commonly assessed.",
-    "memoryTip": "Beta blocker? Check the beat."
-  },
-  {
-    "id": 109,
-    "topic": "Pharmacology",
-    "question": "Amlodipine belongs to which drug class?",
-    "options": [
-      "Calcium channel blocker",
-      "ACE inhibitor",
-      "Thiazide diuretic",
-      "Anticoagulant"
-    ],
-    "answer": "Calcium channel blocker",
-    "hint": "The -dipine ending is the clue.",
-    "explanation": "Amlodipine relaxes arterial smooth muscle by blocking calcium channels.",
-    "memoryTip": "-dipine = calcium channel blocker."
-  },
-  {
-    "id": 110,
-    "topic": "Pharmacology",
-    "question": "A common side effect of amlodipine is what?",
-    "options": [
-      "Peripheral edema",
-      "Dry cough only",
-      "Low potassium from diuresis",
-      "Severe hypoglycemia"
-    ],
-    "answer": "Peripheral edema",
-    "hint": "Think swollen ankles.",
-    "explanation": "Amlodipine can cause ankle or lower-extremity swelling due to vasodilation.",
-    "memoryTip": "Amlodipine may add ankle edema."
-  },
-  {
-    "id": 111,
-    "topic": "Pharmacology",
-    "question": "Hydrochlorothiazide is what type of medication?",
-    "options": [
-      "Thiazide diuretic",
-      "Beta blocker",
-      "Antiviral",
-      "Opioid"
-    ],
-    "answer": "Thiazide diuretic",
-    "hint": "It increases urine output.",
-    "explanation": "Hydrochlorothiazide increases sodium and water excretion and is often used for hypertension.",
-    "memoryTip": "HCTZ helps you pee out pressure."
-  },
-  {
-    "id": 112,
-    "topic": "Pharmacology",
-    "question": "Which electrolyte may become low with thiazide diuretics?",
-    "options": [
-      "Potassium",
-      "Calcium always",
-      "Iron",
-      "Phosphate only"
-    ],
-    "answer": "Potassium",
-    "hint": "Think diuretics can drain potassium.",
-    "explanation": "Thiazide diuretics can cause potassium loss and hypokalemia.",
-    "memoryTip": "Watch K+ with many diuretics."
-  },
-  {
-    "id": 113,
-    "topic": "Pharmacology",
-    "question": "Insulin primarily lowers what?",
-    "options": [
-      "Blood glucose",
-      "Blood pressure",
-      "Body temperature",
-      "Respiratory rate"
-    ],
-    "answer": "Blood glucose",
-    "hint": "It moves glucose out of blood.",
-    "explanation": "Insulin promotes glucose uptake into cells and storage as glycogen.",
-    "memoryTip": "Insulin invites glucose into cells."
-  },
-  {
-    "id": 114,
-    "topic": "Pharmacology",
-    "question": "Metformin is commonly used to treat what?",
-    "options": [
-      "Type 2 diabetes",
-      "Bacterial infection",
-      "Asthma attack",
-      "Acute pain"
-    ],
-    "answer": "Type 2 diabetes",
-    "hint": "Think first-line type 2 diabetes medicine.",
-    "explanation": "Metformin improves insulin sensitivity and decreases hepatic glucose production.",
-    "memoryTip": "Metformin manages glucose."
-  },
-  {
-    "id": 115,
-    "topic": "Pharmacology",
-    "question": "Which instruction is important for a patient taking an antibiotic?",
-    "options": [
-      "Complete the prescribed course unless the prescriber changes it",
-      "Stop as soon as symptoms improve",
-      "Share leftover doses",
-      "Double every missed dose automatically"
-    ],
-    "answer": "Complete the prescribed course unless the prescriber changes it",
-    "hint": "Do not quit just because you feel better.",
-    "explanation": "Stopping early may allow infection to persist and can contribute to resistance.",
-    "memoryTip": "Finish as directed."
-  },
-  {
-    "id": 116,
-    "topic": "Pharmacology",
-    "question": "Acetaminophen is primarily used for what?",
-    "options": [
-      "Pain and fever",
-      "Bacterial infections",
-      "Blood clots",
-      "Asthma prevention"
-    ],
-    "answer": "Pain and fever",
-    "hint": "Think common fever reducer.",
-    "explanation": "Acetaminophen is an analgesic and antipyretic.",
-    "memoryTip": "Acetaminophen eases aches and temperature."
-  },
-  {
-    "id": 117,
-    "topic": "Pharmacology",
-    "question": "Excessive acetaminophen use can seriously damage which organ?",
-    "options": [
-      "Liver",
-      "Lung",
-      "Skin",
-      "Spleen"
-    ],
-    "answer": "Liver",
-    "hint": "Think metabolism in the liver.",
-    "explanation": "Acetaminophen overdose can cause severe hepatotoxicity.",
-    "memoryTip": "Too much acetaminophen harms the liver."
-  },
-  {
-    "id": 118,
-    "topic": "Pharmacology",
-    "question": "Ibuprofen belongs to which medication class?",
-    "options": [
-      "NSAID",
-      "Opioid",
-      "Antibiotic",
-      "Anticoagulant"
-    ],
-    "answer": "NSAID",
-    "hint": "It reduces inflammation.",
-    "explanation": "Ibuprofen is a nonsteroidal anti-inflammatory drug used for pain, inflammation, and fever.",
-    "memoryTip": "Ibuprofen = NSAID."
-  },
-  {
-    "id": 119,
-    "topic": "Pharmacology",
-    "question": "Which problem is a major risk of NSAIDs such as ibuprofen?",
-    "options": [
-      "Gastrointestinal bleeding",
-      "Blue skin",
-      "Severe hair growth",
-      "Bacterial resistance"
-    ],
-    "answer": "Gastrointestinal bleeding",
-    "hint": "Think stomach protection decreases.",
-    "explanation": "NSAIDs can irritate the stomach lining and increase bleeding risk.",
-    "memoryTip": "NSAIDs can be rough on the stomach."
-  },
-  {
-    "id": 120,
-    "topic": "Pharmacology",
-    "question": "Naloxone is used to reverse what?",
-    "options": [
-      "Opioid overdose",
-      "Insulin overdose",
-      "Hypertension",
-      "Bacterial infection"
-    ],
-    "answer": "Opioid overdose",
-    "hint": "Think emergency opioid antidote.",
-    "explanation": "Naloxone is an opioid antagonist that can rapidly reverse opioid-induced respiratory depression.",
-    "memoryTip": "Naloxone knocks opioids off receptors."
+    "answer": "Anaphase I",
+    "explanation": "Homologous chromosome pairs separate during anaphase I; sister chromatids separate during anaphase II.",
+    "hint": "",
+    "memoryTip": ""
   }
 ]
