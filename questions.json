@@ -205,4 +205,227 @@
     "id": 21,
     "topic": "Anatomy & Physiology",
     "question": "Which brain region regulates hunger and body temperature?",
-    "options": ["Hypothalamus", "Cerebellum",
+    "options": ["Hypothalamus", "Cerebellum", "Medulla", "Pons"],
+    "answer": "Hypothalamus",
+    "explanation": "The hypothalamus maintains homeostasis.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 22,
+    "topic": "Anatomy & Physiology",
+    "question": "Which vessel carries nutrient-rich blood from the GI tract to the liver?",
+    "options": ["Hepatic portal vein", "Hepatic artery", "Inferior vena cava", "Splenic vein"],
+    "answer": "Hepatic portal vein",
+    "explanation": "The hepatic portal vein delivers absorbed nutrients to the liver.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 23,
+    "topic": "Anatomy & Physiology",
+    "question": "Which immune cells produce antibodies?",
+    "options": ["B cells", "T cells", "Macrophages", "Neutrophils"],
+    "answer": "B cells",
+    "explanation": "Activated B cells differentiate into plasma cells that secrete antibodies.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 24,
+    "topic": "Anatomy & Physiology",
+    "question": "Which lung volume represents air remaining after maximal exhalation?",
+    "options": ["Residual volume", "Tidal volume", "Vital capacity", "Inspiratory reserve"],
+    "answer": "Residual volume",
+    "explanation": "Residual volume prevents lung collapse.",
+    "hint": "",
+    "memoryTip": ""
+  },
+
+  {
+    "id": 25,
+    "topic": "Grammar",
+    "question": "Which sentence correctly uses the subjunctive mood?",
+    "options": [
+      "If I were taller, I would play basketball.",
+      "If I was taller, I would play basketball.",
+      "If I am taller, I would play basketball.",
+      "If I be taller, I would play basketball."
+    ],
+    "answer": "If I were taller, I would play basketball.",
+    "explanation": "The subjunctive mood uses 'were' for hypothetical situations.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 26,
+    "topic": "Grammar",
+    "question": "Which sentence contains a restrictive clause?",
+    "options": [
+      "The book that I borrowed is on the table.",
+      "The book, which I borrowed, is on the table.",
+      "The book—borrowed yesterday—is on the table.",
+      "The book is on the table."
+    ],
+    "answer": "The book that I borrowed is on the table.",
+    "explanation": "Restrictive clauses limit meaning and do not use commas.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 27,
+    "topic": "Grammar",
+    "question": "Which word functions as a gerund?",
+    "options": ["Running", "Run", "Ran", "Runner"],
+    "answer": "Running",
+    "explanation": "Gerunds are -ing verbs used as nouns.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 28,
+    "topic": "Grammar",
+    "question": "Which sentence uses parallel structure?",
+    "options": [
+      "She likes hiking, swimming, and biking.",
+      "She likes hiking, to swim, and biking.",
+      "She likes to hike, swimming, and biking.",
+      "She likes hiking, swimming, and to bike."
+    ],
+    "answer": "She likes hiking, swimming, and biking.",
+    "explanation": "Parallel structure uses consistent grammatical forms.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 29,
+    "topic": "Grammar",
+    "question": "Which sentence uses a semicolon correctly?",
+    "options": [
+      "I finished my work; now I can relax.",
+      "I finished my work; and now I can relax.",
+      "I finished my work; because now I can relax.",
+      "I finished my work; but now I can relax."
+    ],
+    "answer": "I finished my work; now I can relax.",
+    "explanation": "Semicolons join two independent related clauses.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 30,
+    "topic": "Grammar",
+    "question": "Which sentence contains an appositive?",
+    "options": [
+      "My brother, a skilled mechanic, fixed my car.",
+      "My brother fixed my car.",
+      "My brother is a mechanic.",
+      "My brother fixed the car yesterday."
+    ],
+    "answer": "My brother, a skilled mechanic, fixed my car.",
+    "explanation": "Appositives rename nouns and are often set off by commas.",
+    "hint": "",
+    "memoryTip": ""
+  },
+
+  {
+    "id": 31,
+    "topic": "Pharmacology",
+    "question": "Which pharmacokinetic process describes drug movement from blood to tissues?",
+    "options": ["Distribution", "Absorption", "Metabolism", "Excretion"],
+    "answer": "Distribution",
+    "explanation": "Distribution is the transfer of drugs from circulation to tissues.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 32,
+    "topic": "Pharmacology",
+    "question": "Which enzyme family is most involved in drug metabolism?",
+    "options": ["CYP450", "ATP synthase", "RNA polymerase", "Kinases"],
+    "answer": "CYP450",
+    "explanation": "Cytochrome P450 enzymes metabolize many drugs.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 33,
+    "topic": "Pharmacology",
+    "question": "Which term describes the time required for drug concentration to decrease by half?",
+    "options": ["Half-life", "Clearance", "Duration", "Onset"],
+    "answer": "Half-life",
+    "explanation": "Half-life measures how long it takes for drug levels to fall by 50%.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 34,
+    "topic": "Pharmacology",
+    "question": "Which drug class blocks beta-1 receptors?",
+    "options": ["Beta blockers", "ACE inhibitors", "Calcium channel blockers", "Diuretics"],
+    "answer": "Beta blockers",
+    "explanation": "Beta blockers reduce heart rate and blood pressure.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 35,
+    "topic": "Pharmacology",
+    "question": "Which route avoids first-pass metabolism?",
+    "options": ["Sublingual", "Oral", "Rectal", "Intramuscular"],
+    "answer": "Sublingual",
+    "explanation": "Sublingual drugs enter systemic circulation directly.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 36,
+    "topic": "Pharmacology",
+    "question": "Which term describes a drug that binds to a receptor but produces no effect?",
+    "options": ["Antagonist", "Agonist", "Partial agonist", "Modulator"],
+    "answer": "Antagonist",
+    "explanation": "Antagonists block receptor activation.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 37,
+    "topic": "Pharmacology",
+    "question": "Which drug class increases insulin sensitivity?",
+    "options": ["Biguanides", "Statins", "Antihistamines", "Opioids"],
+    "answer": "Biguanides",
+    "explanation": "Biguanides like metformin improve insulin sensitivity.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 38,
+    "topic": "Pharmacology",
+    "question": "Which adverse reaction involves immune-mediated destruction of platelets?",
+    "options": ["Thrombocytopenia", "Neutropenia", "Anemia", "Leukocytosis"],
+    "answer": "Thrombocytopenia",
+    "explanation": "Thrombocytopenia reduces platelet count due to immune attack.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 39,
+    "topic": "Pharmacology",
+    "question": "Which term describes the dose required to produce a specific effect?",
+    "options": ["Potency", "Efficacy", "Toxicity", "Tolerance"],
+    "answer": "Potency",
+    "explanation": "Potency refers to the amount of drug needed for an effect.",
+    "hint": "",
+    "memoryTip": ""
+  },
+  {
+    "id": 40,
+    "topic": "Pharmacology",
+    "question": "Which drug class treats arrhythmias by blocking sodium channels?",
+    "options": ["Class I antiarrhythmics", "Class II", "Class III", "Class IV"],
+    "answer": "Class I antiarrhythmics",
+    "explanation": "Class I drugs block sodium channels to stabilize cardiac conduction.",
+    "hint": "",
+    "memoryTip": ""
+  }
+]
