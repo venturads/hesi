@@ -1,1532 +1,272 @@
 [
   {
     "id": 1,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Which scientist first used the term “cell” after examining cork?",
-    "hint": "Think of the scientist whose last name sounds like something used to hang an object.",
+    "topic": "Humerus - Proximal",
+    "question": "Which part of the humerus articulates with the glenoid cavity of the scapula?",
+    "hint": "Think of the rounded top of the humerus.",
     "options": [
-      "Robert Hooke",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Robert Koch"
+      "Head",
+      "Greater tubercle",
+      "Surgical neck",
+      "Deltoid tuberosity"
     ],
-    "answer": "Robert Hooke",
-    "explanation": "Robert Hooke observed boxlike compartments in cork and called them cells.",
-    "memoryTip": "Hooke hooked the word cell to cork."
+    "answer": "Head",
+    "explanation": "The head of the humerus fits into the glenoid cavity of the scapula to form the shoulder joint.",
+    "memoryTip": "Head = shoulder."
   },
   {
     "id": 2,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Who was among the first to observe living microorganisms with a simple microscope?",
-    "hint": "He described tiny living organisms as animalcules.",
+    "topic": "Humerus - Proximal",
+    "question": "Which structure surrounds the base of the humeral head?",
+    "hint": "It is directly next to the head.",
     "options": [
-      "Anton van Leeuwenhoek",
-      "Alexander Fleming",
-      "Edward Jenner",
-      "Rudolf Virchow"
+      "Anatomical neck",
+      "Surgical neck",
+      "Radial groove",
+      "Olecranon fossa"
     ],
-    "answer": "Anton van Leeuwenhoek",
-    "explanation": "Leeuwenhoek used handcrafted microscopes to observe bacteria and protozoa.",
-    "memoryTip": "Leeuwenhoek looked at little living things."
+    "answer": "Anatomical neck",
+    "explanation": "The anatomical neck is a narrow groove surrounding the base of the humeral head.",
+    "memoryTip": "Anatomical neck hugs the head."
   },
   {
     "id": 3,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Which scientist’s swan-neck flask experiments helped disprove spontaneous generation?",
-    "hint": "He is also associated with pasteurization.",
+    "topic": "Humerus - Proximal",
+    "question": "Which tubercle is the larger lateral projection of the proximal humerus?",
+    "hint": "Greater means bigger.",
     "options": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Joseph Lister",
-      "Paul Ehrlich"
+      "Greater tubercle",
+      "Lesser tubercle",
+      "Capitulum",
+      "Trochlea"
     ],
-    "answer": "Louis Pasteur",
-    "explanation": "Pasteur showed that microorganisms came from existing microbes in the environment rather than arising spontaneously.",
-    "memoryTip": "Pasteur proved life comes from life."
+    "answer": "Greater tubercle",
+    "explanation": "The greater tubercle is the larger lateral projection near the head of the humerus.",
+    "memoryTip": "Greater = bigger bump."
   },
   {
     "id": 4,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Who introduced antiseptic techniques into surgery using carbolic acid?",
-    "hint": "A mouthwash brand was named in his honor.",
+    "topic": "Humerus - Proximal",
+    "question": "Which tubercle is located more anteriorly on the proximal humerus?",
+    "hint": "It is the smaller of the two tubercles.",
     "options": [
-      "Joseph Lister",
-      "Robert Hooke",
-      "Edward Jenner",
-      "Alexander Fleming"
+      "Lesser tubercle",
+      "Greater tubercle",
+      "Medial epicondyle",
+      "Deltoid tuberosity"
     ],
-    "answer": "Joseph Lister",
-    "explanation": "Lister reduced surgical infections by using carbolic acid to disinfect wounds, instruments, and the surgical area.",
-    "memoryTip": "Lister = antiseptic; think Listerine."
+    "answer": "Lesser tubercle",
+    "explanation": "The lesser tubercle is the smaller anterior projection of the proximal humerus.",
+    "memoryTip": "Lesser = little front bump."
   },
   {
     "id": 5,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Koch’s postulates were designed to determine what?",
-    "hint": "They connect one microorganism to one disease.",
+    "topic": "Humerus - Proximal",
+    "question": "What groove lies between the greater and lesser tubercles?",
+    "hint": "The long head of the biceps tendon travels through it.",
     "options": [
-      "Whether a specific microbe causes a specific disease",
-      "Whether a cell has a nucleus",
-      "How antibiotics stop translation",
-      "How viruses reproduce"
+      "Intertubercular groove",
+      "Radial groove",
+      "Olecranon fossa",
+      "Coronoid fossa"
     ],
-    "answer": "Whether a specific microbe causes a specific disease",
-    "explanation": "Koch’s postulates provide a systematic method for linking a particular microorganism to a particular disease.",
-    "memoryTip": "Koch connects the culprit to the condition."
+    "answer": "Intertubercular groove",
+    "explanation": "The intertubercular, or bicipital, groove lies between the greater and lesser tubercles.",
+    "memoryTip": "Inter = between the tubercles."
   },
   {
     "id": 6,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Foundations",
-    "question": "Which scientist discovered penicillin after observing mold inhibiting bacterial growth?",
-    "hint": "The mold was Penicillium.",
+    "topic": "Humerus - Proximal",
+    "question": "Which part of the humerus is a common fracture site just below the tubercles?",
+    "hint": "Its name sounds like an operation.",
     "options": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Joseph Lister",
-      "Anton van Leeuwenhoek"
+      "Surgical neck",
+      "Anatomical neck",
+      "Radial groove",
+      "Capitulum"
     ],
-    "answer": "Alexander Fleming",
-    "explanation": "Fleming noticed that Penicillium mold produced a substance that killed nearby bacteria.",
-    "memoryTip": "Fleming found penicillin from fungus."
+    "answer": "Surgical neck",
+    "explanation": "The surgical neck lies below the tubercles and is a common fracture site.",
+    "memoryTip": "Surgical neck = common break."
   },
   {
     "id": 7,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Microbial Groups",
-    "question": "Which group consists of prokaryotic microorganisms whose cell walls usually contain peptidoglycan?",
-    "hint": "They include cocci, bacilli, and spirilla.",
+    "topic": "Humerus - Shaft",
+    "question": "Where does the deltoid muscle insert on the humerus?",
+    "hint": "Look for the rough area on the lateral shaft.",
     "options": [
-      "Bacteria",
-      "Fungi",
-      "Protozoa",
-      "Viruses"
+      "Deltoid tuberosity",
+      "Greater tubercle",
+      "Trochlea",
+      "Olecranon fossa"
     ],
-    "answer": "Bacteria",
-    "explanation": "Bacteria are prokaryotes, and most bacterial cell walls contain peptidoglycan.",
-    "memoryTip": "Bacteria build walls with peptidoglycan."
+    "answer": "Deltoid tuberosity",
+    "explanation": "The deltoid muscle inserts on the deltoid tuberosity of the humeral shaft.",
+    "memoryTip": "Deltoid digs into the deltoid tuberosity."
   },
   {
     "id": 8,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Microbial Groups",
-    "question": "Which infectious agents are acellular and must reproduce inside host cells?",
-    "hint": "They contain DNA or RNA inside a protein coat.",
+    "topic": "Humerus - Shaft",
+    "question": "Which nerve travels along the radial groove of the humerus?",
+    "hint": "The groove is named after the nerve.",
     "options": [
-      "Viruses",
-      "Fungi",
-      "Helminths",
-      "Protozoa"
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Axillary nerve"
     ],
-    "answer": "Viruses",
-    "explanation": "Viruses are not cells and depend on host-cell machinery for replication.",
-    "memoryTip": "Viruses visit cells to multiply."
+    "answer": "Radial nerve",
+    "explanation": "The radial nerve passes along the posterior humerus in the radial groove.",
+    "memoryTip": "Radial groove = radial nerve."
   },
   {
     "id": 9,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Microbial Groups",
-    "question": "Yeasts and molds belong to which microbial group?",
-    "hint": "Their cell walls commonly contain chitin.",
+    "topic": "Humerus - Shaft",
+    "question": "The radial groove is primarily located on which surface of the humerus?",
+    "hint": "Think about the back of the shaft.",
     "options": [
-      "Fungi",
-      "Archaea",
-      "Bacteria",
-      "Protozoa"
+      "Posterior",
+      "Anterior",
+      "Medial",
+      "Superior"
     ],
-    "answer": "Fungi",
-    "explanation": "Fungi include unicellular yeasts and multicellular molds and mushrooms.",
-    "memoryTip": "Fungi = molds and yeasts."
+    "answer": "Posterior",
+    "explanation": "The radial groove runs along the posterior surface of the humeral shaft.",
+    "memoryTip": "Radial groove rides around the back."
   },
   {
     "id": 10,
-    "chapter": 1,
-    "chapterTitle": "The Microbial World and You",
-    "category": "Microbial Ecology",
-    "question": "What term describes microorganisms that normally live on or in the human body without causing disease under usual conditions?",
-    "hint": "They are regular residents of the body.",
+    "topic": "Humerus - Distal",
+    "question": "Which distal humeral structure articulates with the radius?",
+    "hint": "CAP connects with RAD.",
     "options": [
-      "Normal microbiota",
-      "Obligate pathogens",
-      "Prions",
-      "Vectors"
+      "Capitulum",
+      "Trochlea",
+      "Medial epicondyle",
+      "Olecranon fossa"
     ],
-    "answer": "Normal microbiota",
-    "explanation": "Normal microbiota commonly inhabit body sites and may provide benefits such as competing with pathogens.",
-    "memoryTip": "Normal flora = regular residents."
+    "answer": "Capitulum",
+    "explanation": "The capitulum articulates with the head of the radius at the elbow.",
+    "memoryTip": "CAP = RAD."
   },
   {
     "id": 11,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "What is the smallest unit of an element that retains the element’s properties?",
-    "hint": "It contains protons, neutrons, and electrons.",
+    "topic": "Humerus - Distal",
+    "question": "Which distal humeral structure articulates with the ulna?",
+    "hint": "It looks like a pulley.",
     "options": [
-      "Atom",
-      "Molecule",
-      "Ion",
-      "Compound"
+      "Trochlea",
+      "Capitulum",
+      "Radial fossa",
+      "Lateral epicondyle"
     ],
-    "answer": "Atom",
-    "explanation": "An atom is the basic unit of an element.",
-    "memoryTip": "Atom = elemental building block."
+    "answer": "Trochlea",
+    "explanation": "The trochlea is the pulley-shaped surface that articulates with the ulna.",
+    "memoryTip": "TRO = ULNA."
   },
   {
     "id": 12,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "Which subatomic particle has a negative charge?",
-    "hint": "It moves around the nucleus.",
+    "topic": "Humerus - Distal",
+    "question": "Which epicondyle is located on the inner side of the distal humerus?",
+    "hint": "Medial means toward the body's midline.",
     "options": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Isotope"
+      "Medial epicondyle",
+      "Lateral epicondyle",
+      "Capitulum",
+      "Greater tubercle"
     ],
-    "answer": "Electron",
-    "explanation": "Electrons carry a negative electrical charge.",
-    "memoryTip": "Electron = negative."
+    "answer": "Medial epicondyle",
+    "explanation": "The medial epicondyle is the prominent projection on the medial side of the distal humerus.",
+    "memoryTip": "ME = Medial Epicondyle."
   },
   {
     "id": 13,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "An ionic bond forms when what occurs?",
-    "hint": "One atom gives electrons and another receives them.",
+    "topic": "Humerus - Distal",
+    "question": "Which epicondyle is located on the outer side of the distal humerus?",
+    "hint": "Lateral means away from the body's midline.",
     "options": [
-      "Electrons are transferred between atoms",
-      "Electrons are shared equally",
-      "Hydrogen atoms are removed",
-      "Neutrons are exchanged"
+      "Lateral epicondyle",
+      "Medial epicondyle",
+      "Trochlea",
+      "Coronoid fossa"
     ],
-    "answer": "Electrons are transferred between atoms",
-    "explanation": "Electron transfer creates oppositely charged ions that attract each other.",
-    "memoryTip": "Ionic = I give or take electrons."
+    "answer": "Lateral epicondyle",
+    "explanation": "The lateral epicondyle is found on the lateral side of the distal humerus.",
+    "memoryTip": "LE = Lateral Epicondyle."
   },
   {
     "id": 14,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "A covalent bond forms when atoms do what?",
-    "hint": "The atoms cooperate with their electrons.",
+    "topic": "Humerus - Distal",
+    "question": "Which fossa receives the olecranon of the ulna during elbow extension?",
+    "hint": "It is the large depression on the back of the humerus.",
     "options": [
-      "Share electrons",
-      "Transfer protons",
-      "Lose all neutrons",
-      "Create ions only"
+      "Olecranon fossa",
+      "Radial fossa",
+      "Coronoid fossa",
+      "Intertubercular groove"
     ],
-    "answer": "Share electrons",
-    "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
-    "memoryTip": "Co-valent = cooperate and share."
+    "answer": "Olecranon fossa",
+    "explanation": "The olecranon fossa receives the olecranon process of the ulna when the elbow extends.",
+    "memoryTip": "Olecranon goes into olecranon fossa."
   },
   {
     "id": 15,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "A solution with a pH of 3 is best described as what?",
-    "hint": "It is below pH 7.",
+    "topic": "Humerus - Distal",
+    "question": "Which humeral fossa accommodates the head of the radius during elbow flexion?",
+    "hint": "Its name matches the radius.",
     "options": [
-      "Acidic",
-      "Neutral",
-      "Basic",
-      "Isotonic"
+      "Radial fossa",
+      "Coronoid fossa",
+      "Olecranon fossa",
+      "Radial groove"
     ],
-    "answer": "Acidic",
-    "explanation": "Solutions with a pH below 7 are acidic.",
-    "memoryTip": "Low pH = high acid."
+    "answer": "Radial fossa",
+    "explanation": "The radial fossa accommodates the head of the radius during elbow flexion.",
+    "memoryTip": "Radius goes toward the radial fossa."
   },
   {
     "id": 16,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Chemistry",
-    "question": "What type of reaction breaks a large molecule apart by adding water?",
-    "hint": "Hydro means water and lysis means splitting.",
+    "topic": "Humerus - Distal",
+    "question": "Which fossa receives the coronoid process of the ulna during elbow flexion?",
+    "hint": "Its name matches the coronoid process.",
     "options": [
-      "Hydrolysis",
-      "Dehydration synthesis",
-      "Oxidation",
-      "Neutralization"
+      "Coronoid fossa",
+      "Olecranon fossa",
+      "Radial fossa",
+      "Radial groove"
     ],
-    "answer": "Hydrolysis",
-    "explanation": "Hydrolysis adds water to break chemical bonds in larger molecules.",
-    "memoryTip": "Hydrolysis = water cuts."
+    "answer": "Coronoid fossa",
+    "explanation": "The coronoid fossa receives the coronoid process of the ulna when the elbow flexes.",
+    "memoryTip": "Coronoid process → coronoid fossa."
   },
   {
     "id": 17,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Biomolecules",
-    "question": "Which macromolecules are built from amino acids?",
-    "hint": "Enzymes are usually in this group.",
+    "topic": "Humerus - Orientation",
+    "question": "Which humeral fossa is visible primarily from the posterior view?",
+    "hint": "It receives the point of the elbow.",
     "options": [
-      "Proteins",
-      "Carbohydrates",
-      "Lipids",
-      "Nucleic acids"
+      "Olecranon fossa",
+      "Radial fossa",
+      "Coronoid fossa",
+      "Intertubercular groove"
     ],
-    "answer": "Proteins",
-    "explanation": "Amino acids join by peptide bonds to form proteins.",
-    "memoryTip": "Amino acids assemble proteins."
+    "answer": "Olecranon fossa",
+    "explanation": "The olecranon fossa is a large depression on the posterior distal humerus.",
+    "memoryTip": "Olecranon = back."
   },
   {
     "id": 18,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Biomolecules",
-    "question": "Which molecule is the main immediate energy currency of cells?",
-    "hint": "Its name contains adenosine triphosphate.",
-    "options": [
-      "ATP",
-      "DNA",
-      "Cholesterol",
-      "Cellulose"
-    ],
-    "answer": "ATP",
-    "explanation": "ATP stores readily usable energy in its phosphate bonds.",
-    "memoryTip": "ATP = available transferable power."
-  },
-  {
-    "id": 19,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Biomolecules",
-    "question": "Which nucleic acid contains uracil instead of thymine?",
-    "hint": "It is usually single-stranded.",
-    "options": [
-      "RNA",
-      "DNA",
-      "ATP",
-      "Protein"
-    ],
-    "answer": "RNA",
-    "explanation": "RNA uses uracil, whereas DNA uses thymine.",
-    "memoryTip": "RNA uses U."
-  },
-  {
-    "id": 20,
-    "chapter": 2,
-    "chapterTitle": "Chemical Principles",
-    "category": "Biomolecules",
-    "question": "Which biomolecule group includes fats, phospholipids, and steroids?",
-    "hint": "These molecules are generally hydrophobic.",
-    "options": [
-      "Lipids",
-      "Proteins",
-      "Carbohydrates",
-      "Nucleic acids"
-    ],
-    "answer": "Lipids",
-    "explanation": "Lipids include triglycerides, phospholipids, steroids, and waxes.",
-    "memoryTip": "Lipids love avoiding water."
-  },
-  {
-    "id": 21,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Microscopy",
-    "question": "What does magnification describe?",
-    "hint": "It tells how much larger the image appears.",
-    "options": [
-      "The apparent increase in an object’s size",
-      "The ability to distinguish two nearby points",
-      "The amount of stain absorbed",
-      "The depth of the specimen"
-    ],
-    "answer": "The apparent increase in an object’s size",
-    "explanation": "Magnification enlarges the appearance of an object.",
-    "memoryTip": "Magnification makes it look bigger."
-  },
-  {
-    "id": 22,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Microscopy",
-    "question": "What is resolution in microscopy?",
-    "hint": "It determines image clarity and detail.",
-    "options": [
-      "The ability to distinguish two close points as separate",
-      "The total size of the microscope",
-      "The brightness of the lamp",
-      "The thickness of the slide"
-    ],
-    "answer": "The ability to distinguish two close points as separate",
-    "explanation": "Resolution measures how clearly two nearby structures can be seen as distinct.",
-    "memoryTip": "Resolution reveals separation."
-  },
-  {
-    "id": 23,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Microscopy",
-    "question": "What is the total magnification when using a 10× ocular lens and a 100× objective lens?",
-    "hint": "Multiply the ocular by the objective.",
-    "options": [
-      "1000×",
-      "110×",
-      "100×",
-      "10,000×"
-    ],
-    "answer": "1000×",
-    "explanation": "Total magnification equals ocular magnification multiplied by objective magnification: 10 × 100 = 1000.",
-    "memoryTip": "Ocular × objective = total."
-  },
-  {
-    "id": 24,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Microscopy",
-    "question": "Why is immersion oil used with the 100× objective lens?",
-    "hint": "It reduces the bending and loss of light.",
-    "options": [
-      "To improve resolution by reducing light refraction",
-      "To stain bacterial capsules",
-      "To kill microorganisms",
-      "To increase specimen thickness"
-    ],
-    "answer": "To improve resolution by reducing light refraction",
-    "explanation": "Immersion oil has a refractive index similar to glass, allowing more light to enter the objective.",
-    "memoryTip": "Oil keeps light in line."
-  },
-  {
-    "id": 25,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Staining",
-    "question": "A simple stain uses how many dyes?",
-    "hint": "The word simple is the clue.",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "One",
-    "explanation": "A simple stain uses a single basic dye to reveal cell shape, size, and arrangement.",
-    "memoryTip": "Simple stain = single dye."
-  },
-  {
-    "id": 26,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Staining",
-    "question": "Which stain separates bacteria into Gram-positive and Gram-negative groups?",
-    "hint": "It begins with crystal violet.",
-    "options": [
-      "Gram stain",
-      "Acid-fast stain",
-      "Endospore stain",
-      "Capsule stain"
-    ],
-    "answer": "Gram stain",
-    "explanation": "The Gram stain differentiates bacteria based mainly on cell-wall structure.",
-    "memoryTip": "Gram groups bacteria by wall."
-  },
-  {
-    "id": 27,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Staining",
-    "question": "What color do Gram-positive bacteria usually appear after Gram staining?",
-    "hint": "They retain crystal violet.",
-    "options": [
-      "Purple",
-      "Pink",
-      "Green",
-      "Colorless"
-    ],
-    "answer": "Purple",
-    "explanation": "The thick peptidoglycan wall retains the crystal violet–iodine complex.",
-    "memoryTip": "Positive = purple."
-  },
-  {
-    "id": 28,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Staining",
-    "question": "What is the primary stain in the Gram-stain procedure?",
-    "hint": "It colors cells purple first.",
-    "options": [
-      "Crystal violet",
-      "Safranin",
-      "Methylene blue",
-      "Malachite green"
-    ],
-    "answer": "Crystal violet",
-    "explanation": "Crystal violet is applied first and stains all cells purple initially.",
-    "memoryTip": "Crystal violet comes first."
-  },
-  {
-    "id": 29,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Staining",
-    "question": "Which staining method is especially useful for bacteria with waxy mycolic acid in their cell walls?",
-    "hint": "Think Mycobacterium.",
-    "options": [
-      "Acid-fast stain",
-      "Gram stain",
-      "Negative stain",
-      "Flagella stain"
-    ],
-    "answer": "Acid-fast stain",
-    "explanation": "The acid-fast method detects organisms with waxy, lipid-rich cell walls containing mycolic acid.",
-    "memoryTip": "Acid-fast finds waxy walls."
-  },
-  {
-    "id": 30,
-    "chapter": 3,
-    "chapterTitle": "Observing Microorganisms Through a Microscope",
-    "category": "Microscopy",
-    "question": "Which microscope is commonly used to observe living, unstained microorganisms with enhanced internal contrast?",
-    "hint": "It converts phase differences into brightness differences.",
-    "options": [
-      "Phase-contrast microscope",
-      "Bright-field microscope only",
-      "Scanning electron microscope",
-      "Transmission electron microscope"
-    ],
-    "answer": "Phase-contrast microscope",
-    "explanation": "Phase-contrast microscopy improves contrast in transparent living cells without staining.",
-    "memoryTip": "Phase contrast shows live cells clearly."
-  },
-  {
-    "id": 31,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "Which feature distinguishes prokaryotic cells from eukaryotic cells?",
-    "hint": "Think about the location of DNA.",
-    "options": [
-      "Prokaryotes lack a membrane-bound nucleus",
-      "Prokaryotes always lack ribosomes",
-      "Prokaryotes have mitochondria",
-      "Prokaryotes are always multicellular"
-    ],
-    "answer": "Prokaryotes lack a membrane-bound nucleus",
-    "explanation": "Prokaryotic DNA is located in a nucleoid rather than inside a membrane-bound nucleus.",
-    "memoryTip": "Pro = no protected nucleus."
-  },
-  {
-    "id": 32,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "What is the main function of the bacterial cell wall?",
-    "hint": "It helps prevent the cell from bursting.",
-    "options": [
-      "Maintain shape and resist osmotic lysis",
-      "Produce ATP by photosynthesis only",
-      "Store genetic information",
-      "Synthesize proteins"
-    ],
-    "answer": "Maintain shape and resist osmotic lysis",
-    "explanation": "The rigid cell wall supports bacterial shape and protects against osmotic pressure.",
-    "memoryTip": "Cell wall = shape and shield."
-  },
-  {
-    "id": 33,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "What major substance is found in most bacterial cell walls?",
-    "hint": "It is a mesh of sugars and short peptides.",
-    "options": [
-      "Peptidoglycan",
-      "Cellulose",
-      "Chitin",
-      "Cholesterol"
-    ],
-    "answer": "Peptidoglycan",
-    "explanation": "Peptidoglycan forms a strong mesh-like layer in bacterial cell walls.",
-    "memoryTip": "Bacteria build with peptidoglycan."
-  },
-  {
-    "id": 34,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "Which structure helps many bacteria move?",
-    "hint": "It is a long, whip-like appendage.",
-    "options": [
-      "Flagellum",
-      "Capsule",
-      "Ribosome",
-      "Plasmid"
-    ],
-    "answer": "Flagellum",
-    "explanation": "Rotation of bacterial flagella propels cells through liquid environments.",
-    "memoryTip": "Flagella = movement tails."
-  },
-  {
-    "id": 35,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "Which bacterial structure commonly assists attachment and may protect against phagocytosis?",
-    "hint": "It is an organized glycocalyx layer.",
-    "options": [
-      "Capsule",
-      "Nucleoid",
-      "Ribosome",
-      "Endospore core"
-    ],
-    "answer": "Capsule",
-    "explanation": "A capsule can promote adherence, prevent drying, and help bacteria evade phagocytosis.",
-    "memoryTip": "Capsule = coat for clinging and cover."
-  },
-  {
-    "id": 36,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "What is the function of ribosomes?",
-    "hint": "They translate mRNA.",
-    "options": [
-      "Protein synthesis",
-      "DNA storage",
-      "Lipid digestion",
-      "Cell movement"
-    ],
-    "answer": "Protein synthesis",
-    "explanation": "Ribosomes read mRNA and assemble amino acids into proteins.",
-    "memoryTip": "Ribosomes read recipes for proteins."
-  },
-  {
-    "id": 37,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "What is a plasmid?",
-    "hint": "It is separate from the main bacterial chromosome.",
-    "options": [
-      "A small circular DNA molecule",
-      "A bacterial ribosome",
-      "A protein capsule",
-      "A viral envelope"
-    ],
-    "answer": "A small circular DNA molecule",
-    "explanation": "Plasmids replicate independently and may carry genes such as antibiotic-resistance genes.",
-    "memoryTip": "Plasmid = portable extra DNA."
-  },
-  {
-    "id": 38,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Structure",
-    "question": "Which structure allows certain bacteria to survive harsh conditions such as heat and drying?",
-    "hint": "Bacillus and Clostridium can form it.",
-    "options": [
-      "Endospore",
-      "Capsule",
-      "Pilus",
-      "Flagellum"
-    ],
-    "answer": "Endospore",
-    "explanation": "Endospores are dormant, highly resistant structures formed inside certain bacteria.",
-    "memoryTip": "Endospore = emergency survival shell."
-  },
-  {
-    "id": 39,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Cell Transport",
-    "question": "In osmosis, what moves across a selectively permeable membrane?",
-    "hint": "It moves toward the area with more dissolved solute.",
-    "options": [
-      "Water",
-      "Protein",
-      "DNA",
-      "ATP"
-    ],
-    "answer": "Water",
-    "explanation": "Osmosis is the net movement of water across a selectively permeable membrane.",
-    "memoryTip": "Osmosis = water movement."
-  },
-  {
-    "id": 40,
-    "chapter": 4,
-    "chapterTitle": "Functional Anatomy of Prokaryotic and Eukaryotic Cells",
-    "category": "Eukaryotic Cells",
-    "question": "Which organelle produces most ATP in eukaryotic cells?",
-    "hint": "It is called the powerhouse of the cell.",
-    "options": [
-      "Mitochondrion",
-      "Golgi apparatus",
-      "Lysosome",
-      "Nucleus"
-    ],
-    "answer": "Mitochondrion",
-    "explanation": "Mitochondria generate ATP through aerobic cellular respiration.",
-    "memoryTip": "Mitochondria make mighty ATP."
-  },
-  {
-    "id": 41,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Metabolism",
-    "question": "What is metabolism?",
-    "hint": "It includes both building and breakdown reactions.",
-    "options": [
-      "The sum of all chemical reactions in a cell",
-      "Only the breakdown of glucose",
-      "Only protein synthesis",
-      "Movement through a membrane"
-    ],
-    "answer": "The sum of all chemical reactions in a cell",
-    "explanation": "Metabolism includes catabolic and anabolic reactions occurring in an organism.",
-    "memoryTip": "Metabolism = all cellular chemistry."
-  },
-  {
-    "id": 42,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Metabolism",
-    "question": "Catabolic reactions generally do what?",
-    "hint": "They break large molecules into smaller ones.",
-    "options": [
-      "Release energy by breaking molecules down",
-      "Build complex molecules only",
-      "Copy DNA without energy",
-      "Stop enzyme activity"
-    ],
-    "answer": "Release energy by breaking molecules down",
-    "explanation": "Catabolism breaks down molecules and commonly releases energy that can be captured in ATP.",
-    "memoryTip": "Catabolism cuts and releases."
-  },
-  {
-    "id": 43,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Metabolism",
-    "question": "Anabolic reactions generally do what?",
-    "hint": "They assemble smaller units into larger molecules.",
-    "options": [
-      "Build complex molecules and require energy",
-      "Break glucose down only",
-      "Destroy all enzymes",
-      "Remove electrons from oxygen"
-    ],
-    "answer": "Build complex molecules and require energy",
-    "explanation": "Anabolism uses energy to synthesize complex cellular components.",
-    "memoryTip": "Anabolism adds and assembles."
-  },
-  {
-    "id": 44,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Enzymes",
-    "question": "What is the primary function of an enzyme?",
-    "hint": "It lowers the activation energy.",
-    "options": [
-      "Speed up a chemical reaction",
-      "Supply unlimited energy",
-      "Change the final equilibrium permanently",
-      "Become the reaction product"
-    ],
-    "answer": "Speed up a chemical reaction",
-    "explanation": "Enzymes act as biological catalysts by lowering activation energy.",
-    "memoryTip": "Enzymes ease reactions."
-  },
-  {
-    "id": 45,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Enzymes",
-    "question": "The substance on which an enzyme acts is called what?",
-    "hint": "It fits into the enzyme’s active site.",
-    "options": [
-      "Substrate",
-      "Cofactor",
-      "Product inhibitor",
-      "Proton"
-    ],
-    "answer": "Substrate",
-    "explanation": "A substrate binds to an enzyme’s active site and is converted into product.",
-    "memoryTip": "Substrate sits in the site."
-  },
-  {
-    "id": 46,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Cellular Respiration",
-    "question": "Where does glycolysis occur in a microbial cell?",
-    "hint": "It does not require a membrane-bound organelle.",
-    "options": [
-      "Cytoplasm",
-      "Nucleus",
-      "Golgi apparatus",
-      "Lysosome"
-    ],
-    "answer": "Cytoplasm",
-    "explanation": "Glycolysis occurs in the cytoplasm and splits glucose into pyruvic acid.",
-    "memoryTip": "Glycolysis goes in the cytoplasm."
-  },
-  {
-    "id": 47,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Cellular Respiration",
-    "question": "What is the net ATP gain from glycolysis per glucose molecule?",
-    "hint": "Four are made, but two are used.",
-    "options": [
-      "2 ATP",
-      "4 ATP",
-      "18 ATP",
-      "36 ATP"
-    ],
-    "answer": "2 ATP",
-    "explanation": "Glycolysis produces four ATP but consumes two, giving a net gain of two ATP.",
-    "memoryTip": "Glycolysis nets two."
-  },
-  {
-    "id": 48,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Cellular Respiration",
-    "question": "In aerobic respiration, what is the final electron acceptor?",
-    "hint": "Humans breathe it in.",
-    "options": [
-      "Oxygen",
-      "Glucose",
-      "Carbon dioxide",
-      "Pyruvate"
-    ],
-    "answer": "Oxygen",
-    "explanation": "Oxygen receives electrons at the end of the electron transport chain and combines with hydrogen to form water.",
-    "memoryTip": "Aerobic ends with oxygen."
-  },
-  {
-    "id": 49,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Fermentation",
-    "question": "What is a key purpose of fermentation?",
-    "hint": "It allows glycolysis to continue when an electron transport chain is unavailable.",
-    "options": [
-      "Regenerate NAD+",
-      "Produce large amounts of ATP",
-      "Use oxygen as the final acceptor",
-      "Create DNA directly"
-    ],
-    "answer": "Regenerate NAD+",
-    "explanation": "Fermentation transfers electrons from NADH to an organic molecule, regenerating NAD+ for glycolysis.",
-    "memoryTip": "Fermentation frees NAD+ for glycolysis."
-  },
-  {
-    "id": 50,
-    "chapter": 5,
-    "chapterTitle": "Microbial Metabolism",
-    "category": "Redox",
-    "question": "Oxidation is defined as what?",
-    "hint": "Use the mnemonic OIL RIG.",
-    "options": [
-      "Loss of electrons",
-      "Gain of electrons",
-      "Gain of protons only",
-      "Loss of oxygen only"
-    ],
-    "answer": "Loss of electrons",
-    "explanation": "Oxidation is the loss of electrons, while reduction is the gain of electrons.",
-    "memoryTip": "OIL RIG: Oxidation Is Loss; Reduction Is Gain."
-  },
-  {
-    "id": 51,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Requirements",
-    "question": "Which organisms grow best at moderate temperatures commonly associated with humans?",
-    "hint": "Many human pathogens belong to this group.",
-    "options": [
-      "Mesophiles",
-      "Psychrophiles",
-      "Thermophiles",
-      "Halophiles"
-    ],
-    "answer": "Mesophiles",
-    "explanation": "Mesophiles prefer moderate temperatures, often around 20–45°C.",
-    "memoryTip": "Meso = middle temperature."
-  },
-  {
-    "id": 52,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Requirements",
-    "question": "An obligate aerobe requires what for growth?",
-    "hint": "It cannot grow without this gas.",
-    "options": [
-      "Oxygen",
-      "High salt",
-      "Carbon dioxide only",
-      "Complete darkness"
-    ],
-    "answer": "Oxygen",
-    "explanation": "Obligate aerobes depend on oxygen for aerobic respiration.",
-    "memoryTip": "Obligate aerobe = oxygen obligated."
-  },
-  {
-    "id": 53,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Requirements",
-    "question": "An obligate anaerobe is harmed by what?",
-    "hint": "The substance is essential for obligate aerobes.",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Water",
-      "Carbon"
-    ],
-    "answer": "Oxygen",
-    "explanation": "Obligate anaerobes lack adequate mechanisms to neutralize toxic oxygen by-products.",
-    "memoryTip": "Obligate anaerobe = oxygen is awful."
-  },
-  {
-    "id": 54,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Requirements",
-    "question": "A facultative anaerobe can grow under which conditions?",
-    "hint": "It can switch depending on whether oxygen is available.",
-    "options": [
-      "With or without oxygen",
-      "Only without oxygen",
-      "Only in high salt",
-      "Only at freezing temperatures"
-    ],
-    "answer": "With or without oxygen",
-    "explanation": "Facultative anaerobes use oxygen when available but can grow anaerobically when it is absent.",
-    "memoryTip": "Facultative = flexible about oxygen."
-  },
-  {
-    "id": 55,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Culture Media",
-    "question": "What is the purpose of selective media?",
-    "hint": "It favors some microbes while suppressing others.",
-    "options": [
-      "Encourage selected organisms and inhibit others",
-      "Show cell shape only",
-      "Kill every microorganism",
-      "Measure viral size"
-    ],
-    "answer": "Encourage selected organisms and inhibit others",
-    "explanation": "Selective media contain substances that support desired microbes or inhibit unwanted ones.",
-    "memoryTip": "Selective media selects."
-  },
-  {
-    "id": 56,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Culture Media",
-    "question": "What is the purpose of differential media?",
-    "hint": "It makes visible differences among organisms growing on it.",
-    "options": [
-      "Distinguish microbes based on biochemical reactions",
-      "Allow only viruses to grow",
-      "Sterilize a specimen",
-      "Prevent all metabolism"
-    ],
-    "answer": "Distinguish microbes based on biochemical reactions",
-    "explanation": "Differential media contain indicators that reveal metabolic differences, often through color changes.",
-    "memoryTip": "Differential displays differences."
-  },
-  {
-    "id": 57,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Curve",
-    "question": "During which growth phase do cells adjust to a new environment but show little increase in number?",
-    "hint": "It comes before rapid division.",
-    "options": [
-      "Lag phase",
-      "Log phase",
-      "Stationary phase",
-      "Death phase"
-    ],
-    "answer": "Lag phase",
-    "explanation": "During lag phase, cells synthesize enzymes and prepare for growth.",
-    "memoryTip": "Lag = learning the new location."
-  },
-  {
-    "id": 58,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Curve",
-    "question": "During which phase does a bacterial population divide at its fastest constant rate?",
-    "hint": "It is also called the exponential phase.",
-    "options": [
-      "Log phase",
-      "Lag phase",
-      "Stationary phase",
-      "Death phase"
-    ],
-    "answer": "Log phase",
-    "explanation": "During log phase, cells undergo rapid binary fission at a constant generation time.",
-    "memoryTip": "Log = lots of growth."
-  },
-  {
-    "id": 59,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Growth Curve",
-    "question": "Why does the stationary phase occur?",
-    "hint": "Nutrients decrease and waste products accumulate.",
-    "options": [
-      "Cell division and cell death become roughly balanced",
-      "All cells immediately form spores",
-      "Cells stop all metabolism forever",
-      "Oxygen always becomes excessive"
-    ],
-    "answer": "Cell division and cell death become roughly balanced",
-    "explanation": "Limited nutrients and accumulating wastes cause the number of new cells to roughly equal the number dying.",
-    "memoryTip": "Stationary = stable population size."
-  },
-  {
-    "id": 60,
-    "chapter": 6,
-    "chapterTitle": "Microbial Growth",
-    "category": "Culturing",
-    "question": "Why is a streak-plate method used?",
-    "hint": "It spreads cells across agar in decreasing concentrations.",
-    "options": [
-      "To isolate individual colonies",
-      "To sterilize a culture",
-      "To measure viral replication",
-      "To stain endospores"
-    ],
-    "answer": "To isolate individual colonies",
-    "explanation": "Streaking progressively dilutes cells over the agar surface so isolated colonies can develop.",
-    "memoryTip": "Streak to separate."
-  },
-  {
-    "id": 61,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Control Terms",
-    "question": "What does sterilization accomplish?",
-    "hint": "It is the highest level of microbial control.",
-    "options": [
-      "Destroys or removes all microbial life, including endospores",
-      "Reduces microbes only on skin",
-      "Kills vegetative bacteria but never spores",
-      "Removes visible dirt only"
-    ],
-    "answer": "Destroys or removes all microbial life, including endospores",
-    "explanation": "Sterilization eliminates all viable microorganisms and viruses, including bacterial endospores.",
-    "memoryTip": "Sterile = zero survivors."
-  },
-  {
-    "id": 62,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Control Terms",
-    "question": "Disinfection is normally performed on what?",
-    "hint": "Think countertops and equipment.",
-    "options": [
-      "Inanimate objects",
-      "Living tissue only",
-      "Blood cells",
-      "Internal organs"
-    ],
-    "answer": "Inanimate objects",
-    "explanation": "Disinfection destroys many pathogens on nonliving surfaces but may not eliminate endospores.",
-    "memoryTip": "Disinfect objects."
-  },
-  {
-    "id": 63,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Control Terms",
-    "question": "An antiseptic is designed for use on what?",
-    "hint": "Think skin before an injection.",
-    "options": [
-      "Living tissue",
-      "Only laboratory glassware",
-      "Only floors",
-      "Only drinking water"
-    ],
-    "answer": "Living tissue",
-    "explanation": "Antiseptics reduce microorganisms on skin or other living tissue.",
-    "memoryTip": "Antiseptic = skin-safe."
-  },
-  {
-    "id": 64,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Physical Control",
-    "question": "Which method uses steam under pressure to sterilize materials?",
-    "hint": "It is commonly used in laboratories and hospitals.",
-    "options": [
-      "Autoclaving",
-      "Refrigeration",
-      "Filtration",
-      "Desiccation"
-    ],
-    "answer": "Autoclaving",
-    "explanation": "An autoclave uses pressurized steam, commonly at 121°C, to destroy microbes and endospores.",
-    "memoryTip": "Autoclave = hot pressure sterilizer."
-  },
-  {
-    "id": 65,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Physical Control",
-    "question": "Why is moist heat generally more effective than dry heat at the same temperature?",
-    "hint": "Water transfers heat efficiently and denatures proteins.",
-    "options": [
-      "It penetrates materials and denatures proteins efficiently",
-      "It freezes microbial cells",
-      "It removes all oxygen",
-      "It prevents all chemical reactions"
-    ],
-    "answer": "It penetrates materials and denatures proteins efficiently",
-    "explanation": "Moist heat transfers energy effectively and coagulates or denatures microbial proteins.",
-    "memoryTip": "Moist heat moves heat better."
-  },
-  {
-    "id": 66,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Physical Control",
-    "question": "Which method can remove microbes from heat-sensitive liquids without killing them?",
-    "hint": "The liquid passes through a membrane with tiny pores.",
-    "options": [
-      "Filtration",
-      "Boiling",
-      "Incineration",
-      "Pasteurization"
-    ],
-    "answer": "Filtration",
-    "explanation": "Filtration physically removes microorganisms from liquids or air.",
-    "memoryTip": "Filter catches microbes."
-  },
-  {
-    "id": 67,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Physical Control",
-    "question": "What is the main goal of pasteurization?",
-    "hint": "It improves safety and shelf life but does not sterilize.",
-    "options": [
-      "Reduce pathogens and spoilage organisms in beverages",
-      "Destroy every endospore",
-      "Remove all chemicals",
-      "Freeze bacterial cells"
-    ],
-    "answer": "Reduce pathogens and spoilage organisms in beverages",
-    "explanation": "Pasteurization uses controlled heat to lower microbial numbers in foods and drinks.",
-    "memoryTip": "Pasteurization makes products safer, not sterile."
-  },
-  {
-    "id": 68,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Chemical Control",
-    "question": "Alcohols primarily damage microbes by doing what?",
-    "hint": "Think proteins and membranes.",
-    "options": [
-      "Denaturing proteins and disrupting lipid membranes",
-      "Destroying only bacterial DNA",
-      "Forming endospores",
-      "Increasing cell-wall synthesis"
-    ],
-    "answer": "Denaturing proteins and disrupting lipid membranes",
-    "explanation": "Alcohols such as ethanol and isopropanol denature proteins and dissolve membrane lipids.",
-    "memoryTip": "Alcohol attacks proteins and membranes."
-  },
-  {
-    "id": 69,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Chemical Control",
-    "question": "Which group of microorganisms is generally among the most resistant to chemical disinfectants?",
-    "hint": "They are dormant survival structures.",
-    "options": [
-      "Bacterial endospores",
-      "Enveloped viruses",
-      "Vegetative bacterial cells",
-      "Yeast cells"
-    ],
-    "answer": "Bacterial endospores",
-    "explanation": "Endospores have protective layers and low metabolic activity, making them highly resistant.",
-    "memoryTip": "Endospores endure."
-  },
-  {
-    "id": 70,
-    "chapter": 7,
-    "chapterTitle": "The Control of Microbial Growth",
-    "category": "Control Terms",
-    "question": "What does the suffix “-static” mean in microbial control?",
-    "hint": "It does not necessarily kill the organism.",
-    "options": [
-      "Inhibits growth",
-      "Kills all microbes",
-      "Removes spores only",
-      "Causes mutation"
-    ],
-    "answer": "Inhibits growth",
-    "explanation": "A microbiostatic agent stops or slows microbial growth without necessarily killing cells.",
-    "memoryTip": "Static = stops growth."
-  },
-  {
-    "id": 71,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "DNA",
-    "question": "What is the main function of DNA?",
-    "hint": "It stores hereditary instructions.",
-    "options": [
-      "Store genetic information",
-      "Directly form the cell membrane",
-      "Destroy proteins",
-      "Produce ATP without enzymes"
-    ],
-    "answer": "Store genetic information",
-    "explanation": "DNA contains genes that encode cellular structures and functions.",
-    "memoryTip": "DNA = directions for all."
-  },
-  {
-    "id": 72,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "DNA",
-    "question": "Which DNA bases pair together?",
-    "hint": "Remember A–T and C–G.",
-    "options": [
-      "Adenine–thymine and cytosine–guanine",
-      "Adenine–guanine and cytosine–thymine",
-      "Adenine–uracil and cytosine–guanine",
-      "Thymine–uracil and adenine–cytosine"
-    ],
-    "answer": "Adenine–thymine and cytosine–guanine",
-    "explanation": "In DNA, adenine pairs with thymine and cytosine pairs with guanine.",
-    "memoryTip": "Apples in Trees; Cars in Garages."
-  },
-  {
-    "id": 73,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Replication",
-    "question": "Which enzyme unwinds the DNA double helix during replication?",
-    "hint": "Its name suggests separating a helix.",
-    "options": [
-      "Helicase",
-      "Ligase",
-      "RNA polymerase",
-      "Peptidase"
-    ],
-    "answer": "Helicase",
-    "explanation": "Helicase breaks hydrogen bonds and separates the two DNA strands.",
-    "memoryTip": "Helicase unzips the helix."
-  },
-  {
-    "id": 74,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Expression",
-    "question": "What is transcription?",
-    "hint": "DNA information is copied into an RNA message.",
-    "options": [
-      "The synthesis of RNA from a DNA template",
-      "The synthesis of protein from mRNA",
-      "The duplication of an entire cell",
-      "The transfer of a plasmid"
-    ],
-    "answer": "The synthesis of RNA from a DNA template",
-    "explanation": "During transcription, RNA polymerase uses DNA as a template to produce RNA.",
-    "memoryTip": "Transcription: DNA writes RNA."
-  },
-  {
-    "id": 75,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Expression",
-    "question": "What is translation?",
-    "hint": "Ribosomes decode mRNA.",
-    "options": [
-      "The synthesis of protein from mRNA",
-      "The copying of DNA",
-      "The movement of water",
-      "The transfer of electrons"
-    ],
-    "answer": "The synthesis of protein from mRNA",
-    "explanation": "During translation, ribosomes read mRNA codons and assemble amino acids into a protein.",
-    "memoryTip": "Translation turns message into protein."
-  },
-  {
-    "id": 76,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Expression",
-    "question": "What is the role of mRNA?",
-    "hint": "The m stands for messenger.",
-    "options": [
-      "Carry genetic instructions from DNA to ribosomes",
-      "Bring amino acids to the ribosome",
-      "Form the main bacterial chromosome",
-      "Cut DNA into fragments"
-    ],
-    "answer": "Carry genetic instructions from DNA to ribosomes",
-    "explanation": "Messenger RNA carries a coded copy of a gene to the ribosome.",
-    "memoryTip": "mRNA = message RNA."
-  },
-  {
-    "id": 77,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Expression",
-    "question": "What is the role of tRNA?",
-    "hint": "The t stands for transfer.",
-    "options": [
-      "Carry amino acids to the ribosome",
-      "Copy DNA into RNA",
-      "Store genes",
-      "Destroy mRNA"
-    ],
-    "answer": "Carry amino acids to the ribosome",
-    "explanation": "Transfer RNA matches its anticodon with an mRNA codon and delivers the correct amino acid.",
-    "memoryTip": "tRNA transfers amino acids."
-  },
-  {
-    "id": 78,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Mutations",
-    "question": "What is a mutation?",
-    "hint": "It is a change in nucleotide sequence.",
-    "options": [
-      "A change in genetic material",
-      "Normal ATP production",
-      "Protein folding only",
-      "Movement toward a chemical"
-    ],
-    "answer": "A change in genetic material",
-    "explanation": "A mutation is an alteration in a cell’s DNA sequence and may affect gene function.",
-    "memoryTip": "Mutation = modified DNA."
-  },
-  {
-    "id": 79,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Transfer",
-    "question": "What is bacterial conjugation?",
-    "hint": "It often uses a sex pilus.",
-    "options": [
-      "Direct DNA transfer between bacterial cells",
-      "Uptake of naked DNA from the environment",
-      "Virus-mediated DNA transfer",
-      "Cell division by binary fission"
-    ],
-    "answer": "Direct DNA transfer between bacterial cells",
-    "explanation": "During conjugation, DNA—often a plasmid—is transferred through direct cell-to-cell contact.",
-    "memoryTip": "Conjugation = connected DNA transfer."
-  },
-  {
-    "id": 80,
-    "chapter": 8,
-    "chapterTitle": "Microbial Genetics",
-    "category": "Gene Transfer",
-    "question": "What is transformation in bacteria?",
-    "hint": "The cell takes up free DNA from its surroundings.",
-    "options": [
-      "Uptake of naked environmental DNA",
-      "DNA transfer by a bacteriophage",
-      "Transfer through a pilus only",
-      "Formation of an endospore"
-    ],
-    "answer": "Uptake of naked environmental DNA",
-    "explanation": "Competent bacteria can acquire DNA fragments released into the environment.",
-    "memoryTip": "Transformation takes DNA from the terrain."
-  },
-  {
-    "id": 81,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Biotechnology",
-    "question": "What is biotechnology?",
-    "hint": "It uses organisms, cells, or biological molecules to make useful products.",
-    "options": [
-      "The use of biological systems for practical applications",
-      "The study of rocks",
-      "The destruction of all genes",
-      "The observation of cells only"
-    ],
-    "answer": "The use of biological systems for practical applications",
-    "explanation": "Biotechnology applies organisms or their components to produce products, solve problems, or perform useful processes.",
-    "memoryTip": "Biotechnology = biology put to work."
-  },
-  {
-    "id": 82,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Recombinant DNA",
-    "question": "What is recombinant DNA?",
-    "hint": "It combines DNA from different sources.",
-    "options": [
-      "DNA assembled from two or more sources",
-      "RNA made only by viruses",
-      "A bacterial cell wall polymer",
-      "A naturally occurring protein only"
-    ],
-    "answer": "DNA assembled from two or more sources",
-    "explanation": "Recombinant DNA is created by joining genetic material from different organisms or sources.",
-    "memoryTip": "Recombinant = recombined DNA."
-  },
-  {
-    "id": 83,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Molecular Tools",
-    "question": "What do restriction enzymes do?",
-    "hint": "They act like molecular scissors.",
-    "options": [
-      "Cut DNA at specific sequences",
-      "Join DNA fragments",
-      "Copy RNA into protein",
-      "Move cells through liquid"
-    ],
-    "answer": "Cut DNA at specific sequences",
-    "explanation": "Restriction enzymes recognize particular DNA sequences and cleave the DNA at or near those sites.",
-    "memoryTip": "Restriction enzymes restrict by cutting."
-  },
-  {
-    "id": 84,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Molecular Tools",
-    "question": "What does DNA ligase do in recombinant DNA procedures?",
-    "hint": "It acts like molecular glue.",
-    "options": [
-      "Joins DNA fragments",
-      "Cuts DNA at recognition sites",
-      "Separates DNA strands",
-      "Destroys plasmids"
-    ],
-    "answer": "Joins DNA fragments",
-    "explanation": "DNA ligase forms covalent bonds in the sugar-phosphate backbone, sealing DNA fragments together.",
-    "memoryTip": "Ligase links."
-  },
-  {
-    "id": 85,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Vectors",
-    "question": "Why are plasmids often used as cloning vectors?",
-    "hint": "They can carry inserted genes into bacterial cells.",
-    "options": [
-      "They replicate independently inside bacteria",
-      "They are bacterial ribosomes",
-      "They destroy all host DNA",
-      "They are made of protein only"
-    ],
-    "answer": "They replicate independently inside bacteria",
-    "explanation": "Plasmids can accept foreign DNA, enter bacterial cells, and copy themselves independently.",
-    "memoryTip": "Plasmids are portable gene packages."
-  },
-  {
-    "id": 86,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "PCR",
-    "question": "What is the purpose of polymerase chain reaction, or PCR?",
-    "hint": "It makes many copies of a selected DNA region.",
-    "options": [
-      "Amplify DNA",
-      "Translate mRNA",
-      "Stain bacterial cells",
-      "Sterilize a sample"
-    ],
-    "answer": "Amplify DNA",
-    "explanation": "PCR rapidly produces millions of copies of a targeted DNA sequence.",
-    "memoryTip": "PCR = photocopy chosen region."
-  },
-  {
-    "id": 87,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "PCR",
-    "question": "Which heat-stable enzyme is commonly used in PCR?",
-    "hint": "It originally came from a thermophilic bacterium.",
-    "options": [
-      "Taq polymerase",
-      "DNA ligase",
-      "Pepsin",
-      "Catalase"
-    ],
-    "answer": "Taq polymerase",
-    "explanation": "Taq polymerase remains functional after repeated high-temperature denaturation steps.",
-    "memoryTip": "Taq takes the heat."
-  },
-  {
-    "id": 88,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Laboratory Methods",
-    "question": "What is gel electrophoresis used to do?",
-    "hint": "DNA fragments move through a gel in an electric field.",
-    "options": [
-      "Separate DNA fragments by size",
-      "Grow bacteria on agar",
-      "Measure pH only",
-      "Destroy proteins"
-    ],
-    "answer": "Separate DNA fragments by size",
-    "explanation": "Smaller DNA fragments generally move farther through the gel than larger fragments.",
-    "memoryTip": "Gel electrophoresis sorts DNA by size."
-  },
-  {
-    "id": 89,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Applications",
-    "question": "A genetically modified organism contains what?",
-    "hint": "Its genetic material has been deliberately altered.",
-    "options": [
-      "DNA changed using biotechnology",
-      "No nucleic acid",
-      "Only natural mutations",
-      "Only viral proteins"
-    ],
-    "answer": "DNA changed using biotechnology",
-    "explanation": "A genetically modified organism has had its genome altered through genetic engineering methods.",
-    "memoryTip": "GMO = genome modified on purpose."
-  },
-  {
-    "id": 90,
-    "chapter": 9,
-    "chapterTitle": "Biotechnology and Recombinant DNA",
-    "category": "Applications",
-    "question": "What is one major medical use of recombinant DNA technology?",
-    "hint": "Bacteria can be engineered to manufacture a human hormone.",
-    "options": [
-      "Producing human insulin",
-      "Making bacterial endospores",
-      "Causing spontaneous generation",
-      "Eliminating all mutations"
-    ],
-    "answer": "Producing human insulin",
-    "explanation": "Recombinant microbes can manufacture human proteins such as insulin for medical treatment.",
-    "memoryTip": "Inserted insulin gene → insulin production."
+    "topic": "Humerus - Orientation",
+    "question": "Which two fossae are found on the anterior distal humerus?",
+    "hint": "One relates to the radius and one to the ulna.",
+    "options": [
+      "Radial and coronoid fossae",
+      "Olecranon and radial fossae",
+      "Olecranon and coronoid fossae",
+      "Radial groove and olecranon fossa"
+    ],
+    "answer": "Radial and coronoid fossae",
+    "explanation": "The radial and coronoid fossae are located anteriorly, while the olecranon fossa is posterior.",
+    "memoryTip": "Front = radial + coronoid. Back = olecranon."
   }
 ]
